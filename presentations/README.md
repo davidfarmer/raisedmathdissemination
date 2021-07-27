@@ -32,14 +32,18 @@
 * __Volker Sorge__ Multi-modal STEM Accessibility Based on Rich
   Semantics. _Invited Talk at [Workshop on mathematical and computer science
   methods for new assistive technologies for visual
-  impairments](http://www.integr-abile.unito.it/workshop2020/), Torino, 8
-  September 2020_
+  impairments](http://www.integr-abile.unito.it/workshop2020/), Torino, September
+  8 2020_
+* __Volker Sorge__ [Converting Inaccessible STEM Content to Accessible Web
+  Content](nfb20.html) _[NFB Inclusive Publishing
+  Conference](https://nfb.org/images/nfb/publications/bm/bm21/bm2105/bm210511.htm),
+  October 1 2021_
 * __Volker Sorge__ Moving STEM content online: Best practices to ensure accessibility. _Keynote at [9th International Conference on Software
   Development and Technologies for Enhancing Accessibility and Fighting
   Info-exclusion](http://dsai.ws/2020/), 4 December 2020._
 * __Volker Sorge__ Moving STEM Documents Online: Sustainable Worflows for
   Accessible Content _Keynote at [Virginia Tech Open Education
-  Symposium](https://guides.lib.vt.edu/oer/oeweek), Virgina, 4 March 2021_
+  Symposium](https://guides.lib.vt.edu/oer/oeweek), Virgina, March 4 2021_
 
 
 ## Teaching Activities 
