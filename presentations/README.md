@@ -10,8 +10,8 @@
   Nemeth Braille. _[Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2020/2245_intro), Denver, Jan 15-18, 2020._
 * __Volker Sorge, Davide P Cervone__ Transforming Math Documents with MathJax
   Version 3. _[Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2020/2245_intro), Denver, Jan 15-18, 2020._
-* __Volker Sorge__ Braille Transcription of Mathematics. Demo and Web
-  Accessibility Challenge entry. _[18th International Web for All
+* __Volker Sorge__ [Braille Transcription of Mathematics. Demo and Web
+  Accessibility Challenge entry.](w4a2021.html) _[18th International Web for All
   Conference](https://www.w4a.info/2021), April 18-20, 2021, Lyon._
 
 #### Upcoming
