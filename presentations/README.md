@@ -13,15 +13,16 @@
 * __Volker Sorge__ [Braille Transcription of Mathematics. Demo and Web
   Accessibility Challenge entry.](w4a2021.html) _[18th International Web for All
   Conference](https://www.w4a.info/2021), April 18-20, 2021, Lyon._
-
-#### Upcoming
-
 * __Rob Beezer, Michael Cantino, Alexei Kolesnikov, Al Maneki, Volker Sorge__
   Raised Mathematics Project. _[TUG 2021](https://tug.org/tug2021/), August 5-8,
-  2021_
+  2021_ [Talks](../texsymp/)
 * __Volker Sorge__ Automated Generation of Tactile Mathematics. _[Accessing
   Higher Ground](), Denver, November 15-19, 2021_
 
+#### Upcoming
+
+* __Rob Beezer, Volker Sorge__ PreTeXt for Accessible STEM Materials. _[Accessing
+  Higher Ground](), Denver, November 14-18, 2022_
 
 
 ### Presentations including Material from the Project
