@@ -1,0 +1,1050 @@
+ ,*apt} #aj ,normal ,subgr|ps & ,factor
+                 ,gr|ps
+
+  ,if .2;,h is a subgr|p ( a gr|p .2;,g1
+!n "r cosets >e n alw ! same z left
+cosets2 t is1 x is n alw ! case t _% g,h
+.k ,hg _: = all _% g `e ,g _:4 ,!
+subgr|ps = : ? prop}ty holds play a
+critical role 9 gr|p !ory,-!y all{ = !
+3/ruc;n ( a new class ( gr|ps1 call$
+factor or quoti5t gr|ps4 ,factor gr|ps
+may 2 /udi$ directly or by us+
+homomorphisms1 a g5}aliza;n (
+isomorphisms4 ,we w /udy homomorphisms 9
+,*apt} #aa4
+
+    ,sec;n #aj4a ,factor ,gr|ps &
+    ,normal ,subgr|ps
+
+      ,subsec;n ,normal ,subgr|ps
+  ,a subgr|p .2;,h ( a gr|p .2;,g is
+~1normal  9 ;,g if _% g,h .k ,hg _: =
+all _% g `e ,g _:4 ,t is1 a normal
+subgr|p ( a gr|p .2;,g is "o 9 : ! "r &
+left cosets >e precisely ! same4    #fcb
+7777777777777777777777777777777777777777
+,example  #aj4a 4
+  ,let .2;,g 2 an abelian gr|p4 ,e
+subgr|p .2;,h ( .2;,g is a normal
+subgr|p4 ,s9ce _% gh .k hg _: = all _% g
+`e ,g _: & _% h `e ,h _:1 x w alw 2 !
+case t _% g,h .k ,hg _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,example  #aj4b 4
+  ,let .2;,h 2 ! subgr|p ( _% ,s3 _:
+3si/+ ( ele;ts _% (1) _: & _% (12) _:4
+,s9ce
+_% (123),h .k .((#1 #2 #3), (#1
+#3).)and,h(#1 #2 #3) .k .((#1 #2 #3),
+(#2 #3).) _:
+1 .2;,h _c 2 a normal subgr|p (
+_% ,s3 _:4 ,h{"e1 ! subgr|p .2;,n1 3si/+
+( ! p}muta;ns _% (1) _:1 _% (#1 #2
+#3) _:1 & _% (#1 #3 #2) _:1 is normal
+s9ce ! cosets ( .2;,n >e
+
+
+                                    #fcc
+_%
+,n .k .((1), (#1 #2 #3), (#1 #3 #2).)-
+
+(#1 #2),n .k ,n(#1 #2) .k .((#1 #2), (#-
+1 #3), (#2 #3).)
+_:
+4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ !orem is funda;tal to |r
+"u/&+ ( normal subgr|ps4
+7777777777777777777777777777777777777777
+,!orem  #aj4c 4
+  ,let .2;,g 2 a gr|p & .2;,n 2 a
+subgr|p ( .2;,g4 ,!n ! foll{+ /ate;ts >e
+equival5t4
+
+#a4 ,! subgr|p .2;,n is normal 9 .2;,g4
+#b4 ,= all _% g `e ,g _:1 _% g,ng~-1 _"k
+  ,n _:4
+#c4 ,= all _% g `e ,g _:1 _% g,ng~-1 .k
+  ,n _:4
+
+gggggggggggggggggggggggggggggggggggggggg
+                                    #fcd
+7777777777777777777777777777777777777777
+,pro( 4
+  "<#a"> _% $33oo _: "<#b">4 ,s9ce .2;,n
+is normal 9 .2;,g1 _% g,n .k ,ng _: =
+all _% g `e ,g _:4 ,h;e1 = a giv5 _% g
+`e ,g _: & _% n `e ,n _:1 "! exi/s an
+_% n' _: 9 .2;,n s* t _% gn .k n~'"g _:4
+,"!=e1 _% gng~-1 .k n~'" `e ,n _: or
+_% g,ng~-1 _"k ,n _:4
+  "<#b"> _% $33oo _: "<#c">4 ,let _% g
+`e ,g _:4 ,s9ce _% g,ng~-1 _"k ,n _:1 we
+ne$ only %{ _% ,n _"k g,ng~-1 _:4 ,=
+_% n `e ,n _:1 _% g~-1"ng .k
+g~-1"n(g~-1")~-1" `e ,n _:4 ,h;e1
+_% g~-1"ng .k n' _: = "s _% n~'" `e
+,n _:4 ,"!=e1 _% n .k gn~'"g~-1 _: is 9
+_% g,ng~-1 _:4
+  "<#c"> _% $33oo _: "<#a">4 ,suppose t
+_% g,ng~-1 .k ,n _: = all _% g `e ,g _:4
+,!n = any _% n `e ,n _: "! exi/s an
+_% n~'" `e ,n _: s* t _% gng~-1 .k
+n' _:4 ,3sequ5tly1 _% gn .k n~'"g _: or
+_% g,n _"k ,ng _:4 ,simil>ly1 _% ,ng _"k
+g,n _:4
+                                    #fce
+gggggggggggggggggggggggggggggggggggggggg
+
+      ,subsec;n ,factor ,gr|ps
+  ,if .2;,n is a normal subgr|p ( a gr|p
+.2;,g1 !n ! cosets ( .2;,n 9 .2;,g =m a
+gr|p _% ,g_/,n _: "u ! op}a;n
+_% (a,n)(b,n) .k ab,n _:4 ,? gr|p is
+call$ ! ~1factor  or ~1quoti5t ~1gr|p  (
+.2;,g & .2;,n4  ,|r f/ task is to prove
+t _% ,g_/,n _: is 9de$ a gr|p4
+7777777777777777777777777777777777777777
+,!orem  #aj4d 4
+  ,let .2;,n 2 a normal subgr|p ( a gr|p
+.2;,g4 ,! cosets ( .2;,n 9 .2;,g =m a
+gr|p _% ,g_/,n _: ( ord} _% `(,g "1
+,n`) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,pro( 4
+  ,! gr|p op}a;n on _% ,g_/,n _: is
+_% (a,n)(b,n) .k ab,n _:4 ,? op}a;n m/ 2
+%{n to 2 well-def9$2 t is1 gr|p
+multiplica;n m/ 2 9dep5d5t ( ! *oice (
+coset repres5tative4 ,let _% a,n    #fcf
+.k b,n _: & _% c,n .k d,n _:4 ,we m/ %{
+t
+_% (a,n)(c,n) .k ac,n .k bd,n .k
+(b,n)(d,n) _:
+4 ,!n _% a .k bn1 _: & _% c .k dn2 _: =
+"s _% n1 _: & _% n2 _: 9 .2;,n4 ,h;e1
+_%
+ac,n      .k bn1dn2,n
+.k bn1d,n
+.k bn1,nd
+.k b,nd
+.k bd,n
+_:
+4 ,! rema9d} ( ! !orem is easy3 _% e,n
+.k ,n _: is ! id5t;y & _% g~-1",n _: is
+! 9v}se ( _% g,n _:4 ,! ord} (
+_% ,g_/,n _: is1 ( c|rse1 ! numb} (
+cosets ( .2;,n 9 .2;,g4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,x is v important to rememb} t !
+ele;ts 9 a factor gr|p >e .7sets (
+ele;ts.' 9 ! orig9al gr|p4
+7777777777777777777777777777777777777777
+,example  #aj4e 4                   #fcg
+  ,3sid} ! normal subgr|p ( _% ,s3 _:1
+_% ,n .k .((1), (#1 #2 #3), (#1 #3
+#2).) _:4 ,! cosets ( .2;,n 9 _% ,s3 _:
+>e .2;,n & _% (12),n _:4 ,! factor gr|p
+_% ,s3_/,n _: has ! foll{+ multiplica;n
+table4
+_%
+,n         (#1 #2),n
+"33333333  "33333333
+,n         ,n         (#1 #2),n
+(#1 #2),n  (#1 #2),n  ,n
+_:
+  ,? gr|p is isomorphic to _% `;,z2 _:4
+,at f/1 multiply+ cosets seems bo?
+complicat$ & /range2 h{"e1 notice t
+_% ,s3_/,n _: is a small} gr|p4 ,!
+factor gr|p 4plays a c}ta9 am.t ( 9=ma;n
+ab _% ,s3 _:4 ,actually1 _% ,n .k
+,a3 _:1 ! gr|p ( ev5 p}muta;ns1 & _% (#1
+#2),n .k .((#1 #2), (#1 #3), (#2
+#3).) _: is ! set ( odd p}muta;ns4 ,!
+9=ma;n captur$ 9 _% ,g_/,n _: is p>;y2 t
+is1 multiply+ two ev5 or two odd
+p}muta;ns results 9 an ev5 p}muta;n1
+":as multiply+ an odd p}muta;n by   #fch
+an ev5 p}muta;n yields an odd p}muta;n4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,example  #aj4f 4
+  ,3sid} ! normal subgr|p _% #3`;,z _: (
+_% `;,z _:4 ,! cosets ( _% #3`;,z _: 9
+_% `;,z _: >e
+_%
+#0+3`;,z .k .( ''', -#3, #0, #3, #6, ''-
+'.)
+#1+3`;,z .k .( ''', -#2, #1, #4, #7, ''-
+'.)
+#2+3`;,z .k .( ''', -#1, #2, #5, #8, ''-
+'.)
+_:
+4 ,! gr|p _% `;,z_/3`;,z _: is giv5 by !
+,cayley table 2l4
+_%
++         #0+3`;,z  #1+3`;,z  #2+3`;,z
+"3333333  "3333333  "3333333  "3333333
+#0+3`;,z  #0+3`;,z  #1+3`;,z  #2+3`;,z
+#1+3`;,z  #1+3`;,z  #2+3`;,z  #0+3`;,z
+#2+3`;,z  #2+3`;,z  #0+3`;,z  #1+3`;,z
+_:                                  #fci
+  ,9 g5}al1 ! subgr|p _% n`;,z _: (
+_% `;,z _: is normal4 ,! cosets (
+_% `;,z_/n`;,z _: >e
+_%
+n`;,z
+#1+n`;,z
+#2+n`;,z
+'''
+(n-1)+n`;,z
+_:
+4 ,! sum ( ! cosets _% k+n`;,z _: &
+_% l+n`;,z _: is _% k+l+n`;,z _:4
+,notice t we h writt5 |r cosets
+additively1 2c ! gr|p op}a;n is 9teg}
+addi;n4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,example  #aj4g 4
+  ,3sid} ! dih$ral gr|p _% ,d;n _:1
+g5}at$ by ! two ele;ts .2;r & .2;s1
+satisfy+ ! rela;ns
+
+
+                                    #fdj
+_%
+r~n" .k id
+s~2" .k id
+srs  .k r~-1
+_:
+4 ,! ele;t .2;r actually g5}ates !
+cyclic subgr|p ( rota;ns1 _% ,r;n _:1 (
+_% ,d;n _:4 ,s9ce _% srs~-1 .k srs .k
+r~-1" `e ,r;n _:1 ! gr|p ( rota;ns is a
+normal subgr|p ( _% ,d;n _:2 "!=e1
+_% ,d;n"_/,r;n _: is a gr|p4 ,s9ce "! >e
+exactly two ele;ts 9 ? gr|p1 x m/ 2
+isomorphic to _% `;,z2 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+    ,sec;n #aj4b ,! ,simplic;y ( !
+    ,alt}nat+ ,gr|p
+  ,( special 9t}e/ >e gr|ps ) no
+nontrivial normal subgr|ps4 ,s* gr|ps >e
+call$ ~1simple ~1gr|ps~'4  ,( c|rse1 we
+alr h a :ole class ( examples ( simple
+gr|ps1 _% `;,z;p _:1 ": .2;p is prime4
+,~! gr|ps >e trivially simple s9ce !y h
+no prop} subgr|ps o!r ?an ! subgr|p
+3si/+ solely ( ! id5t;y4 ,o!r       #fda
+examples ( simple gr|ps >e n s easily
+f.d4 ,we c1 h{"e1 %{ t ! alt}nat+ gr|p1
+_% ,a;n _:1 is simple = _% n .1: #5 _:4
+,! pro( ( ? result requires s"eal
+lemmas4
+7777777777777777777777777777777777777777
+,lemma  #aj4h 4
+  ,! alt}nat+ gr|p _% ,a;n _: is g5}at$
+by _% #3 _:-cycles = _% n .1: #3 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,pro( 4
+  ,to %{ t ! _% #3 _:-cycles g5}ate
+_% ,a;n _:1 we ne$ only %{ t any pair (
+transposi;ns c 2 writt5 z ! product (
+_% #3 _:-cycles4 ,s9ce _% (a, b) .k (b,
+a) _:1 e pair ( transposi;ns m/ 2 "o ( !
+foll{+3
+_%
+(a, b)(a, b) .k id
+(a, b)(c, d) .k (a, c, b)(a, c, d)
+(a, b)(a, c) .k (a, c, b)
+_:
+4                                   #fdb
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,lemma  #aj4i 4
+  ,let .2;,n 2 a normal subgr|p (
+_% ,a;n _:1 ": _% n .1: #3 _:4 ,if .2;,n
+3ta9s a _% #3 _:-cycle1 !n _% ,n .k
+,a;n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,pro( 4
+  ,we w f/ %{ t _% ,a;n _: is g5}at$ by
+_% #3 _:-cycles ( ! specific =m _% (i,
+j, k) _:1 ": .2i & .2;j >e fix$ 9
+_% .(1, 2, ''', n.) _: & we let .2;k
+v>y4 ,e _% #3 _:-cycle is ! product (
+_% #3 _:-cycles ( ? =m1 s9ce
+
+
+
+
+
+
+                                    #fdc
+_%
+(i, a, j) .k (i, j, a)~2"-
+
+(i, a, b) .k (i, j, b)(i, j, a)~2"-
+
+(j, a, b) .k (i, j, b)~2"(i, j, a)-
+
+(a, b, c) .k (i, j, a)~2"(i, j, c)(i, j-
+, b)~2"(i, j, a)
+_:
+4 ,n{ suppose t .2;,n is a nontrivial
+normal subgr|p ( _% ,a;n _: = _% n .1:
+#3 _: s* t .2;,n 3ta9s a _% #3 _:-cycle
+( ! =m _% (i, j, a) _:4 ,us+ ! normal;y
+( .2;,n1 we see t
+_% `((i, j)(a, k)`)(i, j, a)~2"`((i,
+j)(a, k)`)~-1 .k (i, j, k) _:
+is 9 .2;,n4 ,h;e1 .2;,n m/ 3ta9 all ( !
+_% #3 _:-cycles _% (i, j, k) _:  = _% #1
+"k: k "k: n _:4 ,by ,lemma #aj4h1 ~!
+_% #3 _:-cycles g5}ate _% ,a;n _:2 h;e1
+_% ,n .k ,a;n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                    #fdd
+7777777777777777777777777777777777777777
+,lemma  #aj4aj 4
+  ,= _% n .1: #5 _:1 e nontrivial normal
+subgr|p .2;,n ( _% ,a;n _: 3ta9s a
+_% #3 _:-cycle4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,pro( 4
+  ,let _% .s _: 2 an >bitr>y ele;t 9 a
+normal subgr|p .2;,n4 ,"! >e s"eal
+possible cycle /ructures = _% .s _:4
+
+_4 _% .s _: is a _% #3 _:-cycle4
+_4 _% .s _: is ! product ( 4jo9t cycles1
+  _% .s .k .t(a1, a2, ''', a;r") `e
+  ,n _:1 ": _% r .1 #3 _:4
+_4 _% .s _: is ! product ( 4jo9t cycles1
+  _% .s .k .t(a1, a2, a3)(a4, a5,
+  a6) _:4
+_4 _% .s .k .t(a1, a2, a3) _:1 ":
+  _% .t _: is ! product ( 4jo9t
+  #b-cycles4
+_4 _% .s .k .t(a1, a2)(a3, a4) _:1 ":
+  _% .t _: is ! product ( an ev5    #fde
+  numb} ( 4jo9t #b-cycles4
+
+,if _% .s _: is a _% #3 _:-cycle1 !n we
+>e d"o4 ,if .2;,n 3ta9s a product (
+4jo9t cycles1 _% .s _:1 & at l1/ "o ( ~!
+cycles has l5g? grt} ?an #c1 say _% .s
+.k .t(a1, a2, ''', a;r") _:1 !n
+_% (a1, a2, a3).s(a1, a2, a3)~-1 _:
+is 9 .2;,n s9ce .2;,n is normal2 h;e1
+_% .s~-1"(a1, a2, a3).s(a1, a2,
+a3)~-1 _:
+is al 9 .2;,n4 ,s9ce
+_%
+.s~-1"(a1, a2, a3).s(a1, a2, a3)~-1"-
+-
+.k .s~-1"(a1, a2, a3).s(a1, a3, a2)
+.k (a1, a2, ''', a;r")~-1".t~-1"(a1, a2-
+, a3).t(a1, a2, ''', a;r")(a1, a3, a2)
+.k (a1, a;r, a;r-1, ''', a2)(a1, a2, a3-
+)(a1, a2, ''', a;r")(a1, a3, a2)
+.k (a1, a3, a;r")-
+
+_:
+1 .2;,n m/ 3ta9 a _% #3 _:-cycle2 h;e1
+_% ,n .k ,a;n _:4                   #fdf
+  ,n{ suppose t .2;,n 3ta9s a 4jo9t
+product ( ! =m
+_% .s .k .t(a1, a2, a3)(a4, a5, a6) _:
+4 ,!n
+_% .s~-1"(a1, a2, a4).s(a1, a2, a4)~-1"
+`e ,n _:
+s9ce
+_% (a1, a2, a4).s(a1, a2, a4)~-1" `e
+,n _:
+4 ,s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #fdg
+_%
+.s~-1"(a1, a2, a4).s(a1, a2, a4)~-1"-
+-
+      .k `(.t(a1, a2, a3)(a4, a5, a6)`)-
+~-1"(a1, a2, a4).t(a1, a2, a3)(a4, a5,-
+a6)(a1, a2, a4)~-1"
+.k (a4, a6, a5)(a1, a3, a2).t~-1"(a1, a-
+2, a4).t(a1, a2, a3)(a4, a5, a6)(a1, a4-
+, a2)
+.k (a4, a6, a5)(a1, a3, a2)(a1, a2, a4)-
+(a1, a2, a3)(a4, a5, a6)(a1, a4, a2)-
+
+.k (a1, a4, a2, a6, a3)-
+-
+
+_:
+4 ,s .2;,n 3ta9s a 4jo9t cycle ( l5g?
+grt} ?an #c1 & we c apply ! previ|s
+case4
+  ,suppose .2;,n 3ta9s a 4jo9t product (
+! =m _% .s .k .t(a1, a2, a3) _:1 ":
+_% .t _: is ! product ( 4jo9t #b-cycles4
+,s9ce _% .s `e ,n _:1 _% .s~2" `e ,n _:1
+&
+                                    #fdh
+_%
+.s~2"           .k .t(a1, a2, a3).t(a1,-
+ a2, a3)
+.k (a1, a3, a2)
+_:
+4 ,s .2;,n 3ta9s a _% #3 _:-cycle4
+  ,! only rema9+ possible case is a
+4jo9t product ( ! =m
+_% .s .k .t(a1, a2)(a3, a4) _:
+1 ": _% .t _: is ! product ( an ev5
+numb} ( 4jo9t _% #2 _:-cycles4 ,b
+_% .s~-1"(a1, a2, a3).s(a1, a2,
+a3)~-1 _:
+is 9 .2;,n s9ce _% (a1, a2, a3).s(a1,
+a2, a3)~-1 _: is 9 .2;,n2 & s
+_%
+.s~-1"(a1, a2, a3).s(a1, a2, a3)~-1" .k-
+ .t~-1"(a1, a2)(a3, a4)(a1, a2, a3).t(a-
+1, a2)(a3, a4)(a1, a2, a3)~-1"
+.k (a1, a3)(a2, a4)
+_:
+4 ,s9ce _% n .1: #5 _:1 we c f9d _% b `e
+.(1, 2, ''', n.) _: s* t _% b /.k a1,
+a2, a3, a4 _:4 ,let _% .m .k (a1, a3,
+b) _:4 ,!n                          #fdi
+_% .m~-1"(a1, a3)(a2, a4).m(a1, a3)(a2,
+a4) `e ,n _:
+&
+_%
+.m~-1"(a1, a3)(a2, a4).m(a1, a3)(a2, a4-
+) .k (a1, ba3)(a1, a3)(a2, a4)(a1, a3,-
+b)(a1, a3)(a2, a4)
+.k (a1a3b)
+_:
+4 ,"!=e1 .2;,n 3ta9s a _% #3 _:-cycle4
+,? completes ! pro( ( ! lemma4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,!orem  #aj4aa 4
+  ,! alt}nat+ gr|p1 _% ,a;n _:1 is
+simple = _% n .1: #5 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,pro( 4
+  ,let .2;,n 2 a normal subgr|p (
+_% ,a;n _:4 ,by ,lemma #aj4aj1 .2;,n
+3ta9s a _% #3 _:-cycle4 ,by
+,lemma #aj4i1 _% ,n .k ,a;n _:2     #fej
+"!=e1 _% ,a;n _: 3ta9s no prop}
+nontrivial normal subgr|ps = _% n .1:
+#5 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+      ,subsec;n ,hi/orical ,note
+  ,"o ( ! =emo/ problems ( gr|p !ory has
+be5 to classify all simple f9ite gr|ps4
+,? problem is ov} a c5tury old & has be5
+solv$ only 9 ! la/ few decades ( !
+tw5tie? c5tury4 ,9 a s5se1 f9ite simple
+gr|ps >e ! build+ blocks ( all f9ite
+gr|ps4 ,! f/ nonabelian simple gr|ps to
+2 4cov}$ 7 ! alt}nat+ gr|ps4 ,galois 0 !
+f/ to prove t _% ,a5 _: 0 simple4 ,lat}1
+ma!maticians s* z ;,c4 ,jordan  & ;,l4
+;,e4 ,dickson  f.d s"eal 9f9ite families
+( matrix gr|ps t 7 simple4 ,o!r families
+( simple gr|ps 7 4cov}$ 9 ! #aiejs4 ,at
+! turn ( ! c5tury1 ,william ,burnside
+3jectur$ t all nonabelian simple gr|ps
+m/ h ev5 ord}4 ,9 #aifc1 ;,w4 ,feit  &
+;,j4 ,?ompson  prov$ ,burnside's
+3jecture & publi%$ _! results 9 ! pap}
+8,solvabil;y ( ,gr|ps ( ,odd        #fea
+,ord}10 : appe>$ 9 ! .7,pacific ,j|rnal
+(.' .1,ma!matics.'4 ,_! pro(1 runn+ ov}
+#bej pages1 gave impetus to a program 9
+! #aifjs & #aigjs to classify all f9ite
+simple gr|ps4 ,daniel ,gor5/e9  0 !
+organiz} ( ? rem>kable ef=t4 ,"o ( ! la/
+simple gr|ps 0 ! 8,mon/}10 4cov}$ by
+;,r4 ,greiss4  ,! ,mon/}1 a
+_% #196,833`*196,833 _: matrix gr|p1 is
+"o ( ! #bf sporadic1 or special1 simple
+gr|ps4 ,~! sporadic simple gr|ps >e
+gr|ps t fit 9to no 9f9ite family (
+simple gr|ps4 ,"s ( ! sporadic gr|ps
+play an important role 9 physics4
+,r1d+ ,"qs #aj4c ,r1d+ ,"qs #a 4
+  ,let .2;,g 2 ! gr|p ( symmetries ( an
+equilat}al triangle1 express$ z
+p}muta;ns ( ! v}tices numb}$ _% #1, #2,
+#3 _:4 ,let .2;,h 2 ! subgr|p _% ,h .k
+..((#1 #2)..) _:4 ,build ! left & "r
+cosets ( .2;,h 9 .2;,g4
+#b 4
+  ,bas$ on yr answ} to ! previ|s "q1 is
+.2;,h normal 9 .2;,g8 ,expla9 :y or :y
+n4                                  #feb
+#c 4
+  ,! subgr|p _% #8`;,z _: is normal 9
+_% `;,z _:4 ,9 ! factor gr|p
+_% `;,z_/8`;,z _: p}=m ! computa;n
+_% (3+8`;,z)+(7+8`;,z) _:4
+#d 4
+  ,li/ two /ate;ts ab a gr|p .2;,g & a
+subgr|p .2;,h t >e equival5t to 8.2;,h
+is normal 9 .2;,g40
+#e 4
+  ,9 yr {n ~ws1 :at is a factor gr|p8
+,ex}cises #aj4d ,ex}cises #a 4
+  ,= ea* ( ! foll{+ gr|ps .2;,g1 det}m9e
+:e!r .2;,h is a normal subgr|p ( .2;,g4
+,if .2;,h is a normal subgr|p1 write | a
+,cayley table = ! factor gr|p
+_% ,g_/,h _:4
+
+a4 _% ,g .k ,s4 _: & _% ,h .k ,a4 _:
+;b4 _% ,g .k ,a5 _: & _% ,h .k .((1),
+  (#1 #2 #3), (#1 #3 #2).) _:
+;c4 _% ,g .k ,s4 _: & _% ,h .k ,d4 _:
+;d4 _% ,g .k ,q8 _: & _% ,h .k .(1, -#1,
+  ,i, -,i.) _:
+;e4 _% ,g .k `;,z _: & _% ,h .k     #fec
+  #5`;,z _:
+
+#b 4
+  ,f9d all ! subgr|ps ( _% ,d4 _:4 ,:
+subgr|ps >e normal8 ,:at >e all ! factor
+gr|ps ( _% ,d4 _: up to isomorphism8
+#c 4
+  ,f9d all ! subgr|ps ( ! quat}nion
+gr|p1 _% ,q8 _:4 ,: subgr|ps >e normal8
+,:at >e all ! factor gr|ps ( _% ,q8 _:
+up to isomorphism8
+#d 4
+  ,let .2;,t 2 ! gr|p ( nons+ul> upp}
+triangul> _% #2`*2 _: matrices ) 5tries
+9 _% `;,r _:2 t is1 matrices ( ! =m
+_%
+,(a  b,)
+,(#0 c,)
+_:
+1 ": .2a1 .2;b1 _% c `e `;,r _: & _% ac
+/.k #0 _:4 ,let .2;,u 3si/ ( matrices (
+! =m
+
+
+                                    #fed
+_%
+,(#1 x ,)
+,(#0 #1,)
+_:
+1 ": _% x `e `;,r _:4
+
+a4 ,%{ t .2;,u is a subgr|p ( .2;,t4
+;b4 ,prove t .2;,u is abelian4
+;c4 ,prove t .2;,u is normal 9 .2;,t4
+;d4 ,%{ t _% ,t_/,u _: is abelian4
+;e4 ,is .2;,t normal 9
+  _% ,g,l2(`;,r) _:;8
+
+#e 4
+  ,%{ t ! 9t}sec;n ( two normal subgr|ps
+is a normal subgr|p4
+#f 4
+  ,if .2;,g is abelian1 prove t
+_% ,g_/,h _: m/ al 2 abelian4
+#g 4
+  ,prove or 4prove3 ,if .2;,h is a
+normal subgr|p ( .2;,g s* t .2;,h &
+_% ,g_/,h _: >e abelian1 !n .2;,g is
+abelian4
+#h 4                                #fee
+  ,if .2;,g is cyclic1 prove t
+_% ,g_/,h _: m/ al 2 cyclic4
+#i 4
+  ,prove or 4prove3 ,if .2;,h &
+_% ,g_/,h _: >e cyclic1 !n .2;,g is
+cyclic4
+#aj 4
+  ,let .2;,h 2 a subgr|p ( 9dex _% #2 _:
+( a gr|p .2;,g4 ,prove t .2;,h m/ 2 a
+normal subgr|p ( .2;,g4 ,3clude t
+_% ,s;n _: is n simple = _% n .1: #3 _:4
+#aa 4
+  ,if a gr|p .2;,g has exactly "o
+subgr|p .2;,h ( ord} .2;k1 prove t .2;,h
+is normal 9 .2;,g4
+#ab 4
+  ,def9e ! ~1c5traliz} ( an ele;t .2;g 9
+a gr|p .2;,g to 2 ! set
+_% ,c(g) .k .(x `e ,g_3xg .k gx.) _:
+4 ,%{ t _% ,c(g) _: is a subgr|p (
+.2;,g4 ,if .2;g g5}ates a normal subgr|p
+( .2;,g1 prove t _% ,c(g) _: is normal 9
+.2;,g4
+#ac 4
+  ,recall t ! ~1c5t} ( a gr|p       #fef
+.2;,g is ! set
+_% ,z(,g) .k .(x `e ,g_3xg .k gx for all
+g `e ,g.) _:
+4
+
+a4 ,calculate ! c5t} ( _% ,s3 _:4
+;b4 ,calculate ! c5t} (
+  _% ,g,l2(`;,r) _:4
+;c4 ,%{ t ! c5t} ( any gr|p .2;,g is a
+  normal subgr|p ( .2;,g4
+;d4 ,if _% ,g_/,z(,g) _: is cyclic1 %{ t
+  .2;,g is abelian4
+
+#ad 4
+  ,let .2;,g 2 a gr|p & let _% ,g' .k
+..(aba~-1"b~-1"..) _:2 t is1 _% ,g' _:
+is ! subgr|p ( all f9ite products (
+ele;ts 9 .2;,g ( ! =m _% aba~-1"b~-1 _:4
+,! subgr|p _% ,g' _: is call$ !
+~1commutator ~1subgr|p ( .2;,g4
+
+a4 ,%{ t _% ,g' _: is a normal subgr|p (
+  .2;,g4
+;b4 ,let .2;,n 2 a normal subgr|p (
+  .2;,g4 ,prove t _% ,g_/,n _: is   #feg
+  abelian if & only if .2;,n 3ta9s !
+  commutator subgr|p ( .2;,g4
+
+    ,sec;n #aj4e ,sage
+  ,sage has s"eal 3v5i5t func;ns t w
+all{ u to 9ve/igate qkly if a subgr|p is
+normal1 & if s1 ! nature ( ! result+
+quoti5t gr|p4 ,b = an 9itial "u/&+1 we c
+al "w ) ! raw cosets4 ,let u get |r h&s
+dirty f/1 !n le>n ab ! easy way4
+
+      ,subsec;n ,multiply+ ,cosets
+  ,! def9iton ( a factor gr|p requires a
+normal subgr|p1 & !n we .1def9e a way to
+8multiply0 two cosets ( ! subgr|p to
+produce ano!r coset4 ,x is important to
+r1lize t we c 9t}pret ! def9i;n ( a
+normal subgr|p to 2 .1exactly ! 3di;n we
+ne$ = |r new multiplica;n to 2 "wable4
+,we w d two examples ,- f/ ) a normal
+subgr|p1 !n ) a subgr|p t is n normal4
+  ,3sid} ! dih$ral gr|p _% ,d8 _: t is !
+symmetry gr|p ( an _% #8 _:-gon4 ,if we
+take ! ele;t t cr1tes a qu>t}-turn1 we c
+use x g5}ate a cyclic subgr|p (     #feh
+ord} #d4 ,? w 2 a normal subgr|p "<tru/
+u = ! mo;t on ?">4 ,f/1 build ! "<"r">
+cosets "<notice "! is no |tput">3
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+_g = _dihedral_group(8) quarter__turn =
+_g('(1,3,5,7)(2,4,6,8)') _s =
+_g.subgroup([quarter__turn]) _c =
+_g.cosets(_s)
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,s ;,c is a li/ ( li/s1 ) e ele;t ( !
+gr|p ;,g o3ur+ exactly once "s":4 ,y cd
+ask ,sage to pr9t | ;,c = y if y l1 b we
+w try to avoid t "h4 ,we want to
+multiply two cosets "<li/s"> tgr4 ,h{ d
+we d ?8 ,take .1any ele;t | ( ! f/ li/1
+& .1any ele;t | ( ! second li/ &
+multiply !m tgr "<: we "k h{ to d s9ce
+!y >e ele;ts ( ;,g">4 ,n{ we h an ele;t
+( ;,g4 ,:at d we d ) ? ele;t1 s9ce we
+r1lly want a coset z ! result ( !
+product ( two cosets8 ,simple ,- we see
+: coset ! product is in4 ,let u     #fei
+give x a try4 ,we w multiply coset
+_% #1 _: ) coset _% #3 _: "<"! >e
+_% #4 _: cosets by ,lagrange's ,!orem">4
+,/udy ! foll{+ code c>e;lly to see if y
+c "u/& :at x is do+1 & .1!n r1d !
+explana;n t foll{s4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+p = _>c[1][0]*c[3][0] [i for i in
+srange(len(_c)) if p in _c[i]]
+  ,|tput3
+[2]
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,:at h we a3ompli%$8 ,9 ! f/ l9e we
+cr1te ;p z ! product ( two gr|p ele;ts1
+"o f coset _% #1 _: & "o f coset
+_% #3 _: "< ,c.<#a.>1 ,c.<#c.>">4 ,s9ce
+we c *oose .1any ele;t f ea* coset1 we
+*oose ! f/ ele;t ( ea* "< ,c.<
+.>.<#j.>">4 ,!n we c.t |r way "? all !
+cosets1 select+ only cosets t 3ta9 ;p4
+,s9ce ;p w only 2 9 "o coset1 we expect
+a li/ ) j "o ele;t4 ,"h1 |r         #ffj
+"o-ele;t li/ 3ta9s only #b4 ,s we say !
+product ( coset _% #1 _: & coset
+_% #3 _: is coset _% #2 _:4
+  ,! po9t "h is t ? result "<coset
+_% #1 _: "ts coset _% #3 _: is coset
+_% #2 _:"> %d alw 2 ! same1 .7no matt} :
+ele;ts we pick f ! two cosets to =m.'
+;p4 ,s let u d x ag1 b ? "t we w n
+simply *oose ! f/ ele;t f ea* ( coset
+_% #1 _: & coset _% #3 _:1 9/1d we w
+*oose ! ?ird ele;t ( coset _% #1 _: & !
+second ele;t ( coset _% #3 _: "<rememb}1
+we >e c.t+ f z}o6">4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+p = _>c[1][2]*c[3][1] [i for i in
+srange(len(_c)) if p in _c[i]]
+  ,|tput3
+[2]
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,gd4 ,we h ! same result4 ,if y >e /
+tru/+ u on ;,s 2+ a normal subgr|p (
+;,g1 !n ? is ! result t ! !ory      #ffa
+pr$icts4 ,make a copy ( ! abv compute
+cell & try o!r *oices = ! repres5tatives
+( ea* coset4 ,!n try ! product ( o!r
+cosets1 ) v>y+ repres5tatives4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+# _practice area (not linked for _sage
+_cell use)
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,n{ is a gd "t to 9troduce a way to
+ext5d ,sage & add new func;ns4 ,we w
+design a coset-multiplica;n func;n4 ,r1d
+! foll{+ c>e;lly & !n see ! subsequ5t
+explana;n4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+def coset__product(i, j, _c):    p =
+_c[i][0]*_c[j][0]    c = [k for k in
+srange(len(_c)) if p in _c[k]]    return
+c[0]
+gggggggggggggggggggggggggggggggggggggggg
+                                    #ffb
+  ,! f/ l9e cr1tes a new ,sage func;n
+"nd coset.-product4 ,? is a3ompli%$ ) !
+~w def1 & note ! colon 5d+ ! l9e4 ,!
+9puts to ! func;n >e ! numb}s ( ! cosets
+we want to multiply & ! complete li/ ( !
+cosets4 ,! middle two l9es %d look
+famili> f abv4 ,we "k ;c is a "o-ele;t
+li/1 s c.<#j.> w extract ? "o coset
+numb}1 & return is :at det}m9es t ? is !
+|tput ( ! func;n4 ,notice t ! 9d5ta;n
+abv m/ 2 exactly z %{n4 ,we cd h writt5
+all ? computa;n on a s+le l9e )|t mak+ a
+new func;n1 b t 2g9s to get unwieldly4
+,y ne$ to execute ! code block abv to
+actually .1def9e ! func;n1 & "! w 2 no
+|tput if su3ess;l4 ,n{ we c use |r new
+func;n to rep1t |r "w abv3
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+coset__product(1, 3, _c)
+  ,|tput3
+_2
+gggggggggggggggggggggggggggggggggggggggg
+                                    #ffc
+  ,n{ y "k ! basics ( h{ to add onto
+,sage & d m* m ?an x 0 design$ =4 ,& )
+"s practice1 y cd su7e/ & 3tribute new
+func;ns to ,sage1 s9ce x is an op5 s|rce
+project4 ,nice4
+  ,n{ let u exam9e a situa;n ": !
+subgr|p is n normal4 ,s we w see t |r
+def9i;n ( coset multiplica;n is
+9su6ici5t 9 ? case4 ,& r1lize t |r new
+coset.-product func;n is al use.s s9ce x
+assumes ! cosets come f a normal
+subgr|p4
+  ,3sid} ! alt}nat+ gr|p _% ,a4 _: : we
+c 9t}pet z ! symmetry gr|p ( a
+tetrah$ron4 ,= a subgr|p1 take an ele;t
+t fixes "o v}tex & rotates ! opposite
+face ,- ? w g5}ate a cyclic subgr|p (
+ord} #c1 & by ,lagrange's ,!orem we w
+get f|r cosets4 ,we compute !m "h4
+"<,ag1 no |tput is reque/$4">
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+_g = _alternating_group(4) face__turn =
+_g("(1,2,3)") _s =                  #ffd
+_g.subgroup([face__turn]) _c =
+_g.cosets(_s)
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,ag1 let's 3sid} ! product ( coset
+_% #1 _: & coset _% #3 _:3
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+p = _>c[1][0]*c[3][0] [i for i in
+srange(len(_c)) if p in _c[i]]
+  ,|tput3
+[0]
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,ag1 b n{ = coset _% #3 _:1 *oose !
+second ele;t ( ! coset to produce !
+product ;p3
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+p = _>c[1][0]*c[3][1] [i for i in
+srange(len(_c)) if p in _c[i]]
+  ,|tput3
+[2]                                 #ffe
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,s1 is ! product ( coset _% #1 _: &
+coset _% #3 _: equal to coset _% #0 _:
+or coset _% #2 _:;8 ,we _c say6 ,s "! is
+.1no .1way to 3/ruct a quoti5t gr|p = ?
+subgr|p4 ,y c exp}i;t "s m ) ? subgr|p1
+b 9 "s s5se1 we >e d"o ) ? example ,- "!
+is no?+ left to say4
+
+      ,subsec;n ,sage ,me?ods = ,normal
+      ,subgr|ps
+  ,y c easily ask ,sage if a subgr|p is
+normal or n4 ,? is view$ z a prop}ty ( !
+subgr|p1 b y m/ tell ,sage :at !
+8sup}gr|p0 is1 s9ce ! answ} c *ange
+dep5d+ on ? value4 "<,= example
+,h4is.-normal"<,h"> w alw 2 ,true4"> ,"h
+>e |r two examples f abv4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+_g = _dihedral_group(8) quarter__turn =
+_g('(1,3,5,7)(2,4,6,8)') _s =
+_g.subgroup([quarter__turn])        #fff
+_s.is__normal(_g)
+  ,|tput3
+_true
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+_g = _alternating_group(4) face__turn =
+_g("(1,2,3)") _s =
+_g.subgroup([face__turn])
+_s.is__normal(_g)
+  ,|tput3
+_false
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! text proves 9 ,sec;n #aj4b t
+_% ,a5 _: is simple1 i4e4 _% ,a5 _: has
+no normal subgr|ps4 ,we cd build e
+subgr|p ( _% ,a5 _: & ask if x is normal
+9 _% ,a5 _: us+ ! 4is.-normal"<"> me?od4
+,b ,sage has ? cov}$ = u alr4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3                            #ffg
+_g = _alternating_group(5)
+_g.is__simple()
+  ,|tput3
+_true
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we c al build a quoti5t gr|p :5 we h
+a normal subgr|p4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+_g = _dihedral_group(8) quarter__turn =
+_g('(1,3,5,7)(2,4,6,8)') _s =
+_g.subgroup([quarter__turn]) _q =
+_g.quotient(_s) _q
+  ,|tput3
+_permutation _group with generators
+[(1,2)(3,4), (1,3)(2,4)]
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,? is use;l1 b al a bit unsettl+4 ,we
+h ! quoti5t gr|p1 b any no;n ( cosets
+has be5 lo/1 s9ce ;,q is return$ z a new
+p}muta;n gr|p on a di6}5t set ( symbols4
+,we _c presume t ! numb}s us$ = !   #ffh
+new p}muta;n gr|p ;,q be> any resembl.e
+to ! cosets we get f ! 4cosets"<">
+me?od4 ,b we c see t ! quoti5t gr|p is
+describ$ z a gr|p g5}at$ by two ele;ts (
+ord} two4 ,we cd ask = ! ord} ( ! gr|p1
+or by ,lagrange's ,!orem we "k ! quoti5t
+has ord} _% #4 _:4 ,we c say n{ t "! >e
+only two gr|ps ( ord} f|r1 ! cyclic gr|p
+( ord} _% #4 _: & a non-cyclic gr|p (
+ord} _% #4 _:1 "kn to u z ! ,kle9
+_% #4 _:-gr|p or _% `;,z2`*`;,z2 _:4 ,?
+quoti5t gr|p looks l ! non-cyclic "o
+s9ce ! cyclic gr|p ( ord} #d has j "o
+ele;t ( ord} #b4 ,let u see :at ,sage
+says4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+_q.is__isomorphic(_klein_four_group())
+  ,|tput3
+_true
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,yes1 t's x4
+  ,f9ally1 ,sage c build u a li/ (  #ffi
+all ( ! normal subgr|ps ( a gr|p4 ,! li/
+( gr|ps !mvs1 z we h se5 2f1 is "s"ts an
+ov}:elm+ am.t ( 9=ma;n4 ,we w demon/rate
+by j li/+ ! ord}s ( ! normal subgr|ps
+produc$4
+7777777777777777777777777777777777777777
+,sage
+  ,9put3
+_g = _dihedral_group(8) _n =
+_g.normal__subgroups() [_h.order() for
+_h in _n]
+  ,|tput3
+[16, 8, 8, 8, 4, 2, 1]
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,s1 9 "picul>1 we see t |r
+8qu>t}-turn0 subgr|p is ! .1only normal
+subgr|p ( ord} _% #4 _: 9 ? gr|p4
+,ex}cises #aj4f ,sage ,ex}cises #a 4
+  ,build e subgr|p ( ! alt}nat+ gr|p on
+#e symbols1 _% ,a5 _:1 & *eck t ea* is n
+a normal subgr|p "<except = ! two
+trivial cases">4 ,? comm& mi<t take a
+c|ple seconds to run4 ,comp>e ? ) ! "t
+ne$$ to run ! 4is.-simple"<">       #fgj
+me?od & r1lize t "! is a significant
+am.t ( !ory & cl"e;s br"| to be> 9 spe$+
+up comm&s l ?4 "<,x is possible t yr
+,sage 9/alla;n lacks ,,gap's 8,table (
+,m>ks0 libr>y & y w 2 unable to compute
+! li/ ( subgr|ps4">
+#b 4
+  ,3sid} ! quoti5t gr|p ( ! gr|p (
+symmetries ( an _% #8 _:-gon1 =m$ ) !
+cyclic subgr|p ( ord} _% #4 _: g5}at$ by
+a qu>t}-turn4 ,use ! coset.-product
+func;n to det}m9e ! ,cayley table = ?
+quoti5t gr|p4 ,use ! numb} ( ea* coset1
+z produc$ by ! 4cosets"<"> me?od z "ns =
+! ele;ts ( ! quoti5t gr|p4 ,y w ne$ to
+build ! table 8by h&0 z "! is no easy
+way to h ,sage's ,cayley table comm& d ?
+"o = y4 ,y c build a table 9 ! ,sage
+,notebook pop-up $itor "<%ift-click on a
+blue l9e"> or y mi<t r1d ! docu;ta;n ( !
+html4table"<"> me?od4
+#c 4
+  ,3sid} ! cyclic subgr|p ( ord}
+_% #4 _: 9 ! symmetries ( an
+_% #8 _:-gon4 ,v}ify t ! subgr|p    #fga
+is normal by f/ build+ ! raw left & "r
+cosets "<)|t us+ ! 4cosets"<"> me?od"> &
+!n *eck+ _! equal;y 9 ,sage1 all ) a
+s+le comm& t employs sort+ ) ! sort$"<">
+comm&4
+#d 4
+  ,ag1 use ! same cyclic subgr|p ( ord}
+_% #4 _: 9 ! gr|p ( symmetries ( an
+_% #8 _:-gon4 ,*eck t ! subgr|p is
+normal by us+ "p "<#b"> ( ,!orem #aj4c4
+,3/ruct a "o-l9e comm& t does ! complete
+*eck & returns ,true4 ,maybe sort !
+ele;ts ( ! subgr|p ;,s f/1 !n sl{ly
+build up ! nec li/s1 comm&s1 & 3di;ns 9
+/eps4 ,notice t ? *eck does n require "e
+build+ ! cosets4
+#e 4
+  ,rep1t ! demon/ra;n f ! previ|s
+subsec;n t = ! symmetries ( a
+tetrah$ron1 a cyclic subgr|p ( ord}
+_% #3 _: results 9 an undef9$ coset
+multiplica;n4 ,abv1 ! default sett+ = !
+4cosets"<"> me?od builds "r cosets ,- b
+9 ? problem1 "w 9/1d ) left cosets4 ,y
+ne$ to *oose two cosets to          #fgb
+multiply1 & !n demon/rate two *oices =
+repres5tatives t l1d to di6}5t results =
+! product ( ! cosets4
+#f 4
+  ,3/ruct "s dih$ral gr|ps ( ord}
+_% #2n _: "<i4e4 symmetries ( an
+.2;n-gon1 _% ,d;n _: 9 ! text1
+,dih$ral,gr|p"<n"> 9 ,sage">4 ,maybe all
+( !m = _% #3 "k: n "k: #100 _:4 ,= ea*
+dih$ral gr|p1 3/ruct a li/ ( ! ord}s (
+ea* ( ! normal subgr|ps "<s use
+4normal.-subgr|ps"<">">4 ,y may ne$ to
+wait t5 or tw5ty seconds = ? to f9i% - 2
+pati5t4 ,obs}ve 5 examples to hypo!size
+a patt}n to yr obs}va;ns1 *eck yr
+hypo!sis ag/ ea* ( yr examples & !n /ate
+yr hypo!sis cle>ly4
+  ,c y pr$ict h{ _m normal subgr|ps "!
+>e 9 ! dih$ral gr|p _% ,d470448 _: )|t
+us+ ,sage to build all ! normal
+subgr|ps8 ,c y .1describe all ( ! normal
+subgr|ps ( a dih$ral gr|p 9 a way t wd
+let u pr$ict all ( ! normal subgr|ps (
+_% ,d470448 _: )|t us+ ,sage8
+                                    #fgc
