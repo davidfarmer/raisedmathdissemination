@@ -1,0 +1,61 @@
+* Robert Beezer, Professor Emeritus, University of Puget Sound
+
+Dr. Rob Beezer is a Professor Emeritus at the University of Puget Sound, whre he
+taught mathematics for 38 years. He authored an open source linear algebra
+textbook in 2004, which continues to be popular today. Based on this experience,
+in 2013 he founded PreTeXt, an authoring and publishing platform for scholarly
+documents. It has been a pleasant surprise to see how the underlying philosophy
+of PreTeXt has led to the automated creation of multiple accessible output
+formats.
+
+
+* Michael Cantino, Accessibility Specialist, Portland, Oregon
+
+Michael Cantino is an educator, braille transcriber, and artist living in
+Portland, Oregon. Michael worked in highly-specialized K12 special education
+programs for over a decade before joining Portland Community College in 2017 as
+an Accessibility Specialist. In 2021, Michael joined Northwest Regional ESD to
+serve as the BVIS Technology Professional Development Specialist for the state
+of Oregon.
+
+Michael has participated in extensive research into the use of 3D printed models
+for blind learners, with a particular focus on the production of tactile
+maps. In 2019, he completed the large-scale Portland State University tactile
+map.
+
+
+* Alexei Kolesnikov, Professor, Towson University
+
+Dr. Alexei Kolesnikov is a Professor of Mathematics at Towson University. He has
+received a PhD in Mathematics at Carnegie Mellon University; his main research
+focus is model theory, a field of study in mathematical logic. In addition to
+research, he is interested in helping all students engage in mathematical
+professions. He has directed a large number of undergraduate research
+projects. He is a member of the Raised Mathematics Project, aiming to produce
+high quality tactile versions of mathematical texts.
+
+
+* Al Maneki, Senior STEM Advisor, NFB Jernigan Institute
+
+Dr. Al Maneki is a blind mathematician who serves as STEM advisor to the NFB
+Jernigan Institute. He has received a PhD in Mathematics from Illinois Institute
+of Technology and worked as a research mathematician for the Department of
+Defense. He is passionate about opening opportunities in the STEM fields for
+blind youth. He is a founding member of the Raised Mathematics Project. More
+information about Dr. Al Maneki can be found in [this
+article](https://nfb.org/sites/default/files/images/nfb/publications/bm/bm12/bm1207/bm120702.htm).
+
+
+* Volker Sorge, Professor, Progressive Accessibility Solutions
+
+Dr. Volker Sorge is a Professor in Document Analysis and Accessibility at the
+University of Birmingham, UK and Adjunct Faculty at IIT Delhi, India. He is
+working primarily on diagram recognition, mathematical document analysis and
+handwriting recognition. Practical applications of his research include STEM
+accessibility with a particular focus on Web technologies and eBooks. He has
+been working as a Visiting Scientist with Google on math integration into
+ChromeVox. He is a member of the MathJax consortium responsible for the
+integration of accessible rendering of mathematical formulas on the web. And
+with his company Progressive Accessibility Solutions, he concentrates on
+accessibility technology that exploits image analysis to generate accessible
+STEM diagrams.
