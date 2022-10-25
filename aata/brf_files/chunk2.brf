@@ -10,22 +10,22 @@ ma!matical 9duc;n1 ! divi.n algori?m1 &
   ,suppose we wi% to %{ t
 _% #1+2+''' +n .k ?n(n+1)/2# _:
 = any natural numb} .2;n4 ,? =mula is
-easily  v}ifi$ = small numb}s s* z _% n
-.k #1 _:1 _% #2 _:1 _% #3 _:1 or
-_% #4 _:1 b x is impossible to v}ify =
-all natural numb}s on a case-by-case
-basis4 ,to prove ! =mula true 9 g5}al1 a
-m g5}ic me?od is requir$4
+easily  v}ifi$ = small numb}s s* z
+_% n .k #1 _:1 #b1 #c1 or #d1 b x is
+impossible to v}ify = all natural numb}s
+on a case-by-case basis4 ,to prove !
+=mula true 9 g5}al1 a m g5}ic me?od is
+requir$4
   ,suppose we h v}ifi$ ! equa;n = ! f/
 .2;n cases4 ,we w attempt to %{ t we c
 g5}ate ! =mula = ! _% (n+1) _:? case f ?
 k4 ,! =mula is true = _% n .k #1 _: s9ce
 _% #1 .k ?1(1+1)/2# _:
 4 ,if we h v}ifi$ ! f/ .2;n cases1 !n
-                                     #hc
+                                     #ff
 _%
-#1+2+''' +n+(n+1)       .k ?n(n+1)/2#+n-
-+1
+#1+2+''' +n+(n+1)       .k
+?n(n+1)/2#+n+1
 .k ?n~2"+3n+2/2#
 .k ?(n+1)`((n+1)+1`)/2#
 _:
@@ -47,7 +47,7 @@ giv5 case1 !n x m/ al hold = ! next case
 ,ma!matical ,9duc;n4
   ,let _% ,s(n) _: 2 a /ate;t ab 9teg}s
 = _% n `e `;,n _: & suppose _% ,s(n0) _:
-is true = "s 9teg} _% n0 _:4 ,if =   #hd
+is true = "s 9teg} _% n0 _:4 ,if =   #fg
 all 9teg}s .2;k ) _% k .1: n0 _:1
 _% ,s(k) _: implies t _% ,s(k+1) _: is
 true1 !n _% ,s(n) _: is true = all
@@ -57,34 +57,34 @@ gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,example  #b4b 4
-  ,= all 9teg}s _% n .1: #3 _:1 _% #2~n
-.1 n+4 _:4 ,s9ce
+  ,= all 9teg}s _% n .1: #3 _:1
+_% #2~n .1 n+4 _:4 ,s9ce
 _% #8 .k #2~3 .1 #3+4 .k #7 _:
 1 ! /ate;t is true = _% n0 .k #3 _:4
-,assume t _% #2~k .1 k+4 _: = _% k .1:
-#3 _:4 ,!n _% #2~k+1 .k #2*2~k .1
-#2(k+4) _:4 ,b
+,assume t _% #2~k .1 k+4 _: =
+_% k .1: #3 _:4 ,!n
+_% #2~k+1 .k #2*2~k .1 #2(k+4) _:4 ,b
 _% #2(k+4) .k #2k+8 .1 k+5 .k (k+1)+4 _:
 s9ce .2;k is positive4 ,h;e1 by 9duc;n1
-! /ate;t holds = all 9teg}s _% n .1:
-#3 _:4
+! /ate;t holds = all 9teg}s
+_% n .1: #3 _:4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,example  #b4c 4
-  ,e 9teg} _% #10~n+1"+3*10~n"+5 _:  #he
-is divisible by _% #9 _: = _% n `e
-`;,n _:4 ,= _% n .k #1 _:1
+  ,e 9teg} _% #10~n+1"+3*10~n"+5 _:  #fh
+is divisible by #i = _% n `e `;,n _:4 ,=
+_% n .k #1 _:1
 _% #10~1+1"+3*10+5 .k #135 .k #9*15 _:
-is divisible by _% #9 _:4 ,suppose t
+is divisible by #i4 ,suppose t
 _% #10~k+1"+3*10~k"+5 _: is divisible by
-_% #9 _: = _% k .1: #1 _:4 ,!n
+#i = _% k .1: #1 _:4 ,!n
 _%
-#10~(k+1)+1"+3*10~k+1"+5     .k #10~k+2-
-"+3*10~k+1"+50-45
+#10~(k+1)+1"+3*10~k+1"+5     .k
+#10~k+2"+3*10~k+1"+50-45
 .k #10(10~k+1"+3*10~k"+5)-45
 _:
-is divisible by _% #9 _:4
+is divisible by #i4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -95,9 +95,9 @@ _%
 (a+b)~n .k ".,s%k .k #0<n},(n,)a~k"b~n-k
                           ,(k,)
 _:
-1 ": .2a & .2;b >e r1l numb}s1 _% n `e
-`;,n _:1 &
-                                     #hf
+1 ": .2a & .2;b >e r1l numb}s1
+_% n `e `;,n _:1 &
+                                     #fi
 _%
 ,(n,) .k ?n& /k& (n-k)&#
 ,(k,)
@@ -109,107 +109,46 @@ _%
 _:
 4 ,? result foll{s f
 _%
-,(n,)+,(n  ,)             .k ?n& /k& (n-
--k)& #+?n& /(k-1)& (n-k+1)& #
+,(n,)+,(n  ,)             .k ?n& /k&
+(n-k)& #+?n& /(k-1)& (n-k+1)& #
 ,(k,) ,(k-1,)
--
-
 .k ?(n+1)& /k& (n+1-k)& #
--
-
 .k ,(n+1,)
    ,(k  ,)
 _:
 4 ,if _% n .k #1 _:1 ! b9omial !orem is
 easy to v}ify4 ,n{ assume t ! result is
-true = .2;n grt} ?an or equal to     #hg
-_% #1 _:4 ,!n
+true = .2;n grt} ?an or equal to #a4 ,!n
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                     #hh
+                                     #gj
 _%
-(a+b)~n+1"-
--
-       .k (a+b)(a+b)~n"
--
--
+(a+b)~n+1"
 
-.k (a+b)(".,s%k .k #0<n},(n,)a~k"b~n-k"-
-)-
-
-                        ,(k,)-
--
-
--
--
--
--
-
-.k ".,s%k .k #0<n},(n,)a~k+1"b~n-k"+".,-
-s%k .k #0<n},(n,)a~k"b~n+1-k"-
-
-                  ,(k,)-
-            ,(k,)-
-
--                                    #hi
--
--
--
-
-.k a~n+1"+".,s%k .k #1<n},(n  ,)a~k"b~n-
-+1-k"+".,s%k .k #1<n},(n,)a~k"b~n+1-k"+-
-b~n+1"
-                         ,(k-1,)-
-                     ,(k,)-
-
--
--
--
--
-
-.k a~n+1"+".,s%k .k #1<n}`(,(n  ,)+,(n,-
-)`)a~k"b~n+1-k"+b~n+1"-
-
-                           ,(k-1,) ,(k,-
-)-
-
--
--
--
--                                    #ij
-
-.k ".,s%k .k #0<n+1},(n+1,)a~k"b~n+1-k-
--
-
-                    ,(k  ,)-
--
-
+   .k (a+b)(a+b)~n"
+.k (a+b)(".,s%k .k #0<n},(n,)a~k"b~n-k")
+                        ,(k,)
+.k ".,s%k .k
+#0<n},(n,)a~k+1"b~n-k"+".,s%k .k
+#0<n},(n,)a~k"b~n+1-k"
+                  ,(k,)
+          ,(k,)
+.k a~n+1"+".,s%k .k #1<n},(n
+,)a~k"b~n+1-k"+".,s%k .k
+#1<n},(n,)a~k"b~n+1-k"+b~n+1"
+                         ,(k-1,)
+                   ,(k,)
+.k a~n+1"+".,s%k .k #1<n}`(,(n
+,)+,(n,)`)a~k"b~n+1-k"+b~n+1"
+                           ,(k-1,) ,(k,)
+.k ".,s%k .k #0<n+1},(n+1,)a~k"b~n+1-k
+                    ,(k  ,)
 _:
 4
 gggggggggggggggggggggggggggggggggggggggg
-
-  ,we h an equival5t /ate;t ( !
+                                     #ga
+  ,we h an equival5t /ate;t ( !
 ,pr9ciple ( ,ma!matical ,9duc;n t is (t5
 v use;l4
 7777777777777777777777777777777777777777
@@ -222,8 +161,7 @@ _% ,s(n0), ,s(n0+1), ''', ,s(k) _: imply
 t _% ,s(k+1) _: = _% k .1: n0 _:1 !n !
 /ate;t _% ,s(n) _: is true = all 9teg}s
 _% n .1: n0 _:4
-                                     #ia
-gggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggg
 
   ,a nonempty subset .2;,s ( _% `;,z _:
 is ~1well-ord}$  if .2;,s 3ta9s a l1/
@@ -234,8 +172,8 @@ well-ord}$4
 7777777777777777777777777777777777777777
 ,pr9ciple  #b4f 4  ,pr9ciple (
 ,well-,ord}+4
-  ,e nonempty subset ( ! natural numb}s
-is well-ord}$4
+  ,e nonempty subset ( ! natural     #gb
+numb}s is well-ord}$4
 gggggggggggggggggggggggggggggggggggggggg
 
   ,! ,pr9ciple ( ,well-,ord}+ is
@@ -244,22 +182,23 @@ equival5t to ! ,pr9ciple ( ,ma!matical
 7777777777777777777777777777777777777777
 ,lemma  #b4g 4
   ,! ,pr9ciple ( ,ma!matical ,9duc;n
-implies t _% #1 _: is ! l1/ positive
-natural numb}4
+implies t #a is ! l1/ positive natural
+numb}4
 gggggggggggggggggggggggggggggggggggggggg
-                                     #ib
-7777777777777777777777777777777777777777
+
+7777777777777777777777777777777777777777
 ,pro( 4
-  ,let _% ,s .k .(n `e `;,n_3n .1:
-#1.) _:4 ,!n _% #1 `e ,s _:4 ,assume t
-_% n `e ,s _:4 ,s9ce _% #0 "k #1 _:1 x
-m/ 2 ! case t _% n .k n+0 "k n+1 _:4
-,"!=e1 _% #1 "k: n "k n+1 _:4
-,3sequ5tly1 if _% n `e ,s _:1 !n
-_% n+1 _: m/ al 2 9 .2;,s1 & by !
-,pr9ciple ( ,ma!matical ,9duc;n1 & we h
-_% ,s .k `;,n _:4
-gggggggggggggggggggggggggggggggggggggggg
+  ,let
+_% ,s .k .(n `e `;,n_3n .1: #1.) _:4 ,!n
+_% #1 `e ,s _:4 ,assume t _% n `e ,s _:4
+,s9ce _% #0 "k #1 _:1 x m/ 2 ! case t
+_% n .k n+0 "k n+1 _:4 ,"!=e1
+_% #1 "k: n "k n+1 _:4 ,3sequ5tly1 if
+_% n `e ,s _:1 !n _% n+1 _: m/ al 2 9
+.2;,s1 & by ! ,pr9ciple ( ,ma!matical
+,9duc;n1 & we h _% ,s .k `;,n _:4
+                                     #gc
+gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,!orem  #b4h 4
@@ -272,8 +211,8 @@ gggggggggggggggggggggggggggggggggggggggg
 7777777777777777777777777777777777777777
 ,pro( 4
   ,we m/ %{ t if .2;,s is a nonempty
-subset ( ! natural numb}s1 !n .2;,s  #ic
-3ta9s a l1/ ele;t4 ,if .2;,s 3ta9s #a1
+subset ( ! natural numb}s1 !n .2;,s
+3ta9s a l1/ ele;t4 ,if .2;,s 3ta9s #a1
 !n ! !orem is true by ,lemma #b4g4
 ,assume t if .2;,s 3ta9s an 9teg} .2;k
 s* t _% #1 "k: k "k: n _:1 !n .2;,s
@@ -283,8 +222,8 @@ to _% n+1 _:1 !n .2;,s has a l1/ ele;t4
 ,if .2;,s does n 3ta9 an 9teg} less ?an
 _% n+1 _:1 !n _% n+1 _: is ! smalle/
 9teg} 9 .2;,s4 ,o!rwise1 s9ce .2;,s is
-nonempty1 .2;,s m/ 3ta9 an 9teg} less
-?an or equal to .2;n4 ,9 ? case1 by
+nonempty1 .2;,s m/ 3ta9 an 9teg}     #gd
+less ?an or equal to .2;n4 ,9 ? case1 by
 9duc;n1 .2;,s 3ta9s a l1/ ele;t4
 gggggggggggggggggggggggggggggggggggggggg
 
@@ -293,12 +232,13 @@ def9i;ns4 ,= 9/.e1 "! >e two ways to
 def9e _% n& _:1 ! factorial ( a positive
 9teg} .2;n4
 
-_4 ,! .1explicit def9i;n3 _% n&  .k
-  #1*2*3 ''' (n-1)*n _:4
+_4 ,! .1explicit def9i;n3
+  _% n&  .k #1*2*3 ''' (n-1)*n _:4
 _4 ,! .19ductive or .1recursive def9i;n3
-  _% #1&  .k #1 _: & _% n&  .k
-  n(n-1)& _: = _% n .1 #1 _:4        #id
-,e gd ma!matician or comput} sci5ti/ "ks
+  _% #1&  .k #1 _: &
+  _% n&  .k n(n-1)& _: = _% n .1 #1 _:4
+
+,e gd ma!matician or comput} sci5ti/ "ks
 t look+ at problems recursively1 z
 oppos$ to explicitly1 (t5 results 9
 bett} "u/&+ ( complex issues4
@@ -307,11 +247,12 @@ bett} "u/&+ ( complex issues4
   ,an applica;n ( ! ,pr9ciple (
 ,well-,ord}+ t we w use (t5 is ! divi.n
 algori?m4
-7777777777777777777777777777777777777777
+                                     #ge
+7777777777777777777777777777777777777777
 ,!orem  #b4i 4  ,divi.n ,algori?m4
-  ,let .2a & .2;b 2 9teg}s1 ) _% b .1
-#0 _:4 ,!n "! exi/ unique 9teg}s .2;q &
-.2;r s* t
+  ,let .2a & .2;b 2 9teg}s1 )
+_% b .1 #0 _:4 ,!n "! exi/ unique 9teg}s
+.2;q & .2;r s* t
 _% a .k bq+r _:
 ": _% #0 "k: r "k b _:4
 gggggggggggggggggggggggggggggggggggggggg
@@ -322,47 +263,48 @@ gggggggggggggggggggggggggggggggggggggggg
 exi/;e-&-unique;s type ( pro(4 ,we m/ f/
 prove t ! numb}s .2;q & .2;r actually
 exi/4 ,!n we m/ %{ t if _% q' _: &
-_% r' _: >e two o!r s* numb}s1 !n    #ie
-_% q .k q' _: & _% r .k r' _:4
+_% r' _: >e two o!r s* numb}s1 !n
+_% q .k q' _: & _% r .k r' _:4
   .7,exi/;e ( ;q & ;r4.' ,let
 _% ,s .k .(a-bk_3k `e `;,z and a-bk .1:
 #0.) _:
 4 ,if _% #0 `e ,s _:1 !n .2;b divides
-.2a1 &  we c let _% q .k a_/b _: & _% r
-.k #0 _:4 ,if _% #0 /`e ,s _:1 we c use
-! ,well-,ord}+ ,pr9ciple4 ,we m/ f/ %{ t
-.2;,s is nonempty4 ,if _% a .1 #0 _:1 !n
-_% a-b*0 `e ,s _:4 ,if _% a "k #0 _:1 !n
+.2a1 &  we c let _% q .k a_/b _: &
+_% r .k #0 _:4 ,if _% #0 /`e ,s _:1 we c
+use ! ,well-,ord}+ ,pr9ciple4 ,we m/ f/
+%{ t .2;,s is nonempty4 ,if          #gf
+_% a .1 #0 _:1 !n _% a-b*0 `e ,s _:4 ,if
+_% a "k #0 _:1 !n
 _% a-b(2a) .k a(1-2b) `e ,s _:4 ,9 ei
 case _% ,s /.k _0 _:4 ,by ! ,well-,ord}+
 ,pr9ciple1 .2;,s m/ h a smalle/ memb}1
-say _% r .k a-bq _:4 ,"!=e1 _% a .k
-bq+r _:1 _% r .1: #0 _:4 ,we n{ %{ t
-_% r "k b _:4 ,suppose t _% r .1 b _:4
-,!n
+say _% r .k a-bq _:4 ,"!=e1
+_% a .k bq+r _:1 _% r .1: #0 _:4 ,we n{
+%{ t _% r "k b _:4 ,suppose t
+_% r .1 b _:4 ,!n
 _% a-b(q+1) .k a-bq-b .k r-b .1 #0 _:
 4 ,9 ? case we wd h _% a-b(q+1) _: 9 !
 set .2;,s4 ,b !n _% a-b(q+1) "k a-bq _:1
 : wd 3tradict ! fact t _% r .k a-bq _:
-is ! smalle/ memb}  ( .2;,s4 ,s _% r "k:
-b _:4 ,s9ce _% #0 /`e ,s _:1 _% r /.k
-b _: & s _% r "k b _:4
-  .7,unique;s ( ;q & ;r4.' ,suppose  #if
-"! exi/ 9teg}s .2;r1 _% r' _:1 .2;q1 &
+is ! smalle/ memb}  ( .2;,s4 ,s
+_% r "k: b _:4 ,s9ce _% #0 /`e ,s _:1
+_% r /.k b _: & s _% r "k b _:4
+  .7,unique;s ( ;q & ;r4.' ,suppose "!
+exi/ 9teg}s .2;r1 _% r' _:1 .2;q1 &
 _% q' _: s* t
 _% a .k bq+r, #0 "k: r "k banda .k
 bq~'"+r', #0 "k: r' "k b _:
 4 ,!n _% bq+r .k bq~'"+r' _:4 ,assume t
 _% r' .1: r _:4 ,f ! la/ equa;n we h
 _% b(q-q~'") .k r~'"-r _:2 "!=e1 .2;b m/
-divide _% r~'"-r _: & _% #0 "k: r~'"-r
-"k: r' "k b _:4 ,? is possible only if
-_% r~'"-r .k #0 _:4 ,h;e1 _% r .k r' _:
-&  _% q .k q' _:4
+divide _% r~'"-r _: &                #gg
+_% #0 "k: r~'"-r "k: r' "k b _:4 ,? is
+possible only if _% r~'"-r .k #0 _:4
+,h;e1 _% r .k r' _: &  _% q .k q' _:4
 gggggggggggggggggggggggggggggggggggggggg
 
-  ,let .2a & .2;b 2 9teg}s4 ,if _% b .k
-ak _: = "s 9teg} .2;k1 we write
+  ,let .2a & .2;b 2 9teg}s4 ,if
+_% b .k ak _: = "s 9teg} .2;k1 we write
 _% a|b _:4 ,an 9teg} .2;d is call$ a
 ~1common ~1divisor ( .2a & .2;b if
 _% d|a _: & _% d|b _:4 ,! ~7grte/ common
@@ -370,18 +312,18 @@ divisor~' ( 9teg}s .2a & .2;b is a
 positive 9teg} .2;d s* t .2;d is a
 common divisor ( .2a & .2;b & if
 _% d' _: is any o!r common divisor ( .2a
-& .2;b1 !n _% d'|d _:4  ,we write _% d
-.k gcd (a, b) _:2 = example1 _% gcd (24,
-36) .k #12 _: & _% gcd (120, 102)    #ig
-.k #6 _:4 ,we say t two 9teg}s .2a &
-.2;b >e ~1relatively ~1prime if _% gcd
-(a, b) .k #1 _:4
+& .2;b1 !n _% d'|d _:4  ,we write
+_% d .k gcd (a, b) _:2 = example1
+_% gcd (24, 36) .k #12 _: &
+_% gcd (120, 102) .k #6 _:4 ,we say t
+two 9teg}s .2a & .2;b >e ~1relatively
+~1prime if _% gcd (a, b) .k #1 _:4
 7777777777777777777777777777777777777777
 ,!orem  #b4aj 4
   ,let .2a & .2;b 2 nonz}o 9teg}s4 ,!n
 "! exi/ 9teg}s .2;r & .2;s s* t
-_% gcd (a, b) .k ar+bs _:
-4 ,fur!rmore1 ! grte/ common divisor (
+_% gcd (a, b) .k ar+bs _:            #gh
+4 ,fur!rmore1 ! grte/ common divisor (
 .2a & .2;b is unique4
 gggggggggggggggggggggggggggggggggggggggg
 
@@ -394,11 +336,10 @@ _% ,s .k .(am+bn_3m, n `e `;,z and am+bn
 by ! ,well-,ord}+ ,pr9ciple .2;,s m/ h a
 smalle/ memb}1 say _% d .k ar+bs _:4 ,we
 claim t _% d .k gcd (a, b) _:4 ,write
-_% a .k dq+r' _: ": _% #0 "k: r' "k
-d _:4 ,if _% r' .1 #0 _:1 !n
-
-                                     #ih
-_%
+_% a .k dq+r' _: ":
+_% #0 "k: r' "k d _:4 ,if
+_% r' .1 #0 _:1 !n
+_%
 r~'"              .k a-dq
 .k a-(ar+bs)q
 .k a-arq-bsq
@@ -406,8 +347,8 @@ r~'"              .k a-dq
 _:
 1 : is 9 .2;,s4 ,b ? wd 3tradict ! fact
 t .2;d is ! smalle/ memb} ( .2;,s4 ,h;e1
-_% r' .k #0 _: & .2;d divides .2a4 ,a
-simil> >gu;t %{s t .2;d divides .2;b4
+_% r' .k #0 _: & .2;d divides .2a4   #gi
+,a simil> >gu;t %{s t .2;d divides .2;b4
 ,"!=e1 .2;d is a common divisor ( .2a &
 .2;b4
   ,suppose t _% d' _: is ano!r common
@@ -422,8 +363,8 @@ m/ 2 ! unique grte/ common divisor ( .2a
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
-,coroll>y  #b4aa 4                   #ii
-  ,let .2a & .2;b 2 two 9teg}s t >e
+,coroll>y  #b4aa 4
+  ,let .2a & .2;b 2 two 9teg}s t >e
 relatively prime4 ,!n "! exi/ 9teg}s
 .2;r & .2;s s* t _% ar+bs .k #1 _:4
 gggggggggggggggggggggggggggggggggggggggg
@@ -431,34 +372,35 @@ gggggggggggggggggggggggggggggggggggggggg
       ,subsec;n ,! ,euclid1n ,algori?m
   ,am;g o!r ?+s1 ,!orem #b4aj all{s u to
 compute ! grte/ common divisor ( two
-9teg}s4
-7777777777777777777777777777777777777777
+9teg}s4                              #hj
+7777777777777777777777777777777777777777
 ,example  #b4ab 4
   ,let u compute ! grte/ common divisor
-( _% #945 _: & _% #2415 _:4 ,f/ obs}ve t
+( #ide & #bdae4 ,f/ obs}ve t
 _%
 #2415 .k #945*2+525
 #945  .k #525*1+420
 #525  .k #420*1+105
 #420  .k #105*4+0
 _:
-4 ,rev}s+ |r /eps1 _% #105 _: divides
-_% #420 _:1 _% #105 _: divides
-_% #525 _:1 _% #105 _: divides
-_% #945 _:1 & _% #105 _: divides
-_% #2415 _:4 ,h;e1 _% #105 _: divides
-bo? _% #945 _: & _% #2415 _:4 ,if   #ajj
-.2;d 7 ano!r common divisor ( _% #945 _:
-& _% #2415 _:1 !n .2;d wd al h to divide
-_% #105 _:4 ,"!=e1 _% gcd (945, 2415) .k
-#105 _:4
+4 ,rev}s+ |r /eps1 #aje divides #dbj1
+#aje divides #ebe1 #aje divides #ide1 &
+#aje divides #bdae4 ,h;e1 #aje divides
+bo? #ide & #bdae4 ,if .2;d 7 ano!r
+common divisor ( #ide & #bdae1 !n .2;d
+wd al h to divide #aje4 ,"!=e1
+_% gcd (945, 2415) .k #105 _:4
   ,if we "w backw>d "? ! abv sequ;e (
 equa;ns1 we c al obta9 numb}s .2;r &
 .2;s s* t _% #945r+2415s .k #105 _:4
 ,obs}ve t
-_%
-#105                               .k #-
-525+(-#1)*420
+
+
+
+                                     #ha
+_%
+#105                               .k
+#525+(-#1)*420
 .k #525+(-#1)*`(945+(-#1)*525`)
 .k #2*525+(-#1)*945
 .k #2*`(2415+(-#2)*945`)+(-#1)*945
@@ -472,9 +414,16 @@ gggggggggggggggggggggggggggggggggggggggg
 
   ,to compute _% gcd (a, b) .k d _:1 we
 >e us+ rep1t$ divi.ns to obta9 a decr1s+
-sequ;e ( positive 9teg}s _% r1 .1   #aja
-r2 .1 '''  .1 r;n .k d _:2 t is1
-_%
+sequ;e ( positive 9teg}s
+_% r1 .1 r2 .1 '''  .1 r;n .k d _:2 t
+is1
+
+
+
+
+
+                                     #hb
+_%
 b      .k aq1+r1
 a      .k r1q2+r2
 r1     .k r2q3+r3
@@ -482,11 +431,12 @@ r1     .k r2q3+r3
 r;n-2" .k r;n-1"q;n"+r;n"
 r;n-1" .k r;n"q;n+1
 _:
-4 ,to f9d .2;r & .2;s s* t _% ar+bs .k
-d _:1 we 2g9 ) ? la/ equa;n & sub/itute
-results obta9$ f ! previ|s equa;ns3
+4 ,to f9d .2;r & .2;s s* t
+_% ar+bs .k d _:1 we 2g9 ) ? la/ equa;n
+& sub/itute results obta9$ f ! previ|s
+equa;ns3
 _%
-d                                   .k-
+d                                   .k
 r;n"
 .k r;n-2"-r;n-1"q;n"
 .k r;n-2"-q;n"(r;n-3"-q;n-1"r;n-2")
@@ -497,16 +447,16 @@ _:
 4 ,! algori?m t we h j us$ to f9d !
 grte/ common divisor .2;d ( two 9teg}s
 .2a & .2;b & to write .2;d z ! l9e>
-comb9a;n ( .2a & .2;b is "kn z !    #ajb
+comb9a;n ( .2a & .2;b is "kn z !     #hc
 ~1,euclid1n ~1algori?m~'4
 
       ,subsec;n ,prime ,numb}s
-  ,let .2;p 2 an 9teg} s* t _% p .1
-#1 _:4 ,we say t .2;p is a ~1prime
-~1numb}~'1  or simply .2;p is ~1prime~'1
-if ! only positive numb}s t divide .2;p
->e _% #1 _: & .2;p xf4 ,an 9teg} _% n .1
-#1 _: t is n prime is sd to 2
+  ,let .2;p 2 an 9teg} s* t
+_% p .1 #1 _:4 ,we say t .2;p is a
+~1prime ~1numb}~'1  or simply .2;p is
+~1prime~'1 if ! only positive numb}s t
+divide .2;p >e #a & .2;p xf4 ,an 9teg}
+_% n .1 #1 _: t is n prime is sd to 2
 ~1composite~'4
 7777777777777777777777777777777777777777
 ,lemma  #b4ac 4  ,euclid4
@@ -518,13 +468,13 @@ gggggggggggggggggggggggggggggggggggggggg
 7777777777777777777777777777777777777777
 ,pro( 4
   ,suppose t .2;p does n divide .2a4 ,we
-m/ %{ t _% p|b _:4 ,s9ce _% gcd (a, p)
-.k #1 _:1 "! exi/ 9teg}s .2;r & .2;s s*
-t _% ar+ps .k #1 _:4 ,s
+m/ %{ t _% p|b _:4 ,s9ce
+_% gcd (a, p) .k #1 _:1 "! exi/ 9teg}s
+.2;r & .2;s s* t _% ar+ps .k #1 _:4 ,s
 _% b .k b(ar+ps) .k (ab)r+p(bs) _:
-4 ,s9ce .2;p divides bo? _% ab _:   #ajc
-& xf1 .2;p m/ divide _% b .k
-(ab)r+p(bs) _:4
+4 ,s9ce .2;p divides bo? _% ab _: &  #hd
+xf1 .2;p m/ divide
+_% b .k (ab)r+p(bs) _:4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -538,19 +488,21 @@ gggggggggggggggggggggggggggggggggggggggg
 ,suppose t "! >e only a f9ite numb} (
 primes1 say _% p1, p2, ''', p;n _:4 ,let
 _% ,p .k p1p2 ''' p;n"+1 _:4 ,!n .2;,p
-m/ 2 divisible by "s _% p;i _: = _% #1
-"k: i "k: n _:4 ,9 ? case1 _% p;i _: m/
-divide _% ,p-p1p2 ''' p;n .k #1 _:1 : is
-a 3tradic;n4 ,h;e1 ei .2;,p is prime or
-"! exi/s an addi;nal prime numb} _% p
-/.k p;i _: t divides .2;,p4
+m/ 2 divisible by "s _% p;i _: =
+_% #1 "k: i "k: n _:4 ,9 ? case1
+_% p;i _: m/ divide
+_% ,p-p1p2 ''' p;n .k #1 _:1 : is a
+3tradic;n4 ,h;e1 ei .2;,p is prime or "!
+exi/s an addi;nal prime numb}
+_% p /.k p;i _: t divides .2;,p4
 gggggggggggggggggggggggggggggggggggggggg
 
-7777777777777777777777777777777777777777
-,!orem  #b4ae 4  ,funda;tal ,!orem  #ajd
-( ,>i?metic4
-  ,let .2;n 2 an 9teg} s* t _% n .1
-#1 _:4 ,!n
+                                     #he
+7777777777777777777777777777777777777777
+,!orem  #b4ae 4  ,funda;tal ,!orem (
+,>i?metic4
+  ,let .2;n 2 an 9teg} s* t
+_% n .1 #1 _:4 ,!n
 _% n .k p1p2 ''' p;k _:
 1 ": _% p1, ''', p;k _: >e  primes "<n
 necess>ily 4t9ct">4 ,fur!rmore1 ?
@@ -570,35 +522,37 @@ prime4 ,n{ assume t ! result holds = all
 _% n .k p1p2 ''' p;k .k q1q2 ''' q;l _:
 1 ": _% p1 "k: p2 "k: '''  "k: p;k _: &
 _% q1 "k: q2 "k: '''  "k: q;l _:4 ,by
-,lemma #b4ac1 _% p1|q;i _: = "s _% i .k
-#1, ''', l _: & _% q1|p;j _: = "s _% j
-.k #1, ''', k _:4 ,s9ce all ( !     #aje
-_% p;i _:'s & _% q;i _:'s >e prime1
+,lemma #b4ac1 _% p1|q;i _: = "s      #hf
+_% i .k #1, ''', l _: & _% q1|p;j _: =
+"s _% j .k #1, ''', k _:4 ,s9ce all ( !
+_% p;i _:'s & _% q;i _:'s >e prime1
 _% p1 .k q;i _: &  _% q1 .k p;j _:4
-,h;e1 _% p1 .k q1 _: s9ce _% p1 "k: p;j
-.k q1 "k: q;i .k p1 _:4 ,by ! 9duc;n
-hypo!sis1
+,h;e1 _% p1 .k q1 _: s9ce
+_% p1 "k: p;j .k q1 "k: q;i .k p1 _:4
+,by ! 9duc;n hypo!sis1
 _% n' .k p2 ''' p;k .k q2 ''' q;l _:
-has a unique factoriza;n4 ,h;e1 _% k .k
-l _: & _% q;i .k p;i _: = _% i .k #1,
-''', k _:4
+has a unique factoriza;n4 ,h;e1
+_% k .k l _: & _% q;i .k p;i _: =
+_% i .k #1, ''', k _:4
   .1,exi/;e4 ,to %{ exi/;e1 suppose t "!
 is "s 9teg} t _c 2 writt5 z ! product (
 primes4 ,let .2;,s 2 ! set ( all s*
 numb}s4 ,by ! ,pr9ciple ( ,well-,ord}+1
 .2;,s has a smalle/ numb}1 say .2a4 ,if
 ! only positive factors ( .2a >e .2a &
-_% #1 _:1 !n .2a is prime1 : is a
-3tradic;n4 ,h;e1 _% a .k a1a2 _: ":
-_% #1 "k a1 "k a _: & _% #1 "k a2 "k
-a _:4 ,nei _% a1 `e ,s _: nor _% a2 `e
-,s _:1 s9ce .2a is ! smalle/ ele;t 9
-.2;,s4 ,s
-_%
+#a1 !n .2a is prime1 : is a 3tradic;n4
+,h;e1 _% a .k a1a2 _: ":
+_% #1 "k a1 "k a _: &
+_% #1 "k a2 "k a _:4 ,nei _% a1 `e ,s _:
+nor _% a2 `e ,s _:1 s9ce .2a is !
+smalle/ ele;t 9 .2;,s4 ,s
+
+                                     #hg
+_%
 a1 .k p1 ''' p;r"
 a2 .k q1 ''' q;s
-_:                                  #ajf
-4 ,"!=e1
+_:
+4 ,"!=e1
 _% a .k a1a2 .k p1 ''' p;r"q1 ''' q;s _:
 4 ,s _% a /`e ,s _:1 : is a 3tradic;n4
 gggggggggggggggggggggggggggggggggggggggg
@@ -618,37 +572,41 @@ _% #2~2~~n~"+1 _: 0 prime = all .2;n1 b
 lat} x 0 %{n by ,leonh>d ,eul}
 "<#agjg,-#aghc"> t
 _% #2~2~~5~"+1 .k #4,294,967,297 _:
-is a composite numb}4 ,"o ( ! _m unprov5
-3jectures ab prime numb}s is ,goldba*'s
-,3jecture4 ,9 a lr to ,eul} 9 #agdb1
-,*ri/ian ,goldba* /at$ ! 3jecture t e
-ev5 9teg} ) ! excep;n ( _% #2 _:    #ajg
-seem$ to 2 ! sum ( two primes3 _% #4 .k
-#2+2 _:1 _% #6 .k #3+3 _:1 _% #8 .k
-#3+5 _:1 _%  ''' _:4 ,al? ! 3jecture has
-be5 v}ifi$ = ! numb}s up "?
-_% #4`*10~18 _:1 x has yet to 2 prov5 9
-g5}al4 ,s9ce prime numb}s play an
-important role 9 public key
-cryptography1 "! is curr5tly a grt d1l (
-9t}e/ 9 det}m9+ :e!r or n a l>ge numb}
-is prime4
+is a composite numb}4 ,"o ( ! _m     #hh
+unprov5 3jectures ab prime numb}s is
+,goldba*'s ,3jecture4 ,9 a lr to ,eul} 9
+#agdb1 ,*ri/ian ,goldba* /at$ ! 3jecture
+t e ev5 9teg} ) ! excep;n ( #b seem$ to
+2 ! sum ( two primes3 _% #4 .k #2+2 _:1
+_% #6 .k #3+3 _:1 _% #8 .k #3+5 _:1 _%
+''' _:4 ,al? ! 3jecture has be5 v}ifi$ =
+! numb}s up "? _% #4`*10~18 _:1 x has
+yet to 2 prov5 9 g5}al4 ,s9ce prime
+numb}s play an important role 9 public
+key cryptography1 "! is curr5tly a grt
+d1l ( 9t}e/ 9 det}m9+ :e!r or n a l>ge
+numb} is prime4
+,sage4
+  ,sage's orig9al purpose 0 to support
+rese>* 9 numb} !ory1 s x is p}fect = !
+types ( computa;ns ) ! 9teg}s t we h 9 ?
+*apt}4
 ,r1d+ ,"qs #b4c ,r1d+ ,"qs #a 4
-  ,use ,sage to express _% #123456792 _:
-z a product ( prime numb}s4
+  ,use ,sage to express #abcdefgib z a
+product ( prime numb}s4
 #b 4
-  ,f9d ! grte/ common divisor (
-_% #84 _: & _% #52 _:4
-#c 4
-  ,f9d 9teg}s .2;r & .2;s s t
+  ,f9d ! grte/ common divisor ( #hd &
+#eb4
+#c 4                                 #hi
+  ,f9d 9teg}s .2;r & .2;s s t
 _% r(84)+s(52) .k gcd (84, 52) _:4
 #d 4
   ,expla9 ! use ( ! t}m 89duc;n
 hypo!sis40
 #e 4
   ,:at is ,goldba*'s ,3jecture8 ,& :y is
-x call$ a 83jecture08               #ajh
-,ex}cises #b4d ,ex}cises #a 4
+x call$ a 83jecture08
+,ex}cises #b4d ,ex}cises #a 4
   ,prove t
 _% #1~2"+2~2+''' +n~2 .k
 ?n(n+1)(2n+1)/6# _:
@@ -659,21 +617,20 @@ _% #1~3"+2~3+''' +n~3 .k
 ?n~2"(n+1)~2"/4# _:
 = _% n `e `;,n _:4
 #c 4
-  ,prove t _% n&  .1 #2~n _: = _% n .1:
-#4 _:4
+  ,prove t _% n&  .1 #2~n _: =
+_% n .1: #4 _:4
 #d 4
   ,prove t
 _% x+4x+7x+''' +(3n-2)x .k
-?n(3n-1)x/2# _:
-= _% n `e `;,n _:4
+?n(3n-1)x/2# _:                      #ij
+= _% n `e `;,n _:4
 #e 4
   ,prove t _% #10~n+1"+10~n"+1 _: is
-divisible by _% #3 _: = _% n `e `;,n _:4
+divisible by #c = _% n `e `;,n _:4
 #f 4
   ,prove t _% #4*10~2n"+9*10~2n-1"+5 _:
-is divisible by _% #99 _: = _% n `e
-`;,n _:4                            #aji
-#g 4
+is divisible by #ii = _% n `e `;,n _:4
+#g 4
   ,%{ t
 _% <n>a1a2 ''' a;n"} "k: ?1/n#".,s%k .k
 #1<n}a;k _:
@@ -683,24 +640,24 @@ _% <n>a1a2 ''' a;n"} "k: ?1/n#".,s%k .k
 _% f~(n)"(x) _:1 ": _% f~(n) _: is !
 .2n? d}ivative ( .2;f2 t is1 %{ t
 _%
-(fg)~(n)"(x) .k ".,s%k .k #0<n},(n,)f~(-
-k)"(x)g~(n-k)"(x)
-                               ,(k,)-
-
+(fg)~(n)"(x) .k ".,s%k .k
+#0<n},(n,)f~(k)"(x)g~(n-k)"(x)
+                               ,(k,)
 _:
 4
 #i 4
-  ,use 9duc;n to prove t _% #1+2+2~2+'''
-+2~n .k #2~n+1"-1 _: = _% n `e `;,n _:4
+  ,use 9duc;n to prove t
+_% #1+2+2~2+''' +2~n .k #2~n+1"-1-   #ia
+_: = _% n `e `;,n _:4
 #aj 4
   ,prove t
 _% ?1/2#+?1/6#+''' +?1/n(n+1)# .k
 ?n/n+1# _:
 = _% n `e `;,n _:4
-#aa 4                               #aaj
-  ,if .2;x is a nonnegative r1l numb}1
-!n %{ t _% (1+x)~n"-1 .1: nx _: = _% n
-.k #0, #1, #2, ''' _:4
+#aa 4
+  ,if .2;x is a nonnegative r1l numb}1
+!n %{ t _% (1+x)~n"-1 .1: nx _: =
+_% n .k #0, #1, #2, ''' _:4
 #ab 4  ,p{} ,sets4
   ,let .2;,x 2 a set4 ,def9e ! ~1p{}
 ~1set ( .2;,x1 d5ot$ _% `;,p(,x) _:1 to
@@ -715,55 +672,62 @@ exactly _% #2~n _: ele;ts4
   ,prove t ! two pr9ciples ( ma!matical
 9duc;n /at$ 9 ,sec;n #b4a >e equival5t4
 #ad 4
-  ,%{ t ! ,pr9ciple ( ,well-,ord}+ = !
-natural numb}s implies t #a is ! smalle/
-natural numb}4 ,use ? result to %{ t !
-,pr9ciple ( ,well-,ord}+ implies !
-,pr9ciple ( ,ma!matical ,9duc;n2 t is1
-%{ t if _% ,s _"k `;,n _: s* t _% #1 `e
-,s _: & _% n+1 `e ,s _: :5"e _% n `e
-,s _:1 !n _% ,s .k `;,n _:4         #aaa
-#ae 4
+  ,%{ t ! ,pr9ciple ( ,well-,ord}+   #ib
+= ! natural numb}s implies t #a is !
+smalle/ natural numb}4 ,use ? result to
+%{ t ! ,pr9ciple ( ,well-,ord}+ implies
+! ,pr9ciple ( ,ma!matical ,9duc;n2 t is1
+%{ t if _% ,s _"k `;,n _: s* t
+_% #1 `e ,s _: & _% n+1 `e ,s _: :5"e
+_% n `e ,s _:1 !n _% ,s .k `;,n _:4
+#ae 4
   ,= ea* ( ! foll{+ pairs ( numb}s .2a &
 .2;b1 calculate _% gcd (a, b) _: & f9d
-9teg}s .2;r & .2;s s* t _% gcd (a, b) .k
-ra+sb _:4
+9teg}s .2;r & .2;s s* t
+_% gcd (a, b) .k ra+sb _:4
 
-a4 _% #14 _: & _% #39 _:
-;b4 _% #234 _: & _% #165 _:
-;c4 _% #1739 _: & _% #9923 _:
-;d4 _% #471 _: & _% #562 _:
-;e4 _% #23771 _: & _% #19945 _:
-;f4 _% -#4357 _: & _% #3754 _:
+a4 #ad & #ci
+;b4 #bcd & #afe
+;c4 #agci & #iibc
+;d4 #dga & #efb
+;e4 #bcgga & #aiide
+;f4 _% -#4357 _: & #cged
 
 #af 4
   ,let .2a & .2;b 2 nonz}o 9teg}s4 ,if
-"! exi/ 9teg}s .2;r & .2;s s* t _% ar+bs
-.k #1 _:1 %{ t .2a & .2;b >e relatively
-prime4
-#ag 4  ,fibona3i ,numb}s4
+"! exi/ 9teg}s .2;r & .2;s s* t
+_% ar+bs .k #1 _:1 %{ t .2a & .2;b >e
+relatively prime4                    #ic
+#ag 4  ,fibona3i ,numb}s4
   ,! ,fibona3i numb}s >e
 _% #1, #1, #2, #3, #5, #8, #13, #21,
 ''' _:
-4 ,we c def9e !m 9ductively by _% f1 .k
-#1 _:1 _% f2 .k #1 _:1 & _% f;n+2 .k
-f;n+1"+f;n _: = _% n `e `;,n _:4    #aab
-a4 ,prove t _% f;n "k #2~n _:4
-;b4 ,prove t _% f;n+1"f;n-1 .k
-  f;n~2"+(-1)~n _:1 _% n .1: #2 _:4
-;c4 ,prove t _% f;n .k
-  `((1+>5})~n"-(1->5})~n"`)_/2~n">5} _:4
-;d4 ,%{ t _% .f .k "lim%n $o ,=}
-  f;n+1"_/f;n .k (>5}+1)_/2 _:4  ,!
-  3/ant _% .f _: is "kn z ! ~1gold5
-  ~1ratio~'4
+4 ,we c def9e !m 9ductively by
+_% f1 .k #1 _:1 _% f2 .k #1 _:1 &
+_% f;n+2 .k f;n+1"+f;n _: =
+_% n `e `;,n _:4
+
+a4 ,prove t _% f;n "k #2~n _:4
+;b4 ,prove t
+  _% f;n+1"f;n-1 .k f;n~2"+(-1)~n _:1
+  _% n .1: #2 _:4
+;c4 ,prove t
+  _% f;n .k
+  `((1+>5})~n"-(1->5})~n"`)_/2~n">5} _:
+  4
+;d4 ,%{ t
+  _% .f .k "lim%n $o ,=} f;n+1"_/f;n .k
+  (>5}+1)_/2 _:
+  4  ,! 3/ant _% .f _: is "kn z !
+  ~1gold5 ~1ratio~'4
 ;e4 ,prove t _% f;n _: & _% f;n+1 _: >e
   relatively prime4
-
-#ah 4
-  ,let .2a & .2;b 2 9teg}s s* t _% gcd
-(a, b) .k #1 _:4 ,let .2;r & .2;s 2
-9teg}s s* t _% ar+bs .k #1 _:4 ,prove t
+                                     #id
+#ah 4
+  ,let .2a & .2;b 2 9teg}s s* t
+_% gcd (a, b) .k #1 _:4 ,let .2;r & .2;s
+2 9teg}s s* t _% ar+bs .k #1 _:4 ,prove
+t
 _% gcd (a, s) .k gcd (r, b) .k gcd (r,
 s) .k #1 _:
 4
@@ -772,8 +736,8 @@ s) .k #1 _:
 prime4 ,if _% xy _: is a p}fect squ>e1
 prove t .2;x & .2;y m/ bo? 2 p}fect
 squ>es4
-#bj 4                               #aac
-  ,us+ ! divi.n algori?m1 %{ t e p}fect
+#bj 4
+  ,us+ ! divi.n algori?m1 %{ t e p}fect
 squ>e is ( ! =m _% #4k _: or _% #4k+1 _:
 = "s nonnegative 9teg} .2;k4
 #ba 4
@@ -783,37 +747,39 @@ _%
 a~2"+b~2" .k r~2"
 a~2"-b~2" .k s~2
 _:
-4 ,prove t .2a1 .2;r1 & .2;s >e odd &
-.2;b is ev54
+4 ,prove t .2a1 .2;r1 & .2;s >e odd  #ie
+& .2;b is ev54
 #bb 4
   ,let _% n `e `;,n _:4 ,use ! divi.n
 algori?m to prove t e 9teg} is 3gru5t
 mod .2;n to precisely "o ( ! 9teg}s
 _% #0, #1, ''', n-1 _:4 ,3clude t if
 .2;r is an 9teg}1 !n "! is exactly "o
-.2;s 9 _% `;,z _: s* t _% #0 "k: s "k
-n _: & _% `(r`) .k `(s`) _:4 ,h;e1 !
-9teg}s >e 9de$ "pi;n$ by 3gru;e mod
-.2;n4
+.2;s 9 _% `;,z _: s* t
+_% #0 "k: s "k n _: &
+_% `(r`) .k `(s`) _:4 ,h;e1 ! 9teg}s >e
+9de$ "pi;n$ by 3gru;e mod .2;n4
 #bc 4
   ,def9e ! ~7l1/ common multiple~' ( two
-nonz}o 9teg}s .2a & .2;b1 d5ot$ by  #aad
-_% lcm(a, b) _:1 to 2 ! nonnegative
+nonz}o 9teg}s .2a & .2;b1 d5ot$ by
+_% lcm(a, b) _:1 to 2 ! nonnegative
 9teg} .2;m s* t bo? .2a & .2;b divide
 .2;m1 & if .2a & .2;b divide any o!r
 9teg} .2;n1 !n .2;m al divides .2;n4
 ,prove "! exi/s a unique l1/ common
 multiple = any two 9teg}s .2a & .2;b4
 #bd 4
-  ,if _% d .k gcd (a, b) _: & _% m .k
-lcm(a, b) _:1 prove t _% dm .k |ab| _:4
-#be 4
-  ,%{ t _% lcm(a, b) .k ab _: if & only
+  ,if _% d .k gcd (a, b) _: &
+_% m .k lcm(a, b) _:1 prove t
+_% dm .k |ab| _:4
+#be 4                                #if
+  ,%{ t _% lcm(a, b) .k ab _: if & only
 if _% gcd (a, b) .k #1 _:4
 #bf 4
-  ,prove t _% gcd (a, c) .k gcd (b, c)
-.k #1 _: if & only if _% gcd (ab, c) .k
-#1 _: = 9teg}s .2a1 .2;b1 & .2;c4
+  ,prove t
+_% gcd (a, c) .k gcd (b, c) .k #1 _: if
+& only if _% gcd (ab, c) .k #1 _: =
+9teg}s .2a1 .2;b1 & .2;c4
 #bg 4
   ,let _% a, b, c `e `;,z _:4 ,prove t
 if _% gcd (a, b) .k #1 _: & _% a|bc _:1
@@ -822,58 +788,58 @@ if _% gcd (a, b) .k #1 _: & _% a|bc _:1
   ,let _% p .1: #2 _:4 ,prove t if
 _% #2~p"-1 _: is prime1 !n .2;p m/ al 2
 prime4
-#bi 4                               #aae
-  ,prove t "! >e an 9f9ite numb} (
+#bi 4
+  ,prove t "! >e an 9f9ite numb} (
 primes ( ! =m _% #6n+5 _:4
 #cj 4
   ,prove t "! >e an 9f9ite numb} (
 primes ( ! =m _% #4n-1 _:4
 #ca 4
-  ,us+ ! fact t _% #2 _: is prime1 %{ t
-"! d n exi/ 9teg}s .2;p & .2;q s* t
-_% p~2 .k #2q~2 _:4 ,demon/rate t "!=e
-_% >2} _: _c 2 a ra;nal numb}4
+  ,us+ ! fact t #b is prime1 %{ t "! d n
+exi/ 9teg}s .2;p & .2;q s* t
+_% p~2 .k #2q~2 _:4 ,demon/rate t    #ig
+"!=e _% >2} _: _c 2 a ra;nal numb}4
 ,ex}cises #b4e ,programm+ ,ex}cises #a 4
  ,! ,sieve ( ,}atos!nes4
   ,"o me?od ( comput+ all ( ! prime
 numb}s less ?an a c}ta9 fix$ positive
 9teg} .2;,n is to li/ all ( ! numb}s
 .2;n s* t _% #1 "k n "k ,n _:4 ,2g9 by
-elim9at+ all ( ! multiples ( _% #2 _:4
-,next elim9ate all ( ! multiples (
-_% #3 _:4 ,n{ elim9ate all ( ! multiples
-( _% #5 _:4 ,notice t _% #4 _: has alr
-be5 cross$ |4 ,3t9ue 9 ? mann}1 notic+ t
-we d n h to g all ! way to .2;,n2 x
-su6ices to /op at _% >,n} _:4 ,us+ ?
-me?od1 compute all ( ! prime numb}s less
-?an _% ,n .k #250 _:4 ,we c al use  #aaf
-? me?od to f9d all ( ! 9teg}s t >e
-relatively prime to an 9teg} .2;,n4
-,simply elim9ate ! prime factors ( .2;,n
-& all ( _! multiples4 ,us+ ? me?od1 f9d
-all ( ! numb}s t >e relatively prime to
+elim9at+ all ( ! multiples ( #b4 ,next
+elim9ate all ( ! multiples ( #c4 ,n{
+elim9ate all ( ! multiples ( #e4 ,notice
+t #d has alr be5 cross$ |4 ,3t9ue 9 ?
+mann}1 notic+ t we d n h to g all ! way
+to .2;,n2 x su6ices to /op at
+_% >,n} _:4 ,us+ ? me?od1 compute all (
+! prime numb}s less ?an
+_% ,n .k #250 _:4 ,we c al use ? me?od
+to f9d all ( ! 9teg}s t >e relatively
+prime to an 9teg} .2;,n4 ,simply
+elim9ate ! prime factors ( .2;,n & all (
+_! multiples4 ,us+ ? me?od1 f9d all ( !
+numb}s t >e relatively prime to
 _% ,n .k #120 _:4 ,us+ ! ,sieve (
 ,}atos!nes1 write a program t w compute
 all ( ! primes less ?an an 9teg} .2;,n4
-#b 4
-  ,let _% `;,n~0 .k `;,n.+.(0.) _:4
-,ack}mann's func;n is ! func;n _% ,a_3
-`;,n~0"`*`;,n~0" $o `;,n~0 _: def9$ by !
-equa;ns
+#b 4                                 #ih
+  ,let _% `;,n~0 .k `;,n.+.(0.) _:4
+,ack}mann's func;n is ! func;n
+_% ,a_3 `;,n~0"`*`;,n~0" $o `;,n~0 _:
+def9$ by ! equa;ns
 _%
 ,a(0, y)     .k y+1,
 ,a(x+1, 0)   .k ,a(x, 1),
 ,a(x+1, y+1) .k ,a(x, ,a(x+1, y))
 _:
-4 ,use ? def9i;n to compute _% ,a(3,
-1) _:4 ,write a program to evaluate
-,ack}mann's func;n4 ,modify !  program
-to c.t ! numb} ( /ate;ts execut$ 9 !
-program :5 ,ack}mann's func;n is
+4 ,use ? def9i;n to compute
+_% ,a(3, 1) _:4 ,write a program to
+evaluate ,ack}mann's func;n4 ,modify !
+program to c.t ! numb} ( /ate;ts execut$
+9 ! program :5 ,ack}mann's func;n is
 evaluat$4 ,h{ _m /ate;ts >e execut$ 9 !
-evalua;n ( _% ,a(4, 1) _:;8 ,:at    #aag
-ab _% ,a(5, 1) _:;8
+evalua;n ( _% ,a(4, 1) _:;8 ,:at ab
+_% ,a(5, 1) _:;8
 #c 4
   ,write a comput} program t w imple;t !
 ,euclid1n algori?m4 ,! program %d a3ept
@@ -881,8 +847,8 @@ two positive 9teg}s .2a & .2;b z 9put &
 %d |tput _% gcd (a, b) _: z well z
 9teg}s .2;r & .2;s s* t
 _% gcd (a, b) .k ra+sb _:
-4
-,ref};es #b4f ,ref};es & ,su7e/$ ,r1d+s
+4                                    #ii
+,ref};es #b4f ,ref};es & ,su7e/$ ,r1d+s
 .<#a.>    ,brook%e>1 ;,j4 ;,g4 ,!ory (
 ,computa;n3 ,=mal ,languages1 ,automata1
 & ,complex;y4  ,b5jam9_/,cumm+s1 ,r$wood
@@ -897,370 +863,7 @@ _% gcd (a, b) .k ra+sb _:
 ,numb}s4  #eth $4 ,wiley1 ,new ,york1
 #aiia4 .<#d.>    ,v&5 ,eynd51 ;,c4
 ,ele;t>y ,numb} ,!ory4 #bnd $4  ,wavel&
-,press1 ,l;g ,grove ,,il1 #bjja4    #aah
-    ,sec;n #b4g ,sage
-  ,_m prop}ties ( ! algebraic objects we
-w /udy c 2 det}m9$ f prop}ties (
-associat$ 9teg}s4 ,& ,sage has _m p{};l
-func;ns = analyz+ 9teg}s4
-
-      ,subsec;n ,divi.n ,algori?m
-  ,! code a .0 ;b w return ! rema9d} ~u
-divi.n ( .2a by .2;b4 ,9 o!r ~ws1 !
-result is ! unique 9teg} .2;r s* t
-"<#a"> _% #0 "k: r "k b _:1 & "<#b">
-_% a .k bq+r _: = "s 9teg} .2;q "<!
-quoti5t">1 z gu>ante$ by ! ,divi.n
-,algori?m "<,!orem #b4i">4 ,!n
-_% (a-r)_/b _: w equal .2;q4 ,= example1
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-r = 14 % _3 r
-  ,|tput3
-_2
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage                               #aai
-  ,9put3
-q = (14 _- r)/3 q
-  ,|tput3
-_4
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,x is al possible to get bo? ! quoti5t
-& rema9d} at ! same "t ) ! 4quo.-rem"<">
-me?od "<quoti5t & rema9d}">4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a = 14 b = _3 a.quo__rem(b)
-  ,|tput3
-(4, 2)
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,a rema9d} ( z}o 9dicates divisibil;y4
-,s "<a .0 ;b"> "7"7 #j w return ,true if
-.2;b divides .2a1 & w o!rwise return
-,false4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-(20 % 5) == _0                      #abj
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-(17 % 4) == _0
-  ,|tput3
-_false
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! 4divides"<"> me?od is ano!r op;n4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-c = _5 c.divides(20)
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-d = _4 d.divides(17)                #aba
-  ,|tput3
-_false
-gggggggggggggggggggggggggggggggggggggggg
-
-      ,subsec;n ,grte/ ,common ,divisor
-  ,! grte/ common divisor ( .2a & .2;b
-is obta9$ ) ! comm& gcd"<a1 ;b">1 ": 9
-|r f/ uses1 .2a & .2;b >e 9teg}s4 ,lat}1
-.2a & .2;b c 2 o!r objects ) a no;n (
-divisibil;y & 8grt;s10 s* z polynomials4
-,= example1
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-gcd(2776, 2452)
-  ,|tput3
-_4
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,we c use ! gcd comm& to det}m9e if a
-pair ( 9teg}s >e relatively prime4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a = 31049 b = 2105 gcd(a, b) == _1  #abb
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a = 3563 b = 2947 gcd(a, b) == _1
-  ,|tput3
-_false
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! comm& xgcd"<a;1b">"<8e,xt5d$
-,,gcd0"> returns a triple ": ! f/ ele;t
-is ! grte/ common divisor ( .2a & .2;b
-"<z ) ! gcd"<a;1b"> comm& abv">1 b !
-next two ele;ts >e values ( .2;r & .2;s
-s* t _% ra+sb .k gcd (a, b) _:4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-xgcd(633,331)
-  ,|tput3
-(1, -137, 262)
-                                    #abc
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,por;ns ( ! triple c 2 extract$ us+ .<
-.>"<89dex+0"> to a3ess ! 5tries ( !
-triple1 />t+ ) ! f/ z numb} #j4 ,=
-example1 ! foll{+ %d alw return ! result
-,true1 ev5 if y *ange ! values ( a & ;b4
-,try *ang+ ! values ( a & ;b 2l1 to see
-t ! result is alw ,true4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a = 633 b = 331 extended = xgcd(a, b) g
-= extended[0] r = extended[1] s =
-extended[2] g == r*a + s*b
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,/udy+ ? block ( code w g a l;g way
-t{>ds help+ y get ! mo/ | ( ,sage's
-|tput4 ,note t "7 is h{ a value is
-.1assign$ to a v>iable1 :ile z 9 ! la/
-l9e1 "7"7 is h{ we comp>e two items =
-.1equal;y.'4                        #abd
-      ,subsec;n ,primes & ,factor+
-  ,! me?od 4is.-prime"<"> w det}m9e if
-an 9teg} is prime or n4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a = 117371 a.is__prime()
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-b = 14547073 b.is__prime()
-  ,|tput3
-_false
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-b == 1597 * 9109
-  ,|tput3
-_true                               #abe
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! comm& r&om.-prime"<a1 pro("7,true">
-w g5}ate a r&om prime numb} 2t _% #2 _:
-& .2a4 ,exp}i;t by execut+ ! foll{+ two
-compute cells s"eal "ts4 "<,replac+
-pro("7,true by pro("7,false w spe$ up !
-se>*1 b "! w 2 a v1 v1 v small
-probabil;y ! result w n 2 prime4">
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a = random__prime(10^21, proof=_true) a
-  ,|tput3
-424729101793542195193
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a.is__prime()
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-                                    #abf
-  ,! comm& prime.-range"<a1 ;b"> returns
-an ord}$ li/ ( all ! primes f .2a to
-_% b-1 _:1 9clusive4 ,= example1
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-prime__range(500, 550)
-  ,|tput3
-[503, 509, 521, 523, 541, 547]
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! comm&s next.-prime"<a"> &
-previ|s.-prime"<a"> >e o!r ways to get a
-s+le prime numb} ( a desir$ size4 ,give
-!m a try 2l if y h an empty compute cell
-"! "<z y w if y >e r1d+ 9 ! ,sage
-,notebook1 or >e r1d+ ! onl9e v}.n">4
-"<,! ha% symbol1 _?1 is us$ to 9dicate a
-8com;t0 l9e1 : w n 2 evaluat$ by ,sage4
-,s }ase ? l9e1 or />t on ! "o 2l x4">
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-# _practice area (not linked for _sage
-_cell use)                          #abg
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,9 addi;n to *eck+ if 9teg}s >e prime
-or n1 or g5}at+ prime numb}s1 ,sage c al
-decompose any 9teg} 9to xs prime
-factors1 z describ$ by ! ,funda;tal
-,!orem ( ,>i?metic "<,!orem #b4ae">4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a = 2600 a.factor()
-  ,|tput3
-2^3 * 5^2 * 13
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,s _% #2600 .k #2~3"`*5~2"`*13 _: & ?
-is ! unique way to write _% #2600 _: z a
-product ( prime numb}s "<o!r ?an
-re>rang+ ! ord} ( ! primes !mvs 9 !
-product">4
-  ,:ile ,sage w pr9t a factoriza;n
-nicely1 x is c>ri$ 9t}nally z a li/ (
-pairs ( 9teg}s1 ) ea* pair 2+ a base "<a
-prime numb}"> & an expon5t "<a positive
-9teg}">4 ,/udy ! foll{+ c>e;lly1 z  #abh
-x is ano!r gd ex}cise 9 "w+ ) ,sage
-|tput 9 ! =m ( li/s4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-a = 2600 factored = a.factor()
-first__term = factored[0] first__term
-  ,|tput3
-(2, 3)
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-second__term = factored[1] second__term
-  ,|tput3
-(5, 2)
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-third__term = factored[2] third__term
-  ,|tput3
-(13, 1)                             #abi
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-first__prime = first__term[0]
-first__prime
-  ,|tput3
-_2
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-first__exponent = first__term[1]
-first__exponent
-  ,|tput3
-_3
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! next compute cell rev1ls ! 9t}nal
-v}.n ( ! factoriza;n by ask+ = ! actual
-li/4 ,& we %{ h{ y cd det}m9e exactly h{
-_m t}ms ! factoriza;n has by us+ ! l5g?
-comm&1 l5"<">4                      #acj
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-list(factored)
-  ,|tput3
-[(2, 3), (5, 2), (13, 1)]
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-len(factored)
-  ,|tput3
-_3
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,c y extract ! next two primes1 & _!
-expon5ts1 f a8
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-# _practice area (not linked for _sage
-_cell use)
-gggggggggggggggggggggggggggggggggggggggg
-                                    #aca
-,ex}cises #b4h ,sage ,ex}cises
-  ,~! ex}cises >e ab 9ve/igat+ basic
-prop}ties ( ! 9teg}s1 "s?+ we w
-frequ5tly d :5 9ve/igat+ gr|ps4 ,sage
-"w%eets h ext5sive capabilities = mak+
-new cells ) c>e;lly =matt$ text1 9clude
-support = ;,l a,t e,x syntax to express
-ma!matics4 ,s :5 a "q asks = explana;n
-or com;t>y1 make a new cell &
-communicate cle>ly ) yr audi;e4
-#a 4
-  ,use ! next.-prime"<"> comm& to 3/ruct
-two di6}5t #h-digit prime numb}s & save
-!m 9 v>iables "nd a & ;b4
-#b 4
-  ,use ! 4is.-prime"<"> me?od to v}ify t
-yr primes a & ;b >e r1lly prime4
-#c 4
-  ,v}ify t _% #1 _: is ! grte/ common
-divisor ( yr two primes f ! previ|s
-ex}cises4
-#d 4
-  ,f9d two 9teg}s t make a 8l9e>
-comb9a;n0 ( yr two primes equal to
-_% #1 _:4 ,9clude a v}ifica;n ( yr  #acb
-result4
-#e 4
-  ,det}m9e a factoriza;n 9to p{}s (
-primes = _% c .k #4 598 037 234 _:4
-#f 4
-  ,write a compute cell t def9es ! same
-value ( ;c ag1 & !n def9es a c&idate
-divisor ( ;c "nd ;d4 ,! ?ird l9e ( !
-cell %d return ,true if & only if ;d is
-a divisor ( ;c4 ,illu/rate ! use ( yr
-cell by te/+ yr code ) _% d .k #7 _: & 9
-a new copy ( ! cell1 te/+ yr code ) _% d
-.k #11 _:4
+,press1 ,l;g ,grove ,,il1 #bjja4
 
 
 
@@ -1269,7 +872,4 @@ a new copy ( ! cell1 te/+ yr code ) _% d
 
 
 
-
-
-
-                                    #acc
+                                    #ajj

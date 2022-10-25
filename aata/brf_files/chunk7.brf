@@ -22,7 +22,7 @@ m>ks1 & blanks4 ,a ~1cryptosy/em~'1 or
 ~1ciph}~'1  has two "ps3 ~15cryp;n~'1 !
 process ( trans=m+ a pla9text message to
 a ciph}text message1 & ~1decryp;n~'1 !
-rev}se trans=ma;n ( *ang+ a         #dbi
+rev}se trans=ma;n ( *ang+ a         #bij
 ciph}text message 9to a pla9text
 message4
   ,"! >e _m di6}5t families (
@@ -47,7 +47,7 @@ k ( ! 5cod+ key does n all{ any"o to
 guess at ! decod+ key1 ! 5cod+ key c 2
 made public4 ,a public key cryptosy/em
 all{s .2,a & .2;,b to s5d messages to
-.2;,c us+ ! same 5cod+ key4 ,any"o  #dcj
+.2;,c us+ ! same 5cod+ key4 ,any"o  #bia
 is capable ( 5cod+ a message to 2 s5t to
 .2;,c1 b only .2;,c "ks h{ to decode s*
 a message4
@@ -72,12 +72,14 @@ available examples ( cod$ messages4
   ,"o ( ! f/ & mo/ fam|s private key
 cryptosy/ems 0 ! %ift code us$ by
 ,julius ,caes>4 ,we f/ digitize !
-alphabet by lett+ _% ,a .k #00, ,b  #dca
-.k #01, ''', ,z .k #25 _:4 ,! 5cod+
-func;n w 2
+alphabet by lett+ _%                #bib
+,a .k #00, ,b .k #01, ''', ,z .k #25
+_:4 ,! 5cod+ func;n w 2
 _% f(p) .k p+3mod #262 _:
-t is1 _% ,a $|33o ,d, ,b $|33o ,e, ''',
-,z $|33o ,c _:4 ,! decod+ func;n is !n
+t is1
+_% ,a $|33o ,d, ,b $|33o ,e, ''', ,z
+$|33o ,c _:
+4 ,! decod+ func;n is !n
 _% f~-1"(p) .k p-3mod #26 .k p+23mod
 #26 _:
 4 ,suppose we rcv ! 5cod$ message
@@ -88,50 +90,51 @@ _% #3, #14, #9, #7, #4, #20, #3 _:
 get
 _% #0, #11, #6, #4, #1, #17, #0 _:
 1 or ,,algebra4 ,notice "h t "! is no?+
-special ab ei ( ! numb}s _% #3 _: or
-_% #26 _:4 ,we cd h us$ a l>g} alphabet
-or a di6}5t %ift4
+special ab ei ( ! numb}s #c or #bf4 ,we
+cd h us$ a l>g} alphabet or a di6}5t
+%ift4
 gggggggggggggggggggggggggggggggggggggggg
 
   ~1,cryptanalysis  is 3c}n$ ) deciph}+
 a rcvd or 9t}cept$ message4 ,me?ods f
-probabil;y & /ati/ics >e grt aids 9
-deciph}+ an 9t}cept$ message2 = example1
-! frequ5cy analysis ( ! "*s appe>+  #dcb
-9 ! 9t}cept$ message (t5 makes xs
+probabil;y & /ati/ics >e grt aids   #bic
+9 deciph}+ an 9t}cept$ message2 =
+example1 ! frequ5cy analysis ( ! "*s
+appe>+ 9 ! 9t}cept$ message (t5 makes xs
 decryp;n possible4
 7777777777777777777777777777777777777777
 ,example  #g4b 4
   ,suppose we rcv a message t we "k 0
 5crypt$ by us+ a %ift trans=ma;n on s+le
-lrs ( ! _% #26 _:-lr alphabet4 ,to f9d |
+lrs ( ! #bf-lr alphabet4 ,to f9d |
 exactly :at ! %ift trans=ma;n was1 we m/
-compute .2;b 9 ! equa;n _% f(p) .k
-p+bmod #26 _:4 ,we c d ? us+ frequ5cy
-analysis4 ,! lr _% ,e .k #04 _: is ! mo/
-commonly o3urr+ lr 9 ! ,5gli% language4
-,suppose t _% ,s .k #18 _: is ! mo/
-commonly o3urr+ lr 9 ! ciph}text4 ,!n we
-h gd r1son to suspect t  _% #18 .k
-#4+bmod #26 _:1 or _% b .k #14 _:4
-,"!=e1 ! mo/ likely 5crypt+ func;n is
+compute .2;b 9 ! equa;n
+_% f(p) .k p+bmod #26 _:4 ,we c d ? us+
+frequ5cy analysis4 ,! lr _% ,e .k #04 _:
+is ! mo/ commonly o3urr+ lr 9 ! ,5gli%
+language4 ,suppose t _% ,s .k #18 _: is
+! mo/ commonly o3urr+ lr 9 ! ciph}text4
+,!n we h gd r1son to suspect t
+_% #18 .k #4+bmod #26 _:1 or
+_% b .k #14 _:4 ,"!=e1 ! mo/ likely
+5crypt+ func;n is
 _% f(p) .k p+14mod #26 _:
 4 ,! correspond+ decrypt+ func;n is
 _% f~-1"(p) .k p+12mod #26 _:
 4 ,x is n{ easy to det}m9e :e!r or n |r
-guess is correct4
-gggggggggggggggggggggggggggggggggggggggg
+guess is correct4                   #bid
+gggggggggggggggggggggggggggggggggggggggg
 
-  ,simple %ift codes >e examples (  #dcc
-~1monoalphabetic ~1cryptosy/ems~'4  ,9
+  ,simple %ift codes >e examples (
+~1monoalphabetic ~1cryptosy/ems~'4  ,9
 ~! ciph}s a "* 9 ! 5ciph}$ message
 repres5ts exactly "o "* 9 ! orig9al
 message4 ,s* cryptosy/ems >e n v
 sophi/icat$ & >e q easy to br1k4 ,9
 fact1 9 a simple %ift z describ$ 9
-,example #g4a1 "! >e only _% #26 _:
-possible keys4 ,x wd 2 q easy to try !m
-all r ?an to use frequ5cy analysis4
+,example #g4a1 "! >e only #bf possible
+keys4 ,x wd 2 q easy to try !m all r ?an
+to use frequ5cy analysis4
   ,let u 9ve/igate a sli<tly m
 sophi/icat$ cryptosy/em4 ,suppose t !
 5cod+ func;n is giv5 by
@@ -144,40 +147,41 @@ _% c .k ap+bmod #26 _:
 possible exactly :5 .2a has an 9v}se or1
 equival5tly1 :5 _% gcd (a, 26) .k #1 _:4
 ,9 ? case
-_% f~-1"(p) .k a~-1"p-a~-1"bmod #26 _:
+                                    #bie
+_% f~-1"(p) .k a~-1"p-a~-1"bmod #26 _:
 4 ,s* a cryptosy/em is call$ an ~1a69e
 ~1cryptosy/em~'4
-                                    #dcd
-7777777777777777777777777777777777777777
+7777777777777777777777777777777777777777
 ,example  #g4c 4
   ,let u 3sid} ! a69e cryptosy/em
 _% f(p) .k ap+bmod #26 _:4 ,= ?
-cryptosy/em to "w we m/ *oose an _% a `e
-`;,z26 _: t is 9v}tible4 ,? is only
-possible if _% gcd (a, 26) .k #1 _:4
-,recogniz+ ? fact1 we w let _% a .k
-#5 _: s9ce _% gcd (5, 26) .k #1 _:4 ,x
-is easy to see t _% a~-1 .k #21 _:4
-,"!=e1 we c take |r 5cryp;n func;n to 2
+cryptosy/em to "w we m/ *oose an
+_% a `e `;,z26 _: t is 9v}tible4 ,? is
+only possible if
+_% gcd (a, 26) .k #1 _:4 ,recogniz+ ?
+fact1 we w let _% a .k #5 _: s9ce
+_% gcd (5, 26) .k #1 _:4 ,x is easy to
+see t _% a~-1 .k #21 _:4 ,"!=e1 we c
+take |r 5cryp;n func;n to 2
 _% f(p) .k #5p+3mod #26 _:4 ,?us1
-,,algebra is 5cod$ z _% #3, #6, #7, #23,
-#8, #10, #3 _:1 or ,,d<xikd4 ,! decryp;n
-func;n w 2
+,,algebra is 5cod$ z
+_% #3, #6, #7, #23, #8, #10, #3 _:1 or
+,,d<xikd4 ,! decryp;n func;n w 2
 _% f~-1"(p) .k #21p-21*3mod #26 .k
 #21p+15mod #26 _:
 4
 gggggggggggggggggggggggggggggggggggggggg
 
-  ,a cryptosy/em wd 2 m secure if a
-ciph}text lr cd repres5t m ?an "o
+  ,a cryptosy/em wd 2 m secure if   #bif
+a ciph}text lr cd repres5t m ?an "o
 pla9text lr4 ,to give an example ( ?
 type ( cryptosy/em1 call$ a
-~1polyalphabetic ~1cryptosy/em~'1   #dce
-we w g5}alize a69e codes by us+
-matrices4 ,! idea "ws r|<ly ! same z 2f2
-h{"e1 9/1d ( 5crypt+ "o lr at a "t we w
-5crypt pairs ( lrs4 ,we c /ore a pair (
-lrs _% p1 _: & _% p2 _: 9 a vector
+~1polyalphabetic ~1cryptosy/em~'1 we w
+g5}alize a69e codes by us+ matrices4 ,!
+idea "ws r|<ly ! same z 2f2 h{"e1 9/1d (
+5crypt+ "o lr at a "t we w 5crypt pairs
+( lrs4 ,we c /ore a pair ( lrs _% p1 _:
+& _% p2 _: 9 a vector
 _%
 _;p .k ,(p1,)
        ,(p2,)
@@ -193,12 +197,10 @@ _% f~-1"(_;p) .k ,a~-1"_;p-,a~-1"_;b _:
 4
 7777777777777777777777777777777777777777
 ,example  #g4d 4
-  ,suppose t we wi% to 5code ! ~w
-,,help4 ,! correspond+ digit /r+ is
+  ,suppose t we wi% to 5code ! ~w   #big
+,,help4 ,! correspond+ digit /r+ is
 _% #7, #4, #11, #15 _:4 ,if
-
-                                    #dcf
-_%
+_%
 ,a .k ,(#3 #5,)
       ,(#1 #2,)
 _:
@@ -220,12 +222,12 @@ pair .1qz n"e appe>s4 ,to avoid decryp;n
 by a ?ird "py1 we m/ use a l>g} matrix
 ?an ! "o we us$ 9 ,example #g4d4
 
-    ,sec;n #g4b ,public ,key
-    ,cryptography
-  ,if tradi;nal cryptosy/ems >e     #dcg
-us$1 any"o :o "ks 5 to 5code a message w
-al "k 5 to decode an 9t}cept$ message4
-,9 #aigf1 ;,w4 ,di6ie  & ;,m4 ,hellman
+    ,sec;n #g4b ,public ,key        #bih
+    ,cryptography
+  ,if tradi;nal cryptosy/ems >e us$1
+any"o :o "ks 5 to 5code a message w al
+"k 5 to decode an 9t}cept$ message4 ,9
+#aigf1 ;,w4 ,di6ie  & ;,m4 ,hellman
 propos$ public key cryptography1 : is
 bas$ on ! obs}va;n t ! 5cryp;n &
 decryp;n proc$ures ne$ n h ! same key4
@@ -245,11 +247,11 @@ prohibitive to decode messages ) only k
 
       ,subsec;n ,! ,,rsa ,cryptosy/em
   ,! ,,rsa cryptosy/em 9troduc$ by ;,r4
-,rive/1  ,a4 ,%amir1  & ;,l4 ,adleman  9
-#aigh1 is bas$ on ! di6iculty ( factor+
-l>ge numb}s4 ,?|< x is n a          #dch
-di6icult task to f9d two l>ge r&om
-primes & multiply !m tgr1 factor+ a
+,rive/1  ,a4 ,%amir1  & ;,l4        #bii
+,adleman  9 #aigh1 is bas$ on !
+di6iculty ( factor+ l>ge numb}s4 ,?|< x
+is n a di6icult task to f9d two l>ge
+r&om primes & multiply !m tgr1 factor+ a
 #aej-digit numb} t is ! product ( two
 l>ge primes wd take #ajj million
 comput}s op}at+ at #aj million 9/ruc;ns
@@ -266,25 +268,27 @@ compute _% f(n) .k m .k (p-1)(q-1) _:1
 ": _% .f _: is ! ,eul} _% .f _:-func;n4
 ,n{ we />t *oos+ r&om 9teg}s .2;,e until
 we f9d "o t is relatively prime to .2;m2
-t is1 we *oose .2;,e s* t _% gcd (,e, m)
-.k #1 _:4 ,us+ ! ,euclid1n algori?m1 we
-c f9d a numb} .2;,d s* t _% ,d,e _l
-#1(mod m) _:4 ,! numb}s .2;n & .2;,e >e
-n{ made public4
+t is1 we *oose .2;,e s* t
+_% gcd (,e, m) .k #1 _:4 ,us+ !
+,euclid1n algori?m1 we c f9d a numb}
+.2;,d s* t _% ,d,e _l #1(mod m) _:4 ,!
+numb}s .2;n & .2;,e >e n{ made      #cjj
+public4
   ,suppose n{ t p}son ;,b "<,bob"> wi%es
-to s5d p}son ,a "<,alice"> a        #dci
-message ov} a public l9e4 ,s9ce .2;,e &
-.2;n >e "kn to "ey"o1 any"o c 5code
-messages4 ,bob f/ digitizes ! message ac
-to "s s*eme1 say _% ,a .k #00, ,b .k
-#02, ''', ,z .k #25 _:4 ,if nec1 he w
-br1k ! message 9to pieces s* t ea* piece
-is a positive 9teg} less ?an .2;n4
-,suppose .2;x is "o ( ! pieces4 ,bob =ms
-! numb} _% y .k x~,e"mod n _: & s5ds
-.2;y to ,alice4 ,= ,alice to recov}
-.2;x1 %e ne$ only compute _% x .k
-y~,d"mod n _:4 ,only ,alice "ks .2;,d4
+to s5d p}son ,a "<,alice"> a message ov}
+a public l9e4 ,s9ce .2;,e & .2;n >e "kn
+to "ey"o1 any"o c 5code messages4 ,bob
+f/ digitizes ! message ac to "s s*eme1
+say _%
+,a .k #00, ,b .k #02, ''', ,z .k #25
+_:4 ,if nec1 he w br1k ! message 9to
+pieces s* t ea* piece is a positive
+9teg} less ?an .2;n4 ,suppose .2;x is "o
+( ! pieces4 ,bob =ms ! numb}
+_% y .k x~,e"mod n _: & s5ds .2;y to
+,alice4 ,= ,alice to recov} .2;x1 %e ne$
+only compute _% x .k y~,d"mod n _:4
+,only ,alice "ks .2;,d4
 7777777777777777777777777777777777777777
 ,example  #g4e 4
   ,2f explor+ ! !ory 2h ! ,,rsa
@@ -292,64 +296,67 @@ cryptosy/em or attempt+ to use l>ge
 9teg}s1 we w use "s small 9teg}s j to
 see t ! sy/em does 9de$ "w4 ,suppose t
 we wi% to s5d "s message1 : :5 digitiz$
-is _% #25 _:4 ,let _% p .k #23 _: & _% q
-.k #29 _:4 ,!n
-_% n .k pq .k #667 _:
+is #be4 ,let _% p .k #23 _: &
+_% q .k #29 _:4 ,!n                 #cja
+_% n .k pq .k #667 _:
 &
 _% f(n) .k m .k (p-1)(q-1) .k #616 _:
-4 ,we c let _% ,e .k #487 _:1 s9ce  #ddj
-_% gcd (616, 487) .k #1 _:4 ,! 5cod$
+4 ,we c let _% ,e .k #487 _:1 s9ce
+_% gcd (616, 487) .k #1 _:4 ,! 5cod$
 message is comput$ to 2
 _% #25~487"mod #667 .k #169 _:
 4 ,? computa;n c 2 r1sonably d"o by us+
 ! me?od ( rep1t$ squ>es z describ$ 9
 ,*apt} #d4 ,us+ ! ,euclid1n algori?m1 we
 det}m9e t _% #191,e .k #1+151m _:2 "!=e1
-! decrypt+ key is _% (n, ,d) .k (667,
-191) _:4 ,we c recov} ! orig9al message
-by calculat+
+! decrypt+ key is
+_% (n, ,d) .k (667, 191) _:4 ,we c
+recov} ! orig9al message by calculat+
 _% #169~191"mod #667 .k #25 _:
 4
 gggggggggggggggggggggggggggggggggggggggg
 
   ,n{ let u exam9e :y ! ,,rsa
-cryptosy/em "ws4 ,we "k t _% ,d,e _l
-#1(mod m) _:2 h;e1 "! exi/s a .2;k s* t
+cryptosy/em "ws4 ,we "k t
+_% ,d,e _l #1(mod m) _:2 h;e1 "! exi/s a
+.2;k s* t
 _% ,d,e .k km+1 .k kf(n)+1 _:
 4 ,"! >e two cases to 3sid}4 ,9 ! f/
-case assume t _% gcd (x, n) .k #1 _:4
-,!n by ,!orem #f4ah1
+case assume t                       #cjb
+_% gcd (x, n) .k #1 _:4 ,!n by
+,!orem #f4ah1
 _% y~,d .k (x~,e")~,d .k x~,d,e .k
 x~km+1 .k (x~f(n)")~k"x .k (1)~k"x .k
 xmod n _:
-4 ,s we see t ,alice recov}s !      #dda
-orig9al message .2;x :5 %e computes
+4 ,s we see t ,alice recov}s ! orig9al
+message .2;x :5 %e computes
 _% y~,d"mod n _:4
-  ,= ! o!r case1 assume t _% gcd (x, n)
-/.k #1 _:4 ,s9ce _% n .k pq _: & _% x "k
-n _:1 we "k .2;x is a multiple ( .2;p or
-a multiple ( .2;q1 b n bo?4 ,we w
-describe ! f/ possibil;y only1 s9ce !
-second is 5tirely simil>4 ,"! is !n an
-9teg} .2;r1 ) _% r "k q _: & _% x .k
-rp _:4 ,note t we h _% gcd (x, q) .k
-#1 _: & t _% m .k f(n) .k (p-1)(q-1) .k
-f(p)f(q) _:4 ,!n1 us+ ,!orem #f4ah1 b n{
-mod .2;q1
+  ,= ! o!r case1 assume t
+_% gcd (x, n) /.k #1 _:4 ,s9ce
+_% n .k pq _: & _% x "k n _:1 we "k .2;x
+is a multiple ( .2;p or a multiple (
+.2;q1 b n bo?4 ,we w describe ! f/
+possibil;y only1 s9ce ! second is
+5tirely simil>4 ,"! is !n an 9teg} .2;r1
+) _% r "k q _: & _% x .k rp _:4 ,note t
+we h _% gcd (x, q) .k #1 _: & t _%
+m .k f(n) .k (p-1)(q-1) .k f(p)f(q)
+_:4 ,!n1 us+ ,!orem #f4ah1 b n{ mod
+.2;q1
 _% x~km .k x~kf(p)f(q) .k
 (x~f(q)")~kf(p) .k (1)~kf(p) .k #1mod
 q _:
-4 ,s "! is an 9teg} .2;t s* t _% x~km .k
-#1+tq _:4 ,?us1 ,alice al recov}s !
-message 9 ? case1
+4 ,s "! is an 9teg} .2;t s* t
+_% x~km .k #1+tq _:4 ,?us1 ,alice   #cjc
+al recov}s ! message 9 ? case1
 _% y~,d .k x~km+1 .k x~km"x .k (1+tq)x
 .k x+tq(rp) .k x+trn .k xmod n _:
 4
   ,we c n{ ask h{ "o wd g ab br1k+ !
 ,,rsa cryptosy/em4 ,to f9d .2;,d giv5
-.2;n & .2;,e1 we simply ne$ to      #ddb
-factor .2;n & solve = .2;,d by us+ !
-,euclid1n algori?m4 ,if we _h "kn t
+.2;n & .2;,e1 we simply ne$ to factor
+.2;n & solve = .2;,d by us+ ! ,euclid1n
+algori?m4 ,if we _h "kn t
 _% #667 .k #23*29 _: 9 ,example #g4e1 we
 cd h recov}$ .2;,d4
 
@@ -365,17 +372,17 @@ is _% (n', ,e~'") _: & 8 decrypt+ key is
 _% (n', ,d~'") _:4 ,al1 suppose t
 ,alice's 5crypt+ key is _% (n, ,e) _: &
 h} decrypt+ key is _% (n, ,d) _:4 ,s9ce
-5cryp;n keys >e public 9=ma;n1 !y c
-ex*ange cod$ messages at _! 3v5i;e4 ,bob
-wi%es to assure ,alice t ! message he is
-s5d+ is au!ntic4 ,2f ,bob s5ds ! message
-.2;x to ,alice1 he decrypts  .2;x ) 8 {n
-key3
+5cryp;n keys >e public 9=ma;n1 !y   #cjd
+c ex*ange cod$ messages at _! 3v5i;e4
+,bob wi%es to assure ,alice t ! message
+he is s5d+ is au!ntic4 ,2f ,bob s5ds !
+message .2;x to ,alice1 he decrypts
+.2;x ) 8 {n key3
 _% x' .k x~,d~~'~"mod n' _:
-4 ,any"o c *ange _% x' _: back to   #ddc
-.2;x j by 5cryp;n1 b only ,bob has !
-abil;y to =m _% x' _:4 ,n{ ,bob 5crypts
-_% x' _: ) ,alice's 5cryp;n key to =m
+4 ,any"o c *ange _% x' _: back to .2;x j
+by 5cryp;n1 b only ,bob has ! abil;y to
+=m _% x' _:4 ,n{ ,bob 5crypts _% x' _: )
+,alice's 5cryp;n key to =m
 _% y' .k x~'"~,e"mod n _:
 1 a message t only ,alice c decode4
 ,alice decodes ! message & !n 5codes !
@@ -390,18 +397,18 @@ back z anci5t ,greece & ,rome4 ,z we "k1
 s5d & rcv messages4 ,h{"e1 ! =mal /udy (
 5cod+ & decod+ messages probably 2gan )
 ! ,>abs 9 ! #adjjs4 ,9 ! fifte5? &
-sixte5? c5turies ma!maticians s* z
-,alb}ti & ,viete 4cov}$ t monoalphabetic
+sixte5? c5turies ma!maticians s* z  #cje
+,alb}ti & ,viete 4cov}$ t monoalphabetic
 cryptosy/ems (f}$ no r1l secur;y4 ,9 !
 #ahjjs1 ;,f4 ;,w4 ,kasiski e/abli%$
 me?ods = br1k+ ciph}s 9 : a ciph}text lr
 c repres5t m ?an "o pla9text lr1 if !
 same key 0 us$ s"eal "ts4 ,? 4cov}y l$
-to ! use ( cryptosy/ems ) keys t 7  #ddd
-us$ only a s+le "t4 ,cryptography 0
-plac$ on firm ma!matical f.da;ns by s* p
-z ;,w4 ,fri$man & ;,l4 ,hill 9 ! e>ly "p
-( ! tw5tie? c5tury4
+to ! use ( cryptosy/ems ) keys t 7 us$
+only a s+le "t4 ,cryptography 0 plac$ on
+firm ma!matical f.da;ns by s* p z ;,w4
+,fri$man & ;,l4 ,hill 9 ! e>ly "p ( !
+tw5tie? c5tury4
   ,! p}iod af ,_w ,w> ,i saw ! develop;t
 ( special-purpose ma*9es = 5crypt+ &
 decrypt+ messages1 & ma!maticians 7 v
@@ -415,15 +422,16 @@ z ,alan ,tur+ & ,a4 ,a4 ,alb}t4 ,!
 ,g}man ,5igma ma*9e & ! ,japanese
 ,purple ciph}s4
   ,by ! #aigjs1 9t}e/ 9 comm}cial
-cryptography _h 2gun to take hold4 ,"! 0
-a gr{+ ne$ to protect bank+ transac;ns1
-comput} data1 & electronic mail4 ,9 !
-e>ly #aigjs1 ,,ibm develop$ & imple;t$
-,,luzif}1 ! =erunn} ( ! ,na;nal ,bur1u (
-,/&>ds' ,data ,5cryp;n ,/&>d "<,,des">4
+cryptography _h 2gun to take hold4  #cjf
+,"! 0 a gr{+ ne$ to protect bank+
+transac;ns1 comput} data1 & electronic
+mail4 ,9 ! e>ly #aigjs1 ,,ibm develop$ &
+imple;t$ ,,luzif}1 ! =erunn} ( ! ,na;nal
+,bur1u ( ,/&>ds' ,data ,5cryp;n ,/&>d
+"<,,des">4
   ,! 3cept ( a public key cryptosy/em1
-due to ,di6ie & ,hellman1 is v      #dde
-rec5t "<#aigf">4 ,x 0 fur!r develop$ by
+due to ,di6ie & ,hellman1 is v rec5t
+"<#aigf">4 ,x 0 fur!r develop$ by
 ,rive/1 ,%amir1 & ,adleman ) ! ,,rsa
 cryptosy/em "<#aigh">4 ,x is n "kn h{
 secure any ( ~! sy/ems >e4 ,! trapdoor
@@ -437,26 +445,36 @@ prize = :o"e 0 able to provide a
 factoriza;n
 "<http3_/_/www4emc4com_/emc-plus_/rsa-l-
 abs_/hi/orical_/!-rsa-*all5ge-numb}s4htm
- #g ">4 ,al? ! *all5ge 5d$ 9 #bjjg1 _m (
+ #f ">4 ,al? ! *all5ge 5d$ 9 #bjjg1 _m (
 ~! numb}s h n yet be5 factor$4
-  ,"! be5 a grt d1l ( 3trov}sy ab rese>*
-9 cryptography & cryptography xf4 ,9
-#aibi1 :5 ,h5ry ,/imson1 ,secret>y (
+  ,"! be5 a grt d1l ( 3trov}sy ab   #cjg
+rese>* 9 cryptography & cryptography xf4
+,9 #aibi1 :5 ,h5ry ,/imson1 ,secret>y (
 ,/ate "u ,h}b}t ,hoov}1 4miss$ ! ,black
 ,*amb} "<! ,/ate ,de"p;t's cryptography
 divi.n"> on ! e?ical gr.ds t 8g5tlem5 d
 n r1d ea* o!r's mail40 ,dur+ ! la/ two
 decades ( ! tw5tie? c5tury1 ! ,na;nal
-,secur;y ,ag5cy want$ to keep       #ddf
-9=ma;n ab cryptography secret1 ":as !
-academic commun;y f"| = ! "r to publi%
-basic rese>*4 ,curr5tly1 rese>* 9
-ma!matical cryptography & computa;nal
-numb} !ory is v active1 & ma!maticians
->e free to publi% _! results 9 ~! >1s4
+,secur;y ,ag5cy want$ to keep 9=ma;n ab
+cryptography secret1 ":as ! academic
+commun;y f"| = ! "r to publi% basic
+rese>*4 ,curr5tly1 rese>* 9 ma!matical
+cryptography & computa;nal numb} !ory is
+v active1 & ma!maticians >e free to
+publi% _! results 9 ~! >1s4
+,sage4
+  ,sage's e>ly develop;t f1tur$ p{};l
+r|t9es = numb} !ory1 & lat} 9clud$
+significant support = algebraic
+/ructures & o!r >1s ( 4crete ma!matics4
+,s x is a natural tool = ! /udy (
+cryptology1 9clud+ topics l ,,rsa1
+elliptic curve cryptography1 & ,,aes
+"<,adv.ed ,5cryp;n ,/&>d">4
 ,r1d+ ,"qs #g4c ,r1d+ ,"qs #a 4
-  ,use ! eul}.-phi"<">func;n 9 ,sage to
-compute _% .f(#893 #456 #123) _:4
+  ,use ! eul}.-phi"<">func;n 9      #cjh
+,sage to compute
+_% .f(#893 #456 #123) _:4
 #b 4
   ,use ! p{}.-mod"<">func;n 9 ,sage to
 compute _% #7~324"(mod #895) _:4
@@ -472,15 +490,15 @@ f message v}ifica;n4
 #e 4
   ,expla9 h{ "o cd 2 ju/ifi$ 9 say+ t
 ,di6ie & ,hellman's proposal 9 #aigf 0
-8revolu;n>y40                       #ddg
-,ex}cises #g4d ,ex}cises #a 4
+8revolu;n>y40
+,ex}cises #g4d ,ex}cises #a 4
   ,5code ,,ixlovexma? us+ ! cryptosy/em
 9 ,example #g4a4
 #b 4
   ,decode ,,,zlooa wklva eh>q wkha
 ilqdo1,' : 0 5cod$ us+ ! cryptosy/em 9
-,example #g4a4
-#c 4
+,example #g4a4                      #cji
+#c 4
   ,assum+ t monoalphabetic code 0 us$ to
 5code ! foll{+ secret message1 :at 0 !
 orig9al message8
@@ -497,38 +515,42 @@ gaga,'
   ,:at is ! signific.e ( ? message 9 !
 hi/ory ( cryptography8
 #d 4
-  ,:at is ! total numb} ( possible  #ddh
-monoalphabetic cryptosy/ems8 ,h{ secure
+  ,:at is ! total numb} ( possible
+monoalphabetic cryptosy/ems8 ,h{ secure
 >e s* cryptosy/ems8
 #e 4
   ,prove t a _% #2`*2 _: matrix .2,a )
 5tries 9 _% `;,z26 _: is 9v}tible if &
 only if _% gcd (det (,a), 26) .k #1 _:4
-#f 4
-  ,giv5 ! matrix
+#f 4                                #caj
+  ,giv5 ! matrix
 _%
 ,a .k ,(#3 #4,)
       ,(#2 #3,)
 _:
-1 use ! 5cryp;n func;n _% f(_;p) .k
-,a_;p+_;b _: to 5code ! message
-,,cryptology1 ": _% _;b .k (2, 5)~t _:4
-,:at is ! decod+ func;n8
+1 use ! 5cryp;n func;n
+_% f(_;p) .k ,a_;p+_;b _: to 5code !
+message ,,cryptology1 ":
+_% _;b .k (2, 5)~t _:4 ,:at is ! decod+
+func;n8
 #g 4
   ,5crypt ea* ( ! foll{+ ,,rsa messages
 .2;x s t .2;x is divid$ 9to blocks (
-9teg}s ( l5g? _% #2 _:2 t is1 if _% x .k
-#142528 _:1 5code _% #14 _:1 _% #25 _:1
-& _% #28 _: sep>ately4
+9teg}s ( l5g? #b2 t is1 if
+_% x .k #142528 _:1 5code #ad1 #be1 &
+#bh sep>ately4
 
-a4 _% n .k #3551, ,e .k #629, x .k
-  #31 _:                            #ddi
-;b4 _% n .k #2257, ,e .k #47, x .k
-  #23 _:
-;c4 _% n .k #120979, ,e .k #13251, x .k
-  #142371 _:
-;d4 _% n .k #45629, ,e .k #781, x .k
-  #231561 _:
+a4 _%
+  n .k #3551, ,e .k #629, x .k #31
+  _:
+;b4
+  _% n .k #2257, ,e .k #47, x .k #23 _:
+;c4
+  _% n .k #120979, ,e .k #13251, x .k
+  #142371 _:                        #caa
+;d4 _%
+  n .k #45629, ,e .k #781, x .k #231561
+  _:
 
 #h 4
   ,compute ! decod+ key .2;,d = ea* ( !
@@ -537,25 +559,29 @@ a4 _% n .k #3551, ,e .k #629, x .k
   ,decrypt ea* ( ! foll{+ ,,rsa messages
 .2;y4
 
-a4 _% n .k #3551, ,d .k #1997, y .k
-  #2791 _:
-;b4 _% n .k #5893, ,d .k #81, y .k
-  #34 _:
-;c4 _% n .k #120979, ,d .k #27331, y .k
+a4 _%
+  n .k #3551, ,d .k #1997, y .k #2791
+  _:
+;b4
+  _% n .k #5893, ,d .k #81, y .k #34 _:
+;c4
+  _% n .k #120979, ,d .k #27331, y .k
   #112135 _:
-;d4 _% n .k #79403, ,d .k #671, y .k
-  #129381 _:
+;d4 _%
+  n .k #79403, ,d .k #671, y .k #129381
+  _:
 
 #aj 4
-  ,= ea* ( ! foll{+ 5cryp;n keys    #dej
+  ,= ea* ( ! foll{+ 5cryp;n keys    #cab
 _% (n, ,e) _: 9 ! ,,rsa cryptosy/em1
 compute .2;,d4
 
 a4 _% (n, ,e) .k (451, 231) _:
 ;b4 _% (n, ,e) .k (3053, 1921) _:
 ;c4 _% (n, ,e) .k (37986733, 12371) _:
-;d4 _% (n, ,e) .k (16394854313,
-  34578451) _:
+;d4 _%
+  (n, ,e) .k (16394854313, 34578451)
+  _:
 
 #aa 4
   ,5crypt$ messages >e (t5 divid$ 9to
@@ -571,11 +597,10 @@ _% ,x~,e _l ,x(mod n) _:
 cryptosy/em8
 #ac 4
   ,e p}son 9 ! class %d 3/ruct an ,,rsa
-cryptosy/em us+ primes t >e _% #10 _: to
-_% #15 _: digits l;g4 ,h& 9 _% (n,  #dea
-,e) _: & an 5cod$ message4 ,keep .2;,d
-secret4 ,see if y c br1k "o ano!r's
-codes4
+cryptosy/em us+ primes t >e #aj to  #cac
+#ae digits l;g4 ,h& 9 _% (n, ,e) _: & an
+5cod$ message4 ,keep .2;,d secret4 ,see
+if y c br1k "o ano!r's codes4
 ,ex}cises #g4e ,addi;nal ,ex}cises3
 ,primal;y & ,factor+
   ,9 ! ,,rsa cryptosy/em x is important
@@ -586,18 +611,18 @@ product ( two l>ge primes4 ,! solu;ns to
 bo? ( ~! problems >e q easy4 ,to f9d |
 if a numb} .2;n is prime or to factor
 .2;n1 we c use trial divi.n4 ,we simply
-divide .2;n by _% d .k #2, #3, ''',
->n} _:4 ,ei a factoriza;n w 2 obta9$1 or
-.2;n is prime if no .2;d divides .2;n4
-,! problem is t s* a computa;n is
-prohibitively "t-3sum+ if .2;n is v
-l>ge4
+divide .2;n by
+_% d .k #2, #3, ''', >n} _:4 ,ei a
+factoriza;n w 2 obta9$1 or .2;n is prime
+if no .2;d divides .2;n4 ,! problem is t
+s* a computa;n is prohibitively "t-3sum+
+if .2;n is v l>ge4
 #a 4
   ,a bett} algori?m = factor+ odd
 positive 9teg}s is ~1,f}mat's
 ~1factoriza;n ~1algori?m~'4
 
-  a4 ,let _% n .k ab _: 2 an odd    #deb
+  a4 ,let _% n .k ab _: 2 an odd    #cad
   composite numb}4 ,prove t .2;n c 2
   writt5 z ! di6};e ( two p}fect squ>es3
 
@@ -622,7 +647,7 @@ positive 9teg}s is ~1,f}mat's
 
 
 
-                                    #dec
+                                    #cae
   _% n .k x~2"-y~2 .k (x-y)(x+y) _:
   4 ,3sequ5tly1 a positive odd 9teg} c 2
   factor$ exactly :5 we c f9d 9teg}s
@@ -646,14 +671,13 @@ positive 9teg}s is ~1,f}mat's
 write ;n "7 a "9 ;b #b 4  ,primal;y
 ,te/+4
   ,recall ,f}mat's ,ll ,!orem f
-,*apt} #f4 ,let .2;p 2 prime ) _% gcd
-(a, p) .k #1 _:4 ,!n _% a~p-1 _l    #ded
-#1(mod p) _:4 ,we c use ,f}mat's ,ll
-,!orem z a scre5+ te/ = primes4 ,=
-example1 _% #15 _: _c 2 prime s9ce
+,*apt} #f4 ,let .2;p 2 prime )
+_% gcd (a, p) .k #1 _:4 ,!n         #caf
+_% a~p-1 _l #1(mod p) _:4 ,we c use
+,f}mat's ,ll ,!orem z a scre5+ te/ =
+primes4 ,= example1 #ae _c 2 prime s9ce
 _% #2~15-1 _l #2~14 _l #4(mod #15) _:
-4 ,h{"e1 _% #17 _: is a pot5tial prime
-s9ce
+4 ,h{"e1 #ag is a pot5tial prime s9ce
 _% #2~17-1 _l #2~16 _l #1(mod #17) _:
 4 ,we say t an odd composite numb} .2;n
 is a ~1pseudoprime  if
@@ -661,29 +685,29 @@ _% #2~n-1 _l #1(mod n) _:
 4 ,: ( ! foll{+ numb}s >e primes & : >e
 pseudoprimes8
 
-a4 _% #342 _:
-;b4 _% #811 _:
+a4 #cdb
+;b4 #haa
 ;c4 #fja
-;d4 _% #561 _:
-;e4 _% #771 _:
-;f4 _% #631 _:
+;d4 #efa
+;e4 #gga
+;f4 #fca
 
 #c 4
   ,let .2;n 2 an odd composite numb} &
-.2;b 2 a positive 9teg} s* t _% gcd (b,
-n) .k #1 _:4 ,if _% b~n-1 _l #1(mod
-n) _:1 !n .2;n is a ~1pseudoprime   #dee
-~1base .2;b4 ,%{ t _% #341 _: is a
-pseudoprime base _% #2 _: b n a
-pseudoprime base _% #3 _:4
+.2;b 2 a positive 9teg} s* t
+_% gcd (b, n) .k #1 _:4 ,if
+_% b~n-1 _l #1(mod n) _:1 !n .2;n is a
+~1pseudoprime ~1base .2;b4 ,%{ t    #cag
+#cda is a pseudoprime base #b b n a
+pseudoprime base #c4
 #d 4
   ,write a program to det}m9e all primes
-less ?an _% #2000 _: us+ trial divi.n4
-,write a second program t w det}m9e all
-numb}s less ?an _% #2000 _: t >e ei
-primes or pseudoprimes4 ,comp>e ! spe$ (
-! two programs4 ,h{ _m pseudoprimes >e
-"! 2l _% #2000 _:;8
+less ?an #bjjj us+ trial divi.n4 ,write
+a second program t w det}m9e all numb}s
+less ?an #bjjj t >e ei primes or
+pseudoprimes4 ,comp>e ! spe$ ( ! two
+programs4 ,h{ _m pseudoprimes >e "! 2l
+#bjjj8
   ,"! exi/ composite numb}s t >e
 pseudoprimes = all bases to : !y >e
 relatively prime4 ,~! numb}s >e call$
@@ -697,9 +721,9 @@ prov$ t "! >e an 9f9ite numb} (
 _% #25`*10~9 _:4 ,= m sophi/icat$
 primal;y te/s1 see .<#a.>1 .<#f.>1 or
 .<#g.>4
-,ref};es #g4f ,ref};es & ,su7e/$    #def
-,r1d+s .<#a.>    ,bress|d1 ;,d4 ;,m4
-,factoriza;n & ,primal;y ,te/+4
+,ref};es #g4f ,ref};es & ,su7e/$ ,r1d+s
+.<#a.>    ,bress|d1 ;,d4 ;,m4       #cah
+,factoriza;n & ,primal;y ,te/+4
 ,spr+}-,v}lag1 ,new ,york1 #aihi4
 .<#b.>    ,di6ie1 ;,w4 & ,hellman1 ;,m4
 ;,e4 8,new ,direc;ns 9 ,cryptography10
@@ -722,420 +746,12 @@ br1k10 ,sci5tific ,am}ican ~1#bcg
 ,pom}.e1 ;,c41 $4 8,cryptology &
 ,computa;nal ,numb} ,!ory01 ,proce$+s (
 ,symposia 9 ,appli$ ,ma!matics ~1#db
-"<#aiij"> ,am}ican ,ma!matical      #deg
-,society1 ,provid;e1 ,,ri4 .<#h.>
-,rive/1 ;,r4 ;,l41 ,%amir1 ,a41 &
-,adleman1 ;,l41 8,a ,me?od = ,obta9+
-,signatures & ,public-key
-,cryptosy/ems10 ,comm4 ,,acm ~1#ba
-"<#aigh">1 #abj,-#bf4
-
-    ,sec;n #g4g ,sage
-  ,s9ce ,sage 2gan z s(tw>e to support
-rese>* 9 numb} !ory1 we c qkly & easily
-demon/rate ! 9t}nal "w+s ( ! ,,rsa
-algori?m4 ,recognize t1 9 practice1 _m
-o!r details s* z 5cod+ 2t lrs & 9teg}s1
-or protect+ "o's private key1 >e equally
-important = ! secur;y ( communica;ns4 ,s
-,,rsa xf is j ! !oretical f.da;n4
-
-      ,subsec;n ,3/ruct+ ,keys
-  ,we w suppose t ,alice wants to s5d a
-secret message to ,bob1 al;g ) message
-v}ifica;n "<al "kn z a message ) a
-digital signature">4 ,s we 2g9 ) !
-3/ruc;n ( key pairs "<private & public">
-= bo? ,alice & ,bob4 ,we f/ ne$ two l>ge
-primes = bo? 9dividuals1 & _!       #deh
-product4 ,9 practice1 values ( .2;n wd h
-hundr$s ( digits1 r ?an j _% #21 _: z we
-h d"o "h4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-p__a = next__prime(10^10) q__a =
-next__prime(p__a) p__b =
-next__prime((3/2)*10^10) q__b =
-next__prime(p__b) n__a = p__a * q__a
-n__b = p__b * q__b n__a, n__b
-  ,|tput3
-(100000000520000000627,
-225000000300000000091)
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,computa;nally1 ! value ( ! ,eul}
-_% .f _:-func;n = a product ( primes
-_% pq _: c 2 obta9$ f _% (p-1)(q-1) _:1
-b we cd use ,sage's built-9 func;n j z
-well4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-m__a = euler__phi(n__a) m__b =      #dei
-euler__phi(n__b) m__a, m__b
-  ,|tput3
-(100000000500000000576,
-225000000270000000072)
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,n{ we c cr1te ! 5cryp;n & decryp;n
-expon5ts4 ,we *oose ! 5cryp;n expon5t z
-a "<small"> numb} relatively prime to !
-value ( .2;m4 ,) ,sage we c factor .2;m
-qkly to help u *oose ? value4 ,9
-practice we wd n want to d ? computa;n =
-l>ge values ( .2;m1 s we mi<t m easily
-*oose 8r&om0 values & *eck = ! f/ value
-: is relatively prime to .2;m4 ,!
-decryp;n expon5t is ! multiplicative
-9v}se1 mod .2;m1 ( ! 5cryp;n expon5t4
-,if y 3/ruct an improp} 5cryp;n expon5t
-"<n relatively prime to .2;m">1 !
-computa;n ( ! multiplicative 9v}se w
-fail "<& ,sage w tell y s">4 ,we d ?
-twice ,-- = bo? ,alice & ,bob4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3                            #dfj
-factor(m__a)
-  ,|tput3
-2^6 * _3 * 11 * 17 * 131 * 521 * 73259 *
-557041
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_e__a = 5*23 _d__a = inverse__mod(_e__a,
-m__a) _d__a
-  ,|tput3
-20869565321739130555
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-factor(m__b)
-  ,|tput3
-2^3 * 3^4 * 107 * 1298027 * 2500000001
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage                               #dfa
-  ,9put3
-_e__b = 7*29 _d__b = inverse__mod(_e__b,
-m__b) _d__b
-  ,|tput3
-24384236482463054195
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,at ? /age1 ea* 9dividual wd publi% _!
-values ( .2;n & .2;,e1 :ile keep+ .2;,d
-v private & secure4 ,9 practice .2;,d %d
-2 protect$ on ! us}'s h>d disk by a
-pass~w only ! {n} "ks4 ,= ev5 grt}
-secur;y a p}son mi<t only h two copies (
-_! private key1 "o on a ,,usb memory
-/ick !y alw c>ry ) !m1 & a backup 9 _!
-sage deposit box4 ,e "t ! p}son uses
-.2;,d !y wd ne$ to provide ! pass~w4 ,!
-value ( .2;m c 2 4c>d$4 ,= ! record1 "h
->e all ! keys3
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-print("_alice's public key, n:", n__a,
-"_e:", _e__a)
-  ,|tput3                           #dfb
-_alice's public key, n:
-100000000520000000627 _e: 115
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-print("_alice's private key, _d:",
-_d__a)
-  ,|tput3
-_alice's private key, _d:
-20869565321739130555
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-print("_bob's public key, n:", n__b,
-"_e:", _e__b)
-  ,|tput3
-_bob's public key, n:
-225000000300000000091 _e: 203
-gggggggggggggggggggggggggggggggggggggggg
-
-                                    #dfc
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-print("_bob's private key, _d:", _d__b)
-  ,|tput3
-_bob's private key, _d:
-24384236482463054195
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-# _practice area (not linked for _sage
-_cell use)
-gggggggggggggggggggggggggggggggggggggggg
-
-      ,subsec;n ,sign+ & ,5cod+ a
-      ,message
-  ,alice is go+ to 3/ruct a message z an
-,5gli% ~w ) f|r lrs4 ,f ~! f|r lrs we w
-3/ruct a s+le numb} to repres5t !
-message 9 a =m we c use 9 ! ,,rsa
-algori?m4 ,! func;n ord"<"> w 3v}t a
-s+le lr to xs ,,ascii code value1 a
-numb} 2t #j & #abg4 ,if we use ~!   #dfd
-numb}s z 8digits0 mod #abh1 we c 2 sure
-t ,alice's f|r-lr ~w w 5code to an 9teg}
-less ?an _% #128~4 .k #268, #435,
-#456 _:4 ,! "picul> maximum value is n
-important1 s l;g z x is small} ?an |r
-value ( .2;n s9ce all ( |r subsequ5t
->i?metic is mod .2;n4 ,we *oose a popul>
-f|r-lr ~w1 3v}t to ,,ascii 8digits0 ) a
-li/ compreh5.n1 & !n 3/ruct ! 9teg} f !
-digits ) ! "r base4 ,notice h{ we c tr1t
-! ~w z a li/ & t ! f/ digit 9 ! li/ is 9
-! 8"os0 place "<we say ! li/ is 9
-8ll-5dian0 ord}">4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-word = '_sage' digits = [ord(letter) for
-letter in word] digits
-  ,|tput3
-[83, 97, 103, 101]
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3                            #dfe
-message = _>zz(_<digits, 128) message
-  ,|tput3
-213512403
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,f/1 ,alice w sign h} message to
-provide message v}ifica;n4 ,%e uses h}
-private key = ?1 s9ce ? is an act t only
-%e %d 2 able to p}=m4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-signed = power__mod(message, _d__a,
-n__a) signed
-  ,|tput3
-47838774644892618423
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,!n ,alice 5crypts h} message s t only
-,bob c r1d x4 ,to d ?1 %e uses ,bob's
-public key4 ,notice h{ %e does n h to
-ev5 "k ,bob ,- = example1 %e cd h obta9$
-,bob's public key (f 8 web site or maybe
-,bob ann|nc$ 8 public key 9 an
-adv}tise;t 9 ! .1,new .1,york       #dff
-.1,"ts.'4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-encrypted = power__mod(signed, _e__b,
-n__b) encrypted
-  ,|tput3
-111866209291209840488
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,alice's communica;n is n{ r1dy to
-travel on any communica;ns net"w1 no
-matt} h{ 9secure ! net"w may be1 & no
-matt} h{ _m snoops may 2 monitor+ !
-net"w4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-# _practice area (not linked for _sage
-_cell use)
-gggggggggggggggggggggggggggggggggggggggg
-
-      ,subsec;n ,decod+ & ,v}ify+ a
-      ,message
-  ,n{ assume t ! value ( 5crypt$    #dfg
-has r1*$ ,bob4 ,r1lize t ,bob may n "k
-,alice1 & r1lize t ,bob does n ev5
-necess>ily 2lieve :at he has rcvd has
-g5u9ely orig9at$ f ,alice4 ,an adv}s>y
-cd 2 try+ to 3fuse ,bob by s5d+ messages
-t claim to 2 f ,alice4 ,f/1 ,bob m/
-unwrap ! 5cyp;n ,alice has provid$4 ,?
-is an act only ,bob1 z ! 9t5d$ recipi5t1
-%d 2 able to d4 ,& he does x by us+ 8
-private key1 : only he "ks1 & : he has
-kept secure4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-decrypted = power__mod(encrypted, _d__b,
-n__b) decrypted
-  ,|tput3
-47838774644892618423
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,"r n{1 ? m1ns v ll to ,bob4 ,anybody
-cd h s5t hm an 5cod$ message4 ,h{"e1 ? 0
-a message ,alice sign$4 ,lets unwrap !
-message sign+4 ,notice t ? uses ,alice's
-public key4 ,bob does n ne$ to "k   #dfh
-,alice ,- = example1 he cd obta9
-,alice's key (f h} web site or maybe
-,alice ann|nc$ h} public key 9 an
-adv}tise;t 9 ! .1,new .1,york .1,"ts.'4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-received = power__mod(decrypted, _e__a,
-n__a) received
-  ,|tput3
-213512403
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,bob ne$s to trans=m ? 9teg}
-repres5ta;n back to a ~w ) lrs4 ,!
-*r"<"> func;n 3v}ts ,,ascii code values
-to lrs1 & we use a li/ compreh5.n to d ?
-rep1t$ly4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-digits = received.digits(base=128)
-letters = [chr(ascii) for ascii in
-digits] letters
-  ,|tput3                           #dfi
-['_s', 'a', 'g', 'e']
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,if we wd l a sli<tly m recognizable
-result1 we c comb9e ! lrs 9to a /r+4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-''.join(letters)
-  ,|tput3
-'_sage'
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,bob is pl1s$ to obta9 s* an 9=mative
-message f ,alice4 ,:at wd h happ5$ if an
-impo/} _h s5t a message o/5sibly f
-,alice1 or :at if an adv}s>y _h 9t}cept$
-,alice's orig9al message & replac$ x ) a
-tamp}$ message8 "<,! latt} is "kn z a
-8man 9 ! middle0 attack4">
-  ,9 ei case1 ! rogue "py wd n 2 able to
-duplicate ,alice's f/ ac;n ,- sign+ h}
-message4 ,if an adv}s>y "sh{ signs !
-message1 or tamp}s ) x1 ! /ep ": ,bob
-unwraps ! sign+ w l1d to total      #dgj
-g>bage4  "<,try x6">  ,2c ,bob rcvd a
-legitimate ~w1 prop}ly capitaliz$1 he
-has 3fid;e t ! message he unsign$ is !
-same z ! message ,alice sign$4 ,9
-practice1 if ,alice s5t s"eal hundr$ ~ws
-z h} message1 ! odds t x w unsign z
-cohr5t text >e a/ronomically small4
-  ,:at h we demon/rat$8
-
-#a4 ,alice c s5d messages t only ,bob c
-  r1d4
-#b4 ,bob c rcv secret messages f
-  anybody4
-#c4 ,alice c sign messages1 s t !n ,bob
-  "<or anybody else">"ks !y >e g5u9ely f
-  ,alice4
-
-  ,( c|rse1 )|t mak+ new keys1 y c
-rev}se ! roles ( ,alice & ,bob4 ,& if
-,c>ol makes a key pair1 %e c communicate
-) bo? ,alice & ,bob 9 ! same fa%ion4
-  ,if y want to use ,,rsa public-key
-5cryp;n s}i|sly1 9ve/igate ! op5 s|rce
-s(tw>e ,,gnu ,privacy ,gu>d1 aka ,,gpg1
-: is freely available at            #dga
-www4gnupg4org_/  #h 4 ,notice t x only
-makes s5se to use 5cryp;n programs t
-all{ y to look at ! s|rce code4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-# _practice area (not linked for _sage
-_cell use)
-gggggggggggggggggggggggggggggggggggggggg
-
-,ex}cises #g4h ,sage ,ex}cises #a 4
-  ,3/ruct a keypair = ,alice us+ ! f/
-two primes grt} ?an _% #10~12 _:4 ,= yr
-*oice ( .2;,e1 use a s+le prime numb} &
-use ! smalle/ possible *oice4
-  ,|tput ! values ( .2;n1 .2;,e1 & .2;,d
-= ,alice4 ,!n use ,sage comm&s to v}ify
-t ,alice's 5cryp;n & decryp;n keys >e
-multiplicative 9v}ses4
-#b 4
-  ,3/ruct a keypair = ,bob us+ ! f/ two
-primes grt} ?an _% #2*10~12 _:4 ,= yr
-*oice ( .2;,e1 use a s+le prime numb} &
-use ! smalle/ possible *oice4 ,|tput !
-values ( .2;n1 .2;,e1 & .2;,d =     #dgb
-,alice4
-  ,5code ! ~w ,ma? us+ ,,ascii values 9
-! same mann} z describ$ 9 ? sec;n "<keep
-! capitaliza;n z %{n">4 ,cr1te a sign$
-message ( ? ~w = communica;n f ,alice to
-,bob4 ,|tput ! ?ree 9teg}s3 ! message1 !
-sign$ message & ! sign$1 5crypt$
-message4
-#c 4
-  ,demon/rate h{ ,bob 3v}ts ! message
-rcvd f ,alice back 9to ! ~w ,ma?4 ,|tput
-! value ( ! 9t}m$iate computa;ns & !
-f9al human-r1dable message4
-#d 4
-  ,cr1te a new sign$ message f ,alice to
-,bob4 ,simulate ! message 2+ tamp}$ ) by
-add+ _% #1 _: to ! 9teg} ,bob rcvs1 2f
-he decrypts x4 ,:at result does ,bob get
-= ! lrs ( ! message :5 he decrypts &
-unsigns ! tamp}$ message8
-#e 4  ,classroom ,ex}cise4
-  ,organize a class 9to s"eal small
-gr|ps4 ,h ea* gr|p 3/ruct key pairs ) "s
-m9imum size "<digits 9 .2;n">4 ,ea* gr|p
-%d keep _! private key to !mvs1 b   #dgc
-make _! public key available to "eybody
-9 ! room4 ,x cd 2 writt5 on ! bo>d
-"<}ror-pr"o"> or maybe pa/$ 9 a public
-site l pa/eb94com  #i 4 ,!n ea* gr|p c
-s5d a sign$ message to ano!r gr|p1 ": !
-gr|ps cd 2 >rang$ logically 9 a circul>
-fa%ion = ? purpose4 ,( c|rse1 messages
-%d 2 po/$ publicly z well4 ,expect a
-su3ess rate "s": 2t #ej.0 & #ajj.04
-  ,if y d n d ? 9 class1 grab a /udy
-buddy & s5d ea* o!r messages 9 ! same
-mann}4 ,expect a su3ess rate ( #j.01
-#ej.0 or #ajj.04
+"<#aiij"> ,am}ican ,ma!matical ,society1
+,provid;e1 ,,ri4 .<#h.>    ,rive/1  #cai
+;,r4 ;,l41 ,%amir1 ,a41 & ,adleman1
+;,l41 8,a ,me?od = ,obta9+ ,signatures &
+,public-key ,cryptosy/ems10 ,comm4 ,,acm
+~1#ba "<#aigh">1 #abj,-#bf4
 
 
 
@@ -1147,4 +763,13 @@ mann}4 ,expect a su3ess rate ( #j.01
 
 
 
-                                    #dgd
+
+
+
+
+
+
+
+
+
+                                    #cbj

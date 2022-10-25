@@ -16,7 +16,8 @@ The Braille version of the textbook is quite long. The most recent PDF file for 
 
 ### Textbook, with placeholder pages for diagrams
 
-The BRF files have not been edited at all (only split by chapter).
+The BRF files have not been edited at all (only split by chapter). This is the version of the files as of October 25, 2022.
+We are continually improving the software and will be updating the BRF files when a better version becomes available.
 
 * [Front matter](brf_files/chunk0.brf)
 * [Chapter 1](brf_files/chunk1.brf)

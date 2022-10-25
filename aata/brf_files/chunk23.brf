@@ -9,9 +9,10 @@ equa;ns 9 ! sixte5? c5tury2 h{"e1
 attempts to solve ! g5}al fif?-degree1
 or qu9tic1 polynomial 7 repuls$ = ! next
 ?ree hundr$ ye>s4 ,c}ta9ly1 equa;ns s* z
-_% x~5"-1 .k #0 _: or _% x~6"-x~3"-6 .k
-#0 _: cd 2 solv$1 b no solu;n l !
-quadratic =mula 0 f.d = ! g5}al qu9tic1
+_% x~5"-1 .k #0 _: or
+_% x~6"-x~3"-6 .k #0 _: cd 2 solv$1 b no
+solu;n l ! quadratic =mula 0 f.d = !
+g5}al qu9tic1
 _% ax~5"+bx~4"+cx~3"+dx~2"+ex+f .k #0 _:
 4 ,f9ally1 at ! 2g9n+ ( ! n9ete5?
 c5tury1 ,ru69i & ,abel bo? f.d qu9tics t
@@ -21,9 +22,9 @@ h{"e1 :o provid$ ! full explana;n by %{+
 =mulas4 ,he 4cov}$ ! 3nec;n 2t gr|ps &
 field ext5.ns4 ,galois !ory demon/rates
 ! /r;g 9t}dep5d;e ( gr|p & field !ory1 &
-has _h f>-r1*+ implica;ns 2y xs orig9al
-purpose4                           #aeja
-  ,9 ? *apt} we w prove ! ,funda;tal
+has _h f>-r1*+ implica;ns 2y xs    #ajhc
+orig9al purpose4
+  ,9 ? *apt} we w prove ! ,funda;tal
 ,!orem ( ,galois ,!ory4 ,? result w 2
 us$ to e/abli% ! 9solvabil;y ( ! qu9tic
 & to prove ! ,funda;tal ,!orem (
@@ -46,8 +47,7 @@ automorphisms ( .2;,f1 !n s >e
 _% .s.t _: & _% .s~-1 _:4 ,! id5t;y is
 c}ta9ly an automorphism2 h;e1 ! set (
 all automorphisms ( a field .2;,f is
-9de$ a gr|p4
-                                   #aejb
+9de$ a gr|p4                       #ajhd
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -55,9 +55,10 @@ all automorphisms ( a field .2;,f is
   ,let .2;,e 2 a field ext5.n ( .2;,f4
 ,!n ! set ( all automorphisms ( .2;,e t
 fix .2;,f ele;twise is a gr|p2 t is1 !
-set ( all automorphisms _% .s_3 ,e $o
-,e _: s* t _% .s(.a) .k .a _: = all
-_% .a `e ,f _: is a gr|p4
+set ( all automorphisms
+_% .s_3 ,e $o ,e _: s* t
+_% .s(.a) .k .a _: = all _% .a `e ,f _:
+is a gr|p4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -67,14 +68,14 @@ automorphisms ( .2;,e t fix .2;,f
 ele;twise is a subgr|p ( ! gr|p ( all
 automorphisms ( .2;,e4 ,let _% .s _: &
 _% .t _: 2 two automorphisms ( .2;,e s*
-t _% .s(.a) .k .a _: & _% .t(.a) .k
-.a _: = all _% .a `e ,f _:4 ,!n
-_% .s.t(.a) .k .s(.a) .k .a _: &
+t _% .s(.a) .k .a _: &
+_% .t(.a) .k .a _: = all _% .a `e ,f _:4
+,!n _% .s.t(.a) .k .s(.a) .k .a _: &
 _% .s~-1"(.a) .k .a _:4 ,s9ce ! id5t;y
-fixes e ele;t ( .2;,e1 ! set (
-automorphisms ( .2;,e t l1ve       #aejc
-ele;ts ( .2;,f fix$ is a subgr|p ( !
-5tire gr|p ( automorphisms ( .2;,e4
+fixes e ele;t ( .2;,e1 ! set (     #ajhe
+automorphisms ( .2;,e t l1ve ele;ts (
+.2;,f fix$ is a subgr|p ( ! 5tire gr|p (
+automorphisms ( .2;,e4
 gggggggggggggggggggggggggggggggggggggggg
 
   ,let .2;,e 2 a field ext5.n ( .2;,f4
@@ -93,36 +94,35 @@ _% ,f`(x`) _: & .2;,e is ! splitt+ field
 _% ,g(,e_/,f) _:4
 7777777777777777777777777777777777777777
 ,example  #bc4c 4
-  ,complex 3juga;n1 def9$ by _% .s_3
-a+bi $|33o a-bi _:1 is an automorphism (
-! complex numb}s4 ,s9ce
-_% .s(a) .k .s(a+0i) .k a-0i .k a _:
-1 ! automorphism def9$ by complex  #aejd
-3juga;n m/ 2 9 _% ,g(`;,c_/`;,r) _:4
+  ,complex 3juga;n1 def9$ by
+_% .s_3 a+bi $|33o a-bi _:1 is an
+automorphism ( ! complex numb}s4 ,s9ce
+                                   #ajhf
+_% .s(a) .k .s(a+0i) .k a-0i .k a _:
+1 ! automorphism def9$ by complex
+3juga;n m/ 2 9 _% ,g(`;,c_/`;,r) _:4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,example  #bc4d 4
-  ,3sid} ! fields _% `;,q _"k `;,q(>5})
-_"k `;,q(>3}, >5}) _:4 ,!n = _% a, b `e
-`;,q(>5}) _:1
+  ,3sid} ! fields _%
+`;,q _"k `;,q(>5}) _"k `;,q(>3}, >5})
+_:4 ,!n = _% a, b `e `;,q(>5}) _:1
 _% .s(a+b>3}) .k a-b>3} _:
-is an automorphism ( _% `;,q(>3},
->5}) _: l1v+ _% `;,q(>5}) _: fix$4
-,simil>ly1
+is an automorphism (
+_% `;,q(>3}, >5}) _: l1v+
+_% `;,q(>5}) _: fix$4 ,simil>ly1
 _% .t(a+b>5}) .k a-b>5} _:
-is an automorphism ( _% `;,q(>3},
->5}) _: l1v+ _% `;,q(>3}) _: fix$4 ,!
-automorphism _% .m .k .s.t _: moves bo?
-_% >3} _: & _% >5} _:4 ,x w soon 2 cle>
-t _% .(id, .s, .t, .m.) _: is ! ,galois
+is an automorphism (
+_% `;,q(>3}, >5}) _: l1v+
+_% `;,q(>3}) _: fix$4 ,! automorphism
+_% .m .k .s.t _: moves bo? _% >3} _: &
+_% >5} _:4 ,x w soon 2 cle> t
+_% .(id, .s, .t, .m.) _: is ! ,galois
 gr|p ( _% `;,q(>3}, >5}) _: ov}
 _% `;,q _:4 ,! foll{+ table %{s t ? gr|p
 is isomorphic to _% `;,z2`*`;,z2 _:4
-
-
-
-                                   #aeje
+                                   #ajhg
 _%
 id  .s  .t  .m
 "3  "3  "3  "3
@@ -131,12 +131,14 @@ id  id  .s  .t  .m
 .t  .t  .m  id  .s
 .m  .m  .t  .s  id
 _:
-,we may al reg>d ! field _% `;,q(>3},
->5}) _: z a vector space ov} _% `;,q _:
-t has basis _% .(1, >3}, >5}, >15}.) _:4
-,x is no co9cid;e t _% |,g(`;,q(>3},
->5})_/`;,q)| .k `(`;,q(>3},
->5})_3`;,q)`)  .k #4 _:4
+,we may al reg>d ! field
+_% `;,q(>3}, >5}) _: z a vector space
+ov} _% `;,q _: t has basis
+_% .(1, >3}, >5}, >15}.) _:4 ,x is no
+co9cid;e t
+_% |,g(`;,q(>3}, >5})_/`;,q)| .k
+`(`;,q(>3}, >5})_3`;,q)`)  .k #4 _:
+4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -145,46 +147,46 @@ gggggggggggggggggggggggggggggggggggggggg
 _% f(x) _: 2 a polynomial 9
 _% ,f`(x`) _:4 ,!n any automorphism 9
 _% ,g(,e_/,f) _: def9es a p}muta;n ( !
-roots ( _% f(x) _: t lie 9 .2;,e4
-gggggggggggggggggggggggggggggggggggggggg
-                                   #aejf
-7777777777777777777777777777777777777777
+roots ( _% f(x) _: t lie 9 .2;,e4  #ajhh
+gggggggggggggggggggggggggggggggggggggggg
+
+7777777777777777777777777777777777777777
 ,pro( 4
   ,let
 _% f(x) .k a0+a1x+a2x~2+''' +a;n"x~n _:
 & suppose t _% .a `e ,e _: is a z}o (
-_% f(x) _:4 ,!n = _% .s `e
-,g(,e_/,f) _:1
+_% f(x) _:4 ,!n =
+_% .s `e ,g(,e_/,f) _:1
 _%
-#0-
-              .k .s(0)
-.k .s(f(.a))-
-
-.k .s(a0+a1.a+a2.a~2+''' +a;n".a~n")-
-
-.k a0+a1.s(.a)+a2`(.s(.a)`)~2+''' +a;n"-
-`(.s(.a)`)~n2
+#0
+            .k .s(0)
+.k .s(f(.a))
+.k .s(a0+a1.a+a2.a~2+''' +a;n".a~n")
+.k a0+a1.s(.a)+a2`(.s(.a)`)~2+'''
++a;n"`(.s(.a)`)~n2
 _:
 "!=e1 _% .s(.a) _: is al a z}o (
 _% f(x) _:4
 gggggggggggggggggggggggggggggggggggggggg
 
   ,let .2;,e 2 an algebraic ext5.n ( a
-field .2;,f4 ,two ele;ts _% .a, .b `e
-,e _: >e ~13jugate  ov} .2;,f if !y h !
-same m9imal polynomial4 ,=         #aejg
-example1 9 ! field _% `;,q(>2}) _: !
-ele;ts _% >2} _: & _% ->2} _: >e 3jugate
-ov} _% `;,q _: s9ce !y >e bo? roots ( !
-irr$ucible polynomial _% x~2"-2 _:4
+field .2;,f4 ,two ele;ts
+_% .a, .b `e ,e _: >e ~13jugate  ov}
+.2;,f if !y h ! same m9imal        #ajhi
+polynomial4 ,= example1 9 ! field
+_% `;,q(>2}) _: ! ele;ts _% >2} _: &
+_% ->2} _: >e 3jugate ov} _% `;,q _:
+s9ce !y >e bo? roots ( ! irr$ucible
+polynomial _% x~2"-2 _:4
   ,a 3v}se ( ! la/ proposi;n exi/s4 ,!
 pro( foll{s directly f ,lemma #ba4cb4
 7777777777777777777777777777777777777777
 ,proposi;n  #bc4f 4
   ,if _% .a _: & _% .b _: >e 3jugate ov}
-.2;,f1 "! exi/s an isomorphism _% .s_3
-,f(.a) $o ,f(.b) _: s* t _% .s _: is !
-id5t;y :5 re/rict$ to .2;,f4
+.2;,f1 "! exi/s an isomorphism
+_% .s_3 ,f(.a) $o ,f(.b) _: s* t
+_% .s _: is ! id5t;y :5 re/rict$ to
+.2;,f4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -195,35 +197,37 @@ splitt+ field = _% f(x) _: ov} .2;,f4
 ,if _% f(x) _: has no rep1t$ roots1 !n
 _% |,g(,e_/,f)| .k `(,e "1 ,f`) _:
 4
-gggggggggggggggggggggggggggggggggggggggg
+                                   #ajij
+gggggggggggggggggggggggggggggggggggggggg
 
-                                   #aejh
-7777777777777777777777777777777777777777
+7777777777777777777777777777777777777777
 ,pro( 4
-  ,we w use ma!matical 9duc;n on _% `(,e
-"1 ,f`) _:4 ,if _% `(,e "1 ,f`) .k
-#1 _:1 !n _% ,e .k ,f _: & "! is no?+ to
-%{4 ,if _% `(,e "1 ,f`) .1 #1 _:1 let
+  ,we w use ma!matical 9duc;n on
+_% `(,e "1 ,f`) _:4 ,if
+_% `(,e "1 ,f`) .k #1 _:1 !n
+_% ,e .k ,f _: & "! is no?+ to %{4 ,if
+_% `(,e "1 ,f`) .1 #1 _:1 let
 _% f(x) .k p(x)q(x) _:1 ": _% p(x) _: is
 irr$ucible ( degree .2;d4 ,we may assume
 t _% d .1 #1 _:2 o!rwise1 _% f(x) _:
-splits ov} .2;,f &  _% `(,e "1 ,f`) .k
-#1 _:4 ,let _% .a _: 2 a root (
-_% p(x) _:4 ,if _% .f_3 ,f(.a) $o ,e _:
-is any 9jective homomorphism1 !n
-_% f(.a) .k .b _: is a root (
-_% p(x) _:1 & _% .f_3 ,f(.a) $o
-,f(.b) _: is a field automorphism4 ,s9ce
-_% f(x) _: has no rep1t$ roots1
-_% p(x) _: has exactly .2;d roots _% .b
-`e ,e _:4 ,by ,proposi;n #bc4e1 "! >e
-exactly .2;d isomorphisms _% .f_3 ,f(.a)
-$o ,f(.b;i") _: t fix .2;,f1 "o = ea*
-root _% .b1, ''', .b;d _: ( _% p(x) _:
-"<see ,figure #bc4h">4
+splits ov} .2;,f &
+_% `(,e "1 ,f`) .k #1 _:4 ,let _% .a _:
+2 a root ( _% p(x) _:4 ,if
+_% .f_3 ,f(.a) $o ,e _: is any 9jective
+homomorphism1 !n _% f(.a) .k .b _: is a
+root ( _% p(x) _:1 &
+_% .f_3 ,f(.a) $o ,f(.b) _: is a field
+automorphism4 ,s9ce _% f(x) _: has no
+rep1t$ roots1 _% p(x) _: has exactly
+.2;d roots _% .b `e ,e _:4 ,by
+,proposi;n #bc4e1 "! >e exactly .2;d
+isomorphisms
+_% .f_3 ,f(.a) $o ,f(.b;i") _: t   #ajia
+fix .2;,f1 "o = ea* root
+_% .b1, ''', .b;d _: ( _% p(x) _: "<see
+,figure #bc4h">4
 7777777777777777777777777777777777777777
-                                   #aeji
-_%
+_%
 ,e     "$33o<.y}       ,e
 $%33o   $%33o
 ,f(.a) "$33o<.f}       ,f(.b)
@@ -237,25 +241,26 @@ gggggggggggggggggggggggggggggggggggggggg
 _% f(x) _: ov} .2;,f1 x is al a splitt+
 field ov} _% ,f(.a) _:4 ,simil>ly1 .2;,e
 is a splitt+ field ( _% f(x) _: ov}
-_% ,f(.b) _:4  ,s9ce _% `(,e_3,f(.a)`)
-.k `(,e_3,f`)_/d _:1 9duc;n %{s t ea* (
-! .2;d isomorphisms _% .f _: has exactly
-_% `(,e "1 ,f`)_/d _: ext5.ns1 _% .y_3
-,e $o ,e _:1 & we h 3/ruct$ _% `(,e "1
-,f`) _: isomorphisms t fix .2;,f4
-,f9ally1 suppose t _% .s _: is any
-automorphism fix+ .2;,f4  ,!n _% .s _:
-re/rict$ to _% ,f(.a) _: is _% .f _: =
-"s _% .f_3 ,f(.a) $o ,f(.b) _:4
-                                   #aeaj
-gggggggggggggggggggggggggggggggggggggggg
+_% ,f(.b) _:4  ,s9ce
+_% `(,e_3,f(.a)`) .k `(,e_3,f`)_/d _:1
+9duc;n %{s t ea* ( ! .2;d isomorphisms
+_% .f _: has exactly
+_% `(,e "1 ,f`)_/d _: ext5.ns1
+_% .y_3 ,e $o ,e _:1 & we h 3/ruct$
+_% `(,e "1 ,f`) _: isomorphisms t  #ajib
+fix .2;,f4 ,f9ally1 suppose t _% .s _:
+is any automorphism fix+ .2;,f4  ,!n
+_% .s _: re/rict$ to _% ,f(.a) _: is
+_% .f _: = "s
+_% .f_3 ,f(.a) $o ,f(.b) _:4
+gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,coroll>y  #bc4i 4
   ,let .2;,f 2 a f9ite field ) a f9ite
-ext5.n .2;,e s* t _% `(,e "1 ,f`) .k
-k _:4 ,!n _% ,g(,e_/,f) _: is cyclic (
-ord} .2;k4
+ext5.n .2;,e s* t
+_% `(,e "1 ,f`) .k k _:4 ,!n
+_% ,g(,e_/,f) _: is cyclic ( ord} .2;k4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -267,18 +272,18 @@ _% nk .k m _:4 ,we c al assume t .2;,e
 is ! splitt+ field ( _% x~p~~m~"-x _:
 ov} a subfield ( ord} .2;p4 ,"!=e1 .2;,e
 m/ al 2 ! splitt+ field (
-_% x~p~~m~"-x _: ov} .2;,f4 ,apply+
-,!orem #bc4g1 we f9d t _% |,g(,e_/,f)|
-.k k _:4
+_% x~p~~m~"-x _: ov} .2;,f4        #ajic
+,apply+ ,!orem #bc4g1 we f9d t
+_% |,g(,e_/,f)| .k k _:4
   ,to prove t _% ,g(,e_/,f) _: is
 cyclic1 we m/ f9d a g5}ator =
-_% ,g(,e_/,f) _:4 ,let _% .s_3 ,e  #aeaa
-$o ,e _: 2 def9$ by _% .s(.a) .k
-.a~p~~n _:4 ,we claim t _% .s _: is !
-ele;t 9 _% ,g(,e_/,f) _: t we >e seek+4
-,we f/ ne$ to %{ t _% .s _: is 9
-_% ,aut(,e) _:4 ,if _% .a _: & _% .b _:
->e 9 .2;,e1
+_% ,g(,e_/,f) _:4 ,let
+_% .s_3 ,e $o ,e _: 2 def9$ by
+_% .s(.a) .k .a~p~~n _:4 ,we claim t
+_% .s _: is ! ele;t 9 _% ,g(,e_/,f) _: t
+we >e seek+4 ,we f/ ne$ to %{ t _% .s _:
+is 9 _% ,aut(,e) _:4 ,if _% .a _: &
+_% .b _: >e 9 .2;,e1
 _% .s(.a+.b) .k (.a+.b)~p~~n .k
 .a~p~~n~"+.b~p~~n .k .s(.a)+.s(.b) _:
 by ,lemma #bb4c4 ,al1 x is easy to %{ t
@@ -292,13 +297,13 @@ _% x~p~~n~"-x _: ov} ! base field ( ord}
 .2;p4 ,? m1ns t _% .s _: l1ves e ele;t 9
 .2;,f fix$4 ,f9ally1 we m/ %{ t ! ord} (
 _% .s _: is .2;k4 ,by ,!orem #bc4g1 we
-"k t
-_% .s~k"(.a) .k .a~p~~nk .k .a~p~~m .k
+"k t                               #ajid
+_% .s~k"(.a) .k .a~p~~nk .k .a~p~~m .k
 .a _:
 is ! id5t;y ( _% ,g(,e_/,f) _:4 ,h{"e1
-_% .s~r _: _c 2 ! id5t;y = _% #1 "k: r
-"k k _:2 o!rwise1                  #aeab
-_% x~p~~nr~"-x _: wd h _% p~m _: roots1
+_% .s~r _: _c 2 ! id5t;y =
+_% #1 "k: r "k k _:2 o!rwise1
+_% x~p~~nr~"-x _: wd h _% p~m _: roots1
 : is impossible4
 gggggggggggggggggggggggggggggggggggggggg
 
@@ -309,52 +314,55 @@ _% `;,q(>3}, >5}) _: ov} _% `;,q _: 9
 ,example #bc4d is 9de$ isomorphic to
 _% `;,z2`*`;,z2 _:4 ,c}ta9ly ! gr|p
 _% ,h .k .(id, .s, .t, .m.) _: is a
-subgr|p ( _% ,g(`;,q(>3},
->5})_/`;,q) _:2 h{"e1 .2;,h m/ 2 all (
+subgr|p (
+_% ,g(`;,q(>3}, >5})_/`;,q) _:2 h{"e1
+.2;,h m/ 2 all (
 _% ,g(`;,q(>3}, >5})_/`;,q) _:1 s9ce
 _% |,h| .k `(`;,q(>3}, >5})_3`;,q`) .k
 |,g(`;,q(>3}, >5})_/`;,q)| .k #4 _:
 4
 gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
+                                   #ajie
+7777777777777777777777777777777777777777
 ,example  #bc4aa 4
   ,let u compute ! ,galois gr|p (
 _% f(x) .k x~4"+x~3"+x~2"+x+1 _:
 ov} _% `;,q _:4 ,we "k t _% f(x) _: is
-irr$ucible by ,ex}cise #ag4e4bj 9  #aeac
+irr$ucible by ,ex}cise #ag4e4bj 9
+,*apt} #ag4 ,fur!rmore1 s9ce
 _% (x-1)f(x) .k x~5"-1 _:1 we c use
 ,de,moivre's ,!orem to det}m9e t ! roots
-( _% f(x) _: >e _% .w~i _:1 ":  _% i .k
-#1, ''', #4 _: &
+( _% f(x) _: >e _% .w~i _:1 ":
+_% i .k #1, ''', #4 _: &
 _% .w .k cos (2.p_/5)+isin (2.p_/5) _:
 4 ,h;e1 ! splitt+ field ( _% f(x) _: m/
 2 _% `;,q(.w) _:4 ,we c def9e
 automorphisms _% .s;i _: (
-_% `;,q(.w) _: by _% .s;i"(.w) .k
-.w~i _: = _% i .k #1, ''', #4 _:4 ,x is
-easy to *eck t ~! >e 9de$ 4t9ct
-automorphisms 9
+_% `;,q(.w) _: by
+_% .s;i"(.w) .k .w~i _: =
+_% i .k #1, ''', #4 _:4 ,x is easy to
+*eck t ~! >e 9de$ 4t9ct automorphisms 9
 _% ,g(`;,q(.w)_/`;,q) _:4 ,s9ce
 _% `(`;,q(.w)_3`;,q`) .k
 |,g(`;,q(.w)_/`;,q)| .k #4 _:
 1 ! _% .s;i _:'s m/ 2 all (
 _% ,g(`;,q(.w)_/`;,q) _:4 ,"!=e1
-_% ,g(`;,q(.w)_/`;,q) `:.k `;,z4 _: s9ce
-_% .w _: is a g5}ator = ! ,galois gr|p4
+_% ,g(`;,q(.w)_/`;,q) `:.k `;,z4-  #ajif
+ _: s9ce _% .w _: is a g5}ator = !
+,galois gr|p4
 gggggggggggggggggggggggggggggggggggggggg
 
       ,subsec;n ,sep>able ,ext5.ns
   ,_m ( ! results t we h j prov5 dep5d
-on ! fact t a polynomial           #aead
-_% f(x) _: 9 _% ,f`(x`) _: has no rep1t$
-roots 9 xs splitt+ field4 ,x is evid5t t
-we ne$ to "k exactly :5 a polynomial
-factors 9to 4t9ct l9e> factors 9 xs
-splitt+ field4 ,let .2;,e 2 ! splitt+
-field ( a polynomial _% f(x) _: 9
-_% ,f`(x`) _:4 ,suppose t _% f(x) _:
-factors ov} .2;,e z
+on ! fact t a polynomial _% f(x) _: 9
+_% ,f`(x`) _: has no rep1t$ roots 9 xs
+splitt+ field4 ,x is evid5t t we ne$ to
+"k exactly :5 a polynomial factors 9to
+4t9ct l9e> factors 9 xs splitt+ field4
+,let .2;,e 2 ! splitt+ field ( a
+polynomial _% f(x) _: 9 _% ,f`(x`) _:4
+,suppose t _% f(x) _: factors ov} .2;,e
+z
 _% f(x) .k (x-.a1)~n1"(x-.a2)~n2 '''
 (x-.a;r")~n~;r~ .k "%i .k
 #1<r}(x-.a;i")~n~;i _:
@@ -364,22 +372,22 @@ _% .a;i _: ( _% f(x) _: to 2 _% n;i _:4
 ~1simple ~1root~'4  ,recall t a
 polynomial _% f(x) `e ,f`(x`) _: (
 degree .2;n is ~1sep>able if x has .2;n
-4t9ct roots 9 xs splitt+ field .2;,e4
-,equival5tly1 _% f(x) _: is sep>able if
-x factors 9to 4t9ct l9e> factors ov}
-_% ,e`(x`) _:4 ,an ext5.n .2;,e ( .2;,f
-is a ~1sep>able ~1ext5.n ( .2;,f if e
-ele;t 9 .2;,e is ! root ( a sep>able
-polynomial 9 _% ,f`(x`) _:4 ,al recall t
-_% f(x) _: is sep>able if & only   #aeae
-if _% gcd (f(x), f~'"(x)) .k #1 _:
+4t9ct roots 9 xs splitt+ field     #ajig
+.2;,e4 ,equival5tly1 _% f(x) _: is
+sep>able if x factors 9to 4t9ct l9e>
+factors ov} _% ,e`(x`) _:4 ,an ext5.n
+.2;,e ( .2;,f is a ~1sep>able ~1ext5.n (
+.2;,f if e ele;t 9 .2;,e is ! root ( a
+sep>able polynomial 9 _% ,f`(x`) _:4 ,al
+recall t _% f(x) _: is sep>able if &
+only if _% gcd (f(x), f~'"(x)) .k #1 _:
 "<,lemma #bb4e">4
 7777777777777777777777777777777777777777
 ,proposi;n  #bc4ab 4
   ,let _% f(x) _: 2 an irr$ucible
 polynomial ov} .2;,f4 ,if ! "*i/ic (
-.2;,f is _% #0 _:1 !n _% f(x) _: is
-sep>able4 ,if ! "*i/ic ( .2;,f is .2;p &
+.2;,f is #j1 !n _% f(x) _: is sep>able4
+,if ! "*i/ic ( .2;,f is .2;p &
 _% f(x) /.k g(x~p") _: = "s _% g(x) _: 9
 _% ,f`(x`) _:1 !n _% f(x) _: is al
 sep>able4
@@ -389,16 +397,17 @@ gggggggggggggggggggggggggggggggggggggggg
 ,pro( 4
   ,f/ assume t _% char,f .k #0 _:4 ,s9ce
 _% deg f~'"(x) "k deg f(x) _: &
-_% f(x) _: is irr$ucible1 ! only way
-_% gcd (f(x), f~'"(x)) /.k #1 _: is if
-_% f~'"(x) _: is ! z}o polynomial2 h{"e1
-? is impossible 9 a field ( "*i/ic z}o4
-,if _% char,f .k p _:1 !n _% f~'"(x) _:
-c 2 ! z}o polynomial if e coe6ici5t (
-_% f~'"(x) _: is a multiple ( .2;p4 ,? c
-happ5 only if we h a polynomial (  #aeaf
-! =m _% f(x) .k a0+a1x~p"+a2x~2p+'''
-+a;n"x~np _:4
+_% f(x) _: is irr$ucible1 ! only   #ajih
+way _% gcd (f(x), f~'"(x)) /.k #1 _: is
+if _% f~'"(x) _: is ! z}o polynomial2
+h{"e1 ? is impossible 9 a field ( "*i/ic
+z}o4 ,if _% char,f .k p _:1 !n
+_% f~'"(x) _: c 2 ! z}o polynomial if e
+coe6ici5t ( _% f~'"(x) _: is a multiple
+( .2;p4 ,? c happ5 only if we h a
+polynomial ( ! =m _%
+f(x) .k a0+a1x~p"+a2x~2p+''' +a;n"x~np
+_:4
 gggggggggggggggggggggggggggggggggggggggg
 
   ,c}ta9ly ext5.ns ( a field .2;,f ( !
@@ -413,16 +422,17 @@ ele;ts exi/ = c}ta9 ext5.ns4 ,= example1
 _% `;,q(>3}, >5}) .k `;,q(>3}+>5}) _:
 &
 _% `;,q(<3>5}, >5}i) .k `;,q(<6>5}i) _:
-4 ,coroll>y #bb4ab tells u t "! exi/s a
-primitive ele;t = any f9ite ext5.n ( a
-f9ite field4 ,! next !orem tells u t we
-c (t5 f9d a primitive ele;t4
+4 ,coroll>y #bb4ab tells u t "!    #ajii
+exi/s a primitive ele;t = any f9ite
+ext5.n ( a f9ite field4 ,! next !orem
+tells u t we c (t5 f9d a primitive
+ele;t4
 7777777777777777777777777777777777777777
 ,!orem  #bc4ac 4  ,primitive ,ele;t
 ,!orem4
   ,let .2;,e 2 a f9ite sep>able ext5.n (
-a field .2;,f4 ,!n "! exi/s an     #aeag
-_% .a `e ,e _: s* t _% ,e .k ,f(.a) _:4
+a field .2;,f4 ,!n "! exi/s an
+_% .a `e ,e _: s* t _% ,e .k ,f(.a) _:4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -437,32 +447,33 @@ _% g(x) _: 2  ! m9imal polynomials (
 _% .a _: & _% .b _:1 respectively4 ,let
 .2;,k 2 ! field 9 : bo? _% f(x) _: &
 _% g(x) _: split4 ,suppose t _% f(x) _:
-has z}os _% .a .k .a1, ''', .a;n _: 9
-.2;,k & _% g(x) _: has z}os _% .b .k
-.b1, ''', .b;m _: 9 .2;,k4 ,all ( ~!
-z}os h multiplic;y _% #1 _:1 s9ce .2;,e
+has z}os                           #aajj
+_% .a .k .a1, ''', .a;n _: 9 .2;,k &
+_% g(x) _: has z}os
+_% .b .k .b1, ''', .b;m _: 9 .2;,k4 ,all
+( ~! z}os h multiplic;y #a1 s9ce .2;,e
 is sep>able ov} .2;,f4 ,s9ce .2;,f is
 9f9ite1 we c f9d an .2a 9 .2;,f s* t
 _% a /.k ?.a;i"-.a/.b-.b;j# _:
 = all .2i & .2;j ) _% j /.k #1 _:4
 ,"!=e1 _% a(.b-.b;j") /.k .a;i"-.a _:4
-,let _% .g .k .a+a.b _:4 ,!n       #aeah
-_% .g .k .a+a.b /.k .a;i"+a.b;j2 _:
-h;e1 _% .g-a.b;j /.k .a;i _: = all _% i,
-j _: ) _% j /.k #1 _:4 ,def9e _% h(x) `e
-,f(.g)`(x`) _: by _% h(x) .k
-f(.g-ax) _:4 ,!n _% h(.b) .k f(.a) .k
-#0 _:4 ,h{"e1 _% h(.b;j") /.k #0 _: =
-_% j /.k #1 _:4 ,h;e1 _% h(x) _: &
-_% g(x) _: h a s+le common factor 9
-_% ,f(.g)`(x`) _:2 t is1 ! m9imal
-polynomial ( _% .b _: ov} _% ,f(.g) _:
-m/ 2 l9e>1 s9ce _% .b _: is ! only z}o
-common to bo? _% g(x) _: & _% h(x) _:4
-,s _% .b `e ,f(.g) _: & _% .a .k
-.g-a.b _: is 9 _% ,f(.g) _:4 ,h;e1
-_% ,f(.a, .b) .k ,f(.g) _:4
-gggggggggggggggggggggggggggggggggggggggg
+,let _% .g .k .a+a.b _:4 ,!n
+_% .g .k .a+a.b /.k .a;i"+a.b;j2 _:
+h;e1 _% .g-a.b;j /.k .a;i _: = all
+_% i, j _: ) _% j /.k #1 _:4 ,def9e
+_% h(x) `e ,f(.g)`(x`) _: by
+_% h(x) .k f(.g-ax) _:4 ,!n
+_% h(.b) .k f(.a) .k #0 _:4 ,h{"e1
+_% h(.b;j") /.k #0 _: = _% j /.k #1 _:4
+,h;e1 _% h(x) _: & _% g(x) _: h a s+le
+common factor 9 _% ,f(.g)`(x`) _:2 t is1
+! m9imal polynomial ( _% .b _: ov}
+_% ,f(.g) _: m/ 2 l9e>1 s9ce _% .b _: is
+! only z}o common to bo? _% g(x) _: &
+_% h(x) _:4 ,s _% .b `e ,f(.g) _: &
+_% .a .k .g-a.b _: is 9 _% ,f(.g) _:4
+,h;e1 _% ,f(.a, .b) .k ,f(.g) _:4  #aaja
+gggggggggggggggggggggggggggggggggggggggg
 
     ,sec;n #bc4b ,! ,funda;tal ,!orem
   ,! goal ( ? sec;n is to prove !
@@ -471,8 +482,8 @@ gggggggggggggggggggggggggggggggggggggggg
 _% ,g(,e_/,f) _: & ! 9t}m$iate fields 2t
 .2;,e & .2;,f4
 7777777777777777777777777777777777777777
-,proposi;n  #bc4ad 4               #aeai
-  ,let _% .(.s;i_3i `e ,i.) _: 2 a
+,proposi;n  #bc4ad 4
+  ,let _% .(.s;i_3i `e ,i.) _: 2 a
 collec;n ( automorphisms ( a field
 .2;,f4 ,!n
 _% ,f;.(.s;;i;.) .k .(a `e ,f_3.s;i"(a)
@@ -482,22 +493,21 @@ gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,pro( 4
-  ,let _% .s;i"(a) .k a _: & _% .s;i"(b)
-.k b _:4 ,!n
+  ,let _% .s;i"(a) .k a _: &
+_% .s;i"(b) .k b _:4 ,!n
 _% .s;i"(a+-b) .k .s;i"(a)+-.s;i"(b) .k
 a+-b _:
-&
-_% .s;i"(ab) .k .s;i"(a).s;i"(b) .k
+&                                  #aajb
+_% .s;i"(ab) .k .s;i"(a).s;i"(b) .k
 ab _:
-4 ,if _% a /.k #0 _:1 !n
-_% .s;i"(a~-1") .k `(.s;i"(a)`)~-1 .k
-a~-1 _:4 ,f9ally1 _% .s;i"(0) .k #0 _: &
+4 ,if _% a /.k #0 _:1 !n  _%
+.s;i"(a~-1") .k `(.s;i"(a)`)~-1 .k a~-1
+_:4 ,f9ally1 _% .s;i"(0) .k #0 _: &
 _% .s;i"(1) .k #1 _: s9ce _% .s;i _: is
 an automorphism4
 gggggggggggggggggggggggggggggggggggggggg
 
-                                   #aebj
-7777777777777777777777777777777777777777
+7777777777777777777777777777777777777777
 ,coroll>y  #bc4ae 4
   ,let .2;,f 2 a field & let .2;,g 2 a
 subgr|p ( _% ,aut(,f) _:4 ,!n
@@ -512,17 +522,16 @@ _% .(.s;i".) _:4 ,! field fix$ by a
 subgr|p .2;,g ( _% ,aut(,f) _: w 2 d5ot$
 by _% ,f;,g _:4
 7777777777777777777777777777777777777777
-,example  #bc4af 4
-  ,let _% .s_3 `;,q(>3}, >5}) $o
-`;,q(>3}, >5}) _: 2 ! automorphism t
-maps _% >3} _: to _% ->3} _:4 ,!n
-_% `;,q(>5}) _: is ! subfield (
-_% `;,q(>3}, >5}) _: left fix$ by
-_% .s _:4
+,example  #bc4af 4                 #aajc
+  ,let _%
+.s_3 `;,q(>3}, >5}) $o `;,q(>3}, >5})
+_: 2 ! automorphism t maps _% >3} _: to
+_% ->3} _:4 ,!n _% `;,q(>5}) _: is !
+subfield ( _% `;,q(>3}, >5}) _: left
+fix$ by _% .s _:4
 gggggggggggggggggggggggggggggggggggggggg
 
-                                   #aeba
-7777777777777777777777777777777777777777
+7777777777777777777777777777777777777777
 ,proposi;n  #bc4ag 4
   ,let .2;,e 2 a splitt+ field ov} .2;,f
 ( a sep>able polynomial4 ,!n
@@ -538,96 +547,96 @@ _% ,g(,e_/,f) .k ,g(,e_/,e;,g") _:4 ,by
 ,!orem #bc4g1
 _% |,g| .k `(,e_3,e;,g"`) .k `(,e "1
 ,f`) _:
-4 ,"!=e1 _% `(,e;,g_3,f`) .k #1 _:4
-,3sequ5tly1  _% ,e;,g .k ,f _:4
+4 ,"!=e1                           #aajd
+_% `(,e;,g_3,f`) .k #1 _:4 ,3sequ5tly1
+_% ,e;,g .k ,f _:4
 gggggggggggggggggggggggggggggggggggggggg
 
   ,a l>ge numb} ( ma!maticians f/ le>n$
 ,galois !ory f ,emil ,>t9's monograph on
 ! subject .<#a.>4 ,! v cl"e pro( ( !
 foll{+ lemma is due to ,>t94
-                                   #aebb
-7777777777777777777777777777777777777777
+7777777777777777777777777777777777777777
 ,lemma  #bc4ah 4
   ,let .2;,g 2 a f9ite gr|p (
-automorphisms ( .2;,e & let _% ,f .k
-,e;,g _:4 ,!n _% `(,e "1 ,f`) "k:
-|,g| _:4
+automorphisms ( .2;,e & let
+_% ,f .k ,e;,g _:4 ,!n
+_% `(,e "1 ,f`) "k: |,g| _:4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,pro( 4
   ,let _% |,g| .k n _:4 ,we m/ %{ t any
-set ( _% n+1 _: ele;ts _% .a1, ''',
-.a;n+1 _: 9 .2;,e is l9e>ly dep5d5t ov}
-.2;,f2 t is1 we ne$ to f9d ele;ts
-_% a;i" `e ,f _:1 n all z}o1 s* t
+set ( _% n+1 _: ele;ts
+_% .a1, ''', .a;n+1 _: 9 .2;,e is l9e>ly
+dep5d5t ov} .2;,f2 t is1 we ne$ to f9d
+ele;ts _% a;i" `e ,f _:1 n all z}o1 s* t
 _% a1.a1+a2.a2+''' +a;n+1".a;n+1 .k
-#0 _:
-4 ,suppose t _% .s1 .k id, .s2, ''',
-.s;n _: >e ! automorphisms 9 .2;,g4 ,!
-homog5e|s sy/em ( l9e> equa;ns
-
-
-
-
-                                   #aebc
-_%
-.s1(.a1)x1+.s1(.a2)x2+''' +.s1(.a;n+1")-
-x;n+1"       .k #0
-.s2(.a1)x1+.s2(.a2)x2+''' +.s2(.a;n+1")-
-x;n+1"       .k #0
-'''-
-
-.s;n"(.a1)x1+.s;n"(.a2)x2+''' +.s;n"(.a-
-;n+1")x;n+1" .k #0
+#0 _:                              #aaje
+4 ,suppose t
+_% .s1 .k id, .s2, ''', .s;n _: >e !
+automorphisms 9 .2;,g4 ,! homog5e|s
+sy/em ( l9e> equa;ns
+_%
+.s1(.a1)x1+.s1(.a2)x2+'''
++.s1(.a;n+1")x;n+1"       .k #0
+.s2(.a1)x1+.s2(.a2)x2+'''
++.s2(.a;n+1")x;n+1"       .k #0
+'''
+.s;n"(.a1)x1+.s;n"(.a2)x2+'''
++.s;n"(.a;n+1")x;n+1" .k #0
 _:
 has m un"kns ?an equa;ns4 ,f l9e>
 algebra we "k t ? sy/em has a nontrivial
-solu;n1 say _% x;i .k a;i _: = _% i .k
-#1, #2, ''', n+1 _:4 ,s9ce _% .s1 _: is
-! id5t;y1 ! f/ equa;n translates to
+solu;n1 say _% x;i .k a;i _: =
+_% i .k #1, #2, ''', n+1 _:4 ,s9ce
+_% .s1 _: is ! id5t;y1 ! f/ equa;n
+translates to
 _% a1.a1+a2.a2+''' +a;n+1".a;n+1 .k
 #0 _:
 4 ,! problem is t "s ( ! _% a;i _:'s may
 2 9 .2;,e b n 9 .2;,f4 ,we m/ %{ t ? is
 impossible4
-  ,suppose t at l1/ "o ( ! _% a;i _:'s
-is 9 .2;,e b n 9 .2;,f4 ,by re>rang+ !
-_% .a;i _:'s we may assume t _% a1 _: is
-nonz}o4 ,s9ce any nonz}o multiple ( a
-solu;n is al a solu;n1 we c al     #aebd
-assume t _% a1 .k #1 _:4 ,( all possible
-solu;ns fitt+ ? descrip;n1 we *oose ! "o
-) ! smalle/ numb} ( nonz}o t}ms4 ,ag1 by
-re>rang+ _% .a2, ''', .a;n+1 _: if nec1
-we c assume t _% a2 _: is 9 .2;,e b n 9
+  ,suppose t at l1/ "o ( !         #aajf
+_% a;i _:'s is 9 .2;,e b n 9 .2;,f4 ,by
+re>rang+ ! _% .a;i _:'s we may assume t
+_% a1 _: is nonz}o4 ,s9ce any nonz}o
+multiple ( a solu;n is al a solu;n1 we c
+al assume t _% a1 .k #1 _:4 ,( all
+possible solu;ns fitt+ ? descrip;n1 we
+*oose ! "o ) ! smalle/ numb} ( nonz}o
+t}ms4 ,ag1 by re>rang+
+_% .a2, ''', .a;n+1 _: if nec1 we c
+assume t _% a2 _: is 9 .2;,e b n 9
 .2;,f4 ,s9ce .2;,f is ! subfield ( .2;,e
 t is fix$ ele;twise by .2;,g1 "! exi/s a
-_% .s;i _: 9 .2;,g s* t _% .s;i"(a2) /.k
-a2 _:4 ,apply+ _% .s;i _: to ea* equa;n
-9 ! sy/em1 we 5d up ) ! same homog5e|s
-sy/em1 s9ce .2;,g is a gr|p4 ,"!=e1
-_% x1 .k .s;i"(a1) .k #1 _:1 _% x2 .k
-.s;i"(a2) _:1 _%  ''' _:1 _% x;n+1 .k
-.s;i"(a;n+1") _: is al a solu;n ( !
-orig9al sy/em4 ,we "k t a l9e> comb9a;n
-( two solu;ns ( a homog5e|s sy/em is al
-a solu;n2 3sequ5tly1
-_%
+_% .s;i _: 9 .2;,g s* t
+_% .s;i"(a2) /.k a2 _:4 ,apply+
+_% .s;i _: to ea* equa;n 9 ! sy/em1 we
+5d up ) ! same homog5e|s sy/em1 s9ce
+.2;,g is a gr|p4 ,"!=e1
+_% x1 .k .s;i"(a1) .k #1 _:1
+_% x2 .k .s;i"(a2) _:1 _%  ''' _:1
+_% x;n+1 .k .s;i"(a;n+1") _: is al a
+solu;n ( ! orig9al sy/em4 ,we "k t a
+l9e> comb9a;n ( two solu;ns ( a
+homog5e|s sy/em is al a solu;n2
+3sequ5tly1
+                                   #aajg
+_%
 x1     .k #1-1 .k #0
 x2     .k a2-.s;i"(a2)
 '''
 x;n+1" .k a;n+1"-.s;i"(a;n+1")
 _:
 m/ 2 ano!r solu;n ( ! sy/em4 ,? is a
-nontrivial solu;n 2c _% .s;i"(a2)  #aebe
-/.k a2 _:1 & has few} nonz}o 5tries ?an
-|r orig9al solu;n4 ,? is a 3tradic;n1
-s9ce ! numb} ( nonz}o solu;ns to |r
-orig9al solu;n 0 assum$ to 2 m9imal4 ,we
-c "!=e 3clude t _% a1, ''', a;n+1" `e
-,f _:4
+nontrivial solu;n 2c
+_% .s;i"(a2) /.k a2 _:1 & has few}
+nonz}o 5tries ?an |r orig9al solu;n4 ,?
+is a 3tradic;n1 s9ce ! numb} ( nonz}o
+solu;ns to |r orig9al solu;n 0 assum$ to
+2 m9imal4 ,we c "!=e 3clude t
+_% a1, ''', a;n+1" `e ,f _:4
 gggggggggggggggggggggggggggggggggggggggg
 
   ,let .2;,e 2 an algebraic ext5.n (
@@ -638,7 +647,8 @@ xs roots 9 .2;,e1 !n .2;,e is call$ a
 irr$ucible polynomial 9 _% ,f`(x`) _:
 3ta9+ a root 9 .2;,e is ! product ( l9e>
 factors 9 _% ,e`(x`) _:4
-7777777777777777777777777777777777777777
+                                   #aajh
+7777777777777777777777777777777777777777
 ,!orem  #bc4ai 4
   ,let .2;,e 2 a field ext5.n ( .2;,f4
 ,!n ! foll{+ /ate;ts >e equival5t4
@@ -646,8 +656,8 @@ factors 9 _% ,e`(x`) _:4
 #a4 .2;,e is a f9ite1 normal1 sep>able
   ext5.n ( .2;,f4
 #b4 .2;,e is a splitt+ field ov} .2;,f (
-  a sep>able polynomial4           #aebf
-#c4 _% ,f .k ,e;,g _: = "s f9ite gr|p
+  a sep>able polynomial4
+#c4 _% ,f .k ,e;,g _: = "s f9ite gr|p
   .2;,g ( automorphisms ( .2;,e4
 
 gggggggggggggggggggggggggggggggggggggggg
@@ -657,22 +667,22 @@ gggggggggggggggggggggggggggggggggggggggg
   "<#a"> _% $33oo _: "<#b">4 ,let .2;,e
 2 a f9ite1 normal1 sep>able ext5.n (
 .2;,f4 ,by ! ,primitive ,ele;t ,!orem1
-we c f9d an _% .a _: 9 .2;,e s* t _% ,e
-.k ,f(.a) _:4 ,let _% f(x) _: 2 ! m9imal
-polynomial ( _% .a _: ov} .2;,f4 ,!
-field .2;,e m/ 3ta9 all ( ! roots (
+we c f9d an _% .a _: 9 .2;,e s* t
+_% ,e .k ,f(.a) _:4 ,let _% f(x) _: 2 !
+m9imal polynomial ( _% .a _: ov} .2;,f4
+,! field .2;,e m/ 3ta9 all ( ! roots (
 _% f(x) _: s9ce x is a normal ext5.n
-.2;,f2 h;e1 .2;,e is a splitt+ field =
-_% f(x) _:4
+.2;,f2 h;e1 .2;,e is a splitt+     #aaji
+field = _% f(x) _:4
   "<#b"> _% $33oo _: "<#c">4 ,let .2;,e
 2 ! splitt+ field ov} .2;,f ( a sep>able
 polynomial4 ,by ,proposi;n #bc4ag1
 _% ,e;,g(,e_/,f) .k ,f _:4 ,s9ce
 _% |,g(,e_/,f)| .k `(,e "1 ,f`) _:1 ? is
 a f9ite gr|p4
-  "<#c"> _% $33oo _: "<#a">4 ,let _% ,f
-.k ,e;,g _: = "s f9ite gr|p (      #aebg
-automorphisms .2;,g ( .2;,e4 ,s9ce
+  "<#c"> _% $33oo _: "<#a">4 ,let
+_% ,f .k ,e;,g _: = "s f9ite gr|p (
+automorphisms .2;,g ( .2;,e4 ,s9ce
 _% `(,e "1 ,f`) "k: |,g| _:1 .2;,e is a
 f9ite ext5.n ( .2;,f4 ,to %{ t .2;,e is
 a f9ite1 normal ext5.n ( .2;,f1 let
@@ -685,26 +695,26 @@ automorphisms 9 .2;,g p}mute ! roots (
 _% f(x) _: ly+ 9 .2;,e4 ,h;e1 if we let
 .2;,g act on _% .a _:1 we c obta9 4t9ct
 roots _% .a1 .k .a, .a2, ''', .a;n _: 9
-.2;,e4 ,let _% g(x) .k "%i .k
-#1<n}(x-.a;i") _:4 ,!n _% g(x) _: is
-sep>able ov} .2;,f & _% g(.a) .k #0 _:4
-,any automorphism _% .s _: 9 .2;,g
-p}mutes ! factors ( _% g(x) _: s9ce x
-p}mutes ~! roots2 h;e1 :5 _% .s _: acts
-on _% g(x) _:1 x m/ fix ! coe6ici5ts (
-_% g(x) _:4 ,"!=e1 ! coe6ici5ts (
-_% g(x) _: m/ 2 9 .2;,f4 ,s9ce _% deg
-g(x) "k: deg f(x) _: & _% f(x) _: is !
-m9imal polynomial ( _% .a _:1 _% f(x) .k
-g(x) _:4                           #aebh
-gggggggggggggggggggggggggggggggggggggggg
+.2;,e4 ,let
+_% g(x) .k "%i .k #1<n}(x-.a;i") _:4 ,!n
+_% g(x) _: is sep>able ov} .2;,f   #aaaj
+& _% g(.a) .k #0 _:4 ,any automorphism
+_% .s _: 9 .2;,g p}mutes ! factors (
+_% g(x) _: s9ce x p}mutes ~! roots2 h;e1
+:5 _% .s _: acts on _% g(x) _:1 x m/ fix
+! coe6ici5ts ( _% g(x) _:4 ,"!=e1 !
+coe6ici5ts ( _% g(x) _: m/ 2 9 .2;,f4
+,s9ce _% deg g(x) "k: deg f(x) _: &
+_% f(x) _: is ! m9imal polynomial (
+_% .a _:1 _% f(x) .k g(x) _:4
+gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,coroll>y  #bc4bj 4
   ,let .2;,k 2 a field ext5.n ( .2;,f s*
 t _% ,f .k ,k;,g _: = "s f9ite gr|p (
-automorphisms .2;,g ( .2;,k4 ,!n _% ,g
-.k ,g(,k_/,f) _:4
+automorphisms .2;,g ( .2;,k4 ,!n
+_% ,g .k ,g(,k_/,f) _:4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -712,8 +722,8 @@ gggggggggggggggggggggggggggggggggggggggg
   ,s9ce _% ,f .k ,k;,g _:1 .2;,g is a
 subgr|p ( _% ,g(,k_/,f) _:4 ,h;e1
 _% `(,k "1 ,f`) "k: |,g| "k:
-|,g(,k_/,f)| .k `(,k "1 ,f`) _:
-4 ,x foll{s t _% ,g .k ,g(,k_/,f) _:1
+|,g(,k_/,f)| .k `(,k "1 ,f`) _:    #aaaa
+4 ,x foll{s t _% ,g .k ,g(,k_/,f) _:1
 s9ce !y m/ h ! same ord}4
 gggggggggggggggggggggggggggggggggggggggg
 
@@ -721,15 +731,15 @@ gggggggggggggggggggggggggggggggggggggggg
 field ext5.ns & automorphisms ( fields1
 let u return to a famili> example4
 7777777777777777777777777777777777777777
-,example  #bc4ba 4                 #aebi
-  ,9 ,example #bc4d we exam9$ !
+,example  #bc4ba 4
+  ,9 ,example #bc4d we exam9$ !
 automorphisms ( _% `;,q(>3}, >5}) _:
 fix+ _% `;,q _:4 ,figure #bc4bb comp>es
 ! lattice ( field ext5.ns ( _% `;,q _: )
-! lattice ( subgr|ps ( _% ,g(`;,q(>3},
->5})_/`;,q) _:4 ,! ,funda;tal ,!orem (
-,galois ,!ory tells u :at ! rela;n%ip is
-2t ! two lattices4
+! lattice ( subgr|ps (
+_% ,g(`;,q(>3}, >5})_/`;,q) _:4 ,!
+,funda;tal ,!orem ( ,galois ,!ory tells
+u :at ! rela;n%ip is 2t ! two lattices4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
@@ -737,8 +747,8 @@ gggggggggggggggggggggggggggggggggggggggg
 ,descrip;n3 ,! graph is a lattice (
 subgr|ps ( ! gr|p "<id5t;y1 sigma1 tau1
 mu">4 ,! gr|p "<id5t;y1 sigma1 tau1 mu">
-has subgr|ps "<id5t;y1 sigma">1
-"<id5t;y1 tau">1 & "<id5t;y1 mu">4  ,at
+has subgr|ps "<id5t;y1 sigma">1    #aaab
+"<id5t;y1 tau">1 & "<id5t;y1 mu">4  ,at
 level ?ree "! is ! subgr|p "<id5t;y">1 :
 is 3ta9$ 9 all subgr|ps4
 ,image ,,id3 galois-root#c-root#e-;b
@@ -746,14 +756,14 @@ is 3ta9$ 9 all subgr|ps4
 subfields ( ! ra;nals ) ! squ>e root (
 ?ree & ! squ>e root ( five atta*$4 ,!
 field ( ! ra;nals ) ! squ>e root ( ?ree
-& ! squ>e root ( five atta*$1 has  #aecj
-subfields ( ! ra;nals ) ! squ>e root (
+& ! squ>e root ( five atta*$1 has
+subfields ( ! ra;nals ) ! squ>e root (
 ?ree atta*$1 ! ra;nals ) ! squ>e root (
 five atta*$1 & ! ra;nals ) ! squ>e root
 ( fifte5 atta*$4  ,at level ?ree "! >e !
 ra;nals : >e 3ta9$ 9 all ( ! fields abv4
-,figure  #bc4bb 4  _% ,g( `;,q(>3},
->5})_/`;,q) _:
+,figure  #bc4bb 4
+_% ,g( `;,q(>3}, >5})_/`;,q) _:
 gggggggggggggggggggggggggggggggggggggggg
 
   ,we >e n{ r1dy to /ate & prove !
@@ -762,79 +772,58 @@ gggggggggggggggggggggggggggggggggggggggg
 ,!orem  #bc4bc 4  ,funda;tal ,!orem (
 ,galois ,!ory4
   ,let .2;,f 2 a f9ite field or a field
-( "*i/ic z}o4 ,if .2;,e is a f9ite
-normal ext5.n ( .2;,f ) ,galois gr|p
-_% ,g(,e_/,f) _:1 !n ! foll{+ /ate;ts >e
-true4
+( "*i/ic z}o4 ,if .2;,e is a       #aaac
+f9ite normal ext5.n ( .2;,f ) ,galois
+gr|p _% ,g(,e_/,f) _:1 !n ! foll{+
+/ate;ts >e true4
 
 #a4 ,! map _% ,k $|33o ,g(,e_/,k) _: is
   a bijec;n ( subfields .2;,k ( .2;,e
   3ta9+ .2;,f ) ! subgr|ps (
   _% ,g(,e_/,f) _:4
-  #b4 ,if _% ,f _"k ,k _"k ,e _:1  #aeca
-  !n
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                   #aecb
-  _% `(,e "1 ,k`) .k |,g(,e_/,k)| and
+#b4 ,if _% ,f _"k ,k _"k ,e _:1 !n
+  _% `(,e "1 ,k`) .k |,g(,e_/,k)| and
   `(,k "1 ,f`) .k `(,g(,e_/,f) "1
   ,g(,e_/,k)`) _:
   4
 #c4 _% ,f _"k ,k _"k ,l _"k ,e _: if &
-  only if _% .(id.) _"k ,g(,e_/,l) _"k
-  ,g(,e_/,k) _"k ,g(,e_/,f) _:4
+  only if
+  _% .(id.) _"k ,g(,e_/,l) _"k
+  ,g(,e_/,k) _"k ,g(,e_/,f) _:
+  4
 #d4 .2;,k is a normal ext5.n ( .2;,f if
   & only if _% ,g(,e_/,k) _: is a normal
   subgr|p ( _% ,g(,e_/,f) _:4 ,9 ? case
   _% ,g(,k_/,f) `:.k
   ,g(,e_/,f)_/,g(,e_/,k) _:
   4
-
-gggggggggggggggggggggggggggggggggggggggg
+                                   #aaad
+gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,pro( 4
-  "<#a"> ,suppose t _% ,g(,e_/,k) .k
-,g(,e_/,l) .k ,g _:4 ,bo? .2;,k & .2;,l
->e fix$ fields ( .2;,g2 h;e1 _% ,k .k
-,l _: & ! map def9$ by _% ,k $|33o
-,g(,e_/,k) _: is "o-to-"o4 ,to %{ t !
-map is onto1 let .2;,g 2 a subgr|p (
-_% ,g(,e_/,f) _: & .2;,k 2 !       #aecc
-field fix$ by .2;,g4 ,!n _% ,f _"k ,k
-_"k ,e _:2 3sequ5tly1 .2;,e is a normal
-ext5.n ( .2;,k4 ,?us1 _% ,g(,e_/,k) .k
-,g _: & ! map _% ,k $|33o ,g(,e_/,k) _:
-is a bijec;n4
+  "<#a"> ,suppose t
+_% ,g(,e_/,k) .k ,g(,e_/,l) .k ,g _:4
+,bo? .2;,k & .2;,l >e fix$ fields (
+.2;,g2 h;e1 _% ,k .k ,l _: & ! map def9$
+by _% ,k $|33o ,g(,e_/,k) _: is
+"o-to-"o4 ,to %{ t ! map is onto1 let
+.2;,g 2 a subgr|p ( _% ,g(,e_/,f) _: &
+.2;,k 2 ! field fix$ by .2;,g4 ,!n
+_% ,f _"k ,k _"k ,e _:2 3sequ5tly1 .2;,e
+is a normal ext5.n ( .2;,k4 ,?us1
+_% ,g(,e_/,k) .k ,g _: & ! map
+_% ,k $|33o ,g(,e_/,k) _: is a bijec;n4
   "<#b"> ,by ,!orem ,!orem #bc4g1
 _% |,g(,e_/,k)| .k `(,e "1 ,k`) _:2
 "!=e1
 _% |,g(,e_/,f)| .k `(,g(,e_/,f) "1
 ,g(,e_/,k)`)*|,g(,e_/,k)| .k `(,e "1
 ,f`) .k `(,e "1 ,k`)`(,k "1 ,f`) _:
-4 ,?us1 _% `(,k "1 ,f`) .k `(,g(,e_/,f)
-"1 ,g(,e_/,k)`) _:4
+4 ,?us1
+_% `(,k "1 ,f`) .k `(,g(,e_/,f) "1
+,g(,e_/,k)`) _:                    #aaae
+4
   ,/ate;t "<#c"> is illu/rat$ 9
 ,figure #bc4bd4 ,we l1ve ! pro( ( ?
 prop}ty z an ex}cise4
@@ -844,10 +833,10 @@ _% .s _: is 9 _% ,g(,e_/,f) _: &
 _% .t _: is 9 _% ,g(,e_/,k) _:1 we ne$
 to %{ t _% .s~-1".t.s _: is 9
 _% ,g(,e_/,k) _:2 t is1 we ne$ to %{ t
-_% .s~-1".t.s(.a) .k .a _: = all _% .a
-`e ,k _:4 ,suppose t _% f(x) _: is !
-m9imal polynomial ( _% .a _: ov}   #aecd
-.2;,f4 ,!n _% .s(.a) _: is al a root (
+_% .s~-1".t.s(.a) .k .a _: = all
+_% .a `e ,k _:4 ,suppose t _% f(x) _: is
+! m9imal polynomial ( _% .a _: ov}
+.2;,f4 ,!n _% .s(.a) _: is al a root (
 _% f(x) _: ly+ 9 .2;,k1 s9ce .2;,k is a
 normal ext5.n ( .2;,f4 ,h;e1
 _% .t(.s(.a)) .k .s(.a) _: or
@@ -856,10 +845,10 @@ _% .s~-1".t.s(.a) .k .a _:4
 normal subgr|p ( _% ,g(,e_/,f) _:4 ,we
 ne$ to %{ t _% ,f .k ,k;,g(,k_/,f) _:4
 ,let _% .t `e ,g(,e_/,k) _:4 ,= all
-_% .s `e ,g(,e_/,f) _: "! exi/s a _% .t:
-`e ,g(,e_/,k) _: s* t _% .t.s .k
-.s.t: _:4 ,3sequ5tly1 = all _% .a `e
-,k _:
+_% .s `e ,g(,e_/,f) _: "! exi/s a
+_% .t: `e ,g(,e_/,k) _: s* t
+_% .t.s .k .s.t: _:4 ,3sequ5tly1   #aaaf
+= all _% .a `e ,k _:
 _% .t(.s(.a)) .k .s(".t<:}(.a)) .k
 .s(.a)2 _:
 h;e1 _% .s(.a) _: m/ 2 9 ! fix$ field (
@@ -867,25 +856,27 @@ _% ,g(,e_/,k) _:4 ,let _% .s: _: 2 !
 re/ric;n ( _% .s _: to .2;,k4 ,!n
 _% .s: _: is an automorphism ( .2;,k
 fix+ .2;,f1 s9ce _% .s(.a) `e ,k _: =
-all _% .a `e ,k _:2 h;e1 _% .s: `e
-,g(,k_/,f) _:4 ,next1 we w %{ t ! fix$
-field ( _% ,g(,k_/,f) _: is .2;,f4 ,let
-_% .b _: 2 an ele;t 9 .2;,k t is fix$ by
-all automorphisms 9                #aece
-_% ,g(,k_/,f) _:4 ,9 "picul>1
-_% ".s<:}(.b) .k .b _: = all _% .s `e
-,g(,e_/,f) _:4 ,"!=e1 _% .b _: 2l;gs to
-! fix$ field .2;,f ( _% ,g(,e_/,f) _:4
+all _% .a `e ,k _:2 h;e1
+_% .s: `e ,g(,k_/,f) _:4 ,next1 we w %{
+t ! fix$ field ( _% ,g(,k_/,f) _: is
+.2;,f4 ,let _% .b _: 2 an ele;t 9 .2;,k
+t is fix$ by all automorphisms 9
+_% ,g(,k_/,f) _:4 ,9 "picul>1
+_% ".s<:}(.b) .k .b _: = all
+_% .s `e ,g(,e_/,f) _:4 ,"!=e1 _% .b _:
+2l;gs to ! fix$ field .2;,f (
+_% ,g(,e_/,f) _:4
   ,f9ally1 we m/ %{ t :5 .2;,k is a
 normal ext5.n ( .2;,f1
 _% ,g(,k_/,f) `:.k
 ,g(,e_/,f)_/,g(,e_/,k) _:
 4 ,= _% .s `e ,g(,e_/,f) _:1 let
 _% .s;,k _: 2 ! automorphism ( .2;,k
-obta9$ by re/rict+ _% .s _: to .2;,k4
-,s9ce .2;,k is a normal ext5.n1 ! >gu;t
-9 ! prec$+ p>agraph %{s t _% .s;,k" `e
-,g(,k_/,f) _:4 ,3sequ5tly1 we h a map
+obta9$ by re/rict+ _% .s _: to     #aaag
+.2;,k4 ,s9ce .2;,k is a normal ext5.n1 !
+>gu;t 9 ! prec$+ p>agraph %{s t
+_% .s;,k" `e ,g(,k_/,f) _:4 ,3sequ5tly1
+we h a map
 _% .f_3 ,g(,e_/,f) $o ,g(,k_/,f) _:
 def9$ by _% .s $|33o .s;,k _:4 ,? map is
 a gr|p homomorphism s9ce
@@ -896,16 +887,18 @@ _% ,g(,e_/,k) _:4 ,by "<#b">1
 _% |,g(,e_/,f)|_/|,g(,e_/,k)| .k `(,k "1
 ,f`) .k |,g(,k_/,f)| _:
 4 ,h;e1 ! image ( _% .f _: is
-_% ,g(,k_/,f) _: & _% .f _: is     #aecf
-onto4 ,apply+ ! ,f/ ,isomorphism ,!orem1
-we h
+_% ,g(,k_/,f) _: & _% .f _: is onto4
+,apply+ ! ,f/ ,isomorphism ,!orem1 we h
 _% ,g(,k_/,f) `:.k
 ,g(,e_/,f)_/,g(,e_/,k) _:
 4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
-_%
+
+
+                                   #aaah
+_%
 ,e    "$33o<} .(id.)
 $<33o  $%33o
 ,l    "$33o<} ,g(,e_/,l)
@@ -921,83 +914,105 @@ gggggggggggggggggggggggggggggggggggggggg
 7777777777777777777777777777777777777777
 ,example  #bc4be 4
   ,9 ? example we w illu/rate !
-,funda;tal ,!orem ( ,galois ,!ory  #aecg
-by det}m9+ ! lattice ( subgr|ps ( !
-,galois gr|p ( _% f(x) .k x~4"-2 _:4 ,we
-w comp>e ? lattice to ! lattice ( field
+,funda;tal ,!orem ( ,galois ,!ory by
+det}m9+ ! lattice ( subgr|ps ( ! ,galois
+gr|p ( _% f(x) .k x~4"-2 _:4 ,we w
+comp>e ? lattice to ! lattice ( field
 ext5.ns ( _% `;,q _: t >e 3ta9$ 9 !
 splitt+ field ( _% x~4"-2 _:4 ,! splitt+
-field ( _% f(x) _: is _% `;,q(<4>2},
-i) _:4 ,to see ?1 notice t _% f(x) _:
-factors z _% (x~2"+>2})(x~2"->2}) _:2
-h;e1 ! roots ( _% f(x) _: >e
-_% +-<4>2} _: & _% +-<4>2}i _:4 ,we f/
-adjo9 ! root _% <4>2} _: to _% `;,q _: &
-!n adjo9 ! root .2i ( _% x~2"+1 _: to
+field ( _% f(x) _: is
+_% `;,q(<4>2}, i) _:4 ,to see ?1 notice
+t _% f(x) _: factors z             #aaai
+_% (x~2"+>2})(x~2"->2}) _:2 h;e1 ! roots
+( _% f(x) _: >e _% +-<4>2} _: &
+_% +-<4>2}i _:4 ,we f/ adjo9 ! root
+_% <4>2} _: to _% `;,q _: & !n adjo9 !
+root .2i ( _% x~2"+1 _: to
 _% `;,q(<4>2}) _:4 ,! splitt+ field (
-_% f(x) _: is !n _% `;,q(<4>2})(i) .k
-`;,q(<4>2}, i) _:4
-  ,s9ce _% `(`;,q(<4>2})_3`;,q`) .k
-#4 _: & .2i is n 9 _% `;,q(<4>2}) _:1 x
-m/ 2 ! case t _% `(`;,q(<4>2}, i) "1
-`;,q(<4>2})`) .k #2 _:4 ,h;e1
+_% f(x) _: is !n
+_% `;,q(<4>2})(i) .k `;,q(<4>2}, i) _:4
+  ,s9ce
+_% `(`;,q(<4>2})_3`;,q`) .k #4 _: & .2i
+is n 9 _% `;,q(<4>2}) _:1 x m/ 2 ! case
+t _%
+`(`;,q(<4>2}, i) "1 `;,q(<4>2})`) .k #2
+_:4 ,h;e1
 _% `(`;,q(<4>2}, i)_3`;,q`) .k #8 _:4 ,!
 set
 _% .(1, <4>2}, (<4>2})~2, (<4>2})~3, i,
 i<4>2}, i(<4>2})~2, i(<4>2})~3".) _:
 is a basis ( _% `;,q(<4>2}, i) _: ov}
-_% `;,q _:4 ,! lattice ( field     #aech
-ext5.ns ( _% `;,q _: 3ta9$ 9
-_% `;,q(<4>2}, i) _: is illu/rat$ 9
-,figure #bc4bf"<a">4
-  ,! ,galois gr|p .2;,g ( _% f(x) _: m/
-2 ( ord} _% #8 _:4 ,let _% .s _: 2 !
-automorphism def9$ by _% .s(<4>2}) .k
-i<4>2} _: & _% .s(i) .k i _:1 & _% .t _:
-2 ! automorphism def9$ by complex
-3juga;n2 t is1 _% .t(i) .k -i _:4 ,!n
-.2;,g has an ele;t ( ord} _% #4 _: & an
-ele;t ( ord} _% #2 _:4 ,x is easy to
-v}ify by direct computa;n t ! ele;ts (
-.2;,g >e _% .(id, .s, .s~2, .s~3, .t,
-.s.t, .s~2".t, .s~3".t.) _: & t !
-rela;ns _% .t~2 .k id _:1 _% .s~4 .k
-id _:1 & _% .t.s.t .k .s~-1 _: >e
-satisfi$2 h;e1 .2;,g m/ 2 isomorphic to
-_% ,d4 _:4 ,! lattice ( subgr|ps ( .2;,g
-is illu/rat$ 9 ,figure #bc4bf"<b">4
+_% `;,q _:4 ,! lattice ( field ext5.ns (
+_% `;,q _: 3ta9$ 9 _% `;,q(<4>2}, i) _:
+is illu/rat$ 9 ,figure #bc4bf"<a">4
+,! ,galois gr|p .2;,g ( _% f(x) _: m/ 2
+( ord} #h4 ,let _% .s _: 2 !
+automorphism def9$ by              #aabj
+_% .s(<4>2}) .k i<4>2} _: &
+_% .s(i) .k i _:1 & _% .t _: 2 !
+automorphism def9$ by complex 3juga;n2 t
+is1 _% .t(i) .k -i _:4 ,!n .2;,g has an
+ele;t ( ord} #d & an ele;t ( ord} #b4 ,x
+is easy to v}ify by direct computa;n t !
+ele;ts ( .2;,g >e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #aaba
+_% .(id, .s, .s~2, .s~3, .t, .s.t,
+.s~2".t, .s~3".t.) _:
+& t ! rela;ns _% .t~2 .k id _:1
+_% .s~4 .k id _:1 &
+_% .t.s.t .k .s~-1 _: >e satisfi$2 h;e1
+.2;,g m/ 2 isomorphic to _% ,d4 _:4 ,!
+lattice ( subgr|ps ( .2;,g is illu/rat$
+9 ,figure #bc4bf"<b">4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,image ,,id3 galois-f|r?-root#b
 ,descrip;n3 ,! top diagram is a lattice
-( fields & ! bottom diagram is a   #aeci
-lattice ( ! correspond+ gr|ps4   ,at !
-top ( ! field lattice is ! ra;nals ) !
-f|r? root ( #b & i atta*$4 ,on ! next
-level >e five subfields3 ! ra;nals ) !
+( fields & ! bottom diagram is a lattice
+( ! correspond+ gr|ps4   ,at ! top ( !
+field lattice is ! ra;nals ) ! f|r? root
+( #b & i atta*$4 ,on ! next level >e
+five subfields3 ! ra;nals ) ! f|r? root
+( #b atta*$1 ! ra;nals ) i "ts ! f|r?
+root ( #b atta*$1 ! ra;nals ) ! squ>e
+root ( #b & i atta*$1 ! ra;nals ) #a
+plus i "ts ! squ>e root ( #b atta*$1 & !
+ra;nals ) #a m9us i "ts ! squ>e root (
+#b atta*$4 ,on ! ?ird level1 "! is !
+ra;nals ) ! squ>e root ( #b        #aabb
+atta*$1 : is a subfield ( ! ra;nals ) !
 f|r? root ( #b atta*$1 ! ra;nals ) i "ts
 ! f|r? root ( #b atta*$1 ! ra;nals ) !
-squ>e root ( #b & i atta*$1 ! ra;nals )
-#a plus i "ts ! squ>e root ( #b atta*$1
-& ! ra;nals ) #a m9us i "ts ! squ>e root
-( #b atta*$4 ,on ! ?ird level1 "! is !
-ra;nals ) ! squ>e root ( #b atta*$1 : is
-a subfield ( ! ra;nals ) ! f|r? root (
-#b atta*$1 ! ra;nals ) i "ts ! f|r? root
-( #b atta*$1 ! ra;nals ) ! squ>e root (
-#b & i atta*$4 ,"! is ! ra;nals ) i
-atta*$1 : is a subfield ( ! ra;nals ) !
 squ>e root ( #b & i atta*$4 ,"! is !
-ra;nals ) ! squ>e root ( #b "ts i
-atta*$1 : is a subfield ( ! ra;nals ) !
-squ>e root ( #b & i atta*$1 ! ra;nals )
-#a plus i "ts ! squ>e root ( #b atta*$1
-& ! ra;nals ) #a m9us i "ts ! squ>e root
-( #b atta*$4 ,at level f|r "! is !
-ra;nals : is a subfield ( all ( ! o!r
-fields4 ,9 bottom lattice1 "! is   #aedj
-! dih$ral gr|p1 ,d#d1 at ! top level4 ,!
+ra;nals ) i atta*$1 : is a subfield ( !
+ra;nals ) ! squ>e root ( #b & i atta*$4
+,"! is ! ra;nals ) ! squ>e root ( #b "ts
+i atta*$1 : is a subfield ( ! ra;nals )
+! squ>e root ( #b & i atta*$1 ! ra;nals
+) #a plus i "ts ! squ>e root ( #b
+atta*$1 & ! ra;nals ) #a m9us i "ts !
+squ>e root ( #b atta*$4 ,at level f|r "!
+is ! ra;nals : is a subfield ( all ( !
+o!r fields4 ,9 bottom lattice1 "! is !
+dih$ral gr|p1 ,d#d1 at ! top level4 ,!
 next level 3si/s ( ?ree subgr|ps3
 "<id5t;y1 sigma squ>$1 tau1 sigma squ>$
 "ts tau">1 "<id5t;y1 sigma1 sigma squ>$1
@@ -1007,10 +1022,10 @@ sigma "ts tau1 sigma cub$ "ts tau">4 ,!
 "<id5t;y1 tau"> is a subgr|p ( "<id5t;y1
 sigma squ>$1 tau1 sigma squ>$ "ts tau">4
 "<id5t;y1 sigma squ>$ "ts tau"> is a
-subgr|p ( "<id5t;y1 sigma squ>$1 tau1
-sigma squ>$ "ts tau">4 "<id5t;y1 sigma
-squ>$"> is a subgr|p ( "<id5t;y1 sigma
-squ>$1 tau1 sigma squ>$ "ts tau">1
+subgr|p ( "<id5t;y1 sigma squ>$1   #aabc
+tau1 sigma squ>$ "ts tau">4 "<id5t;y1
+sigma squ>$"> is a subgr|p ( "<id5t;y1
+sigma squ>$1 tau1 sigma squ>$ "ts tau">1
 "<id5t;y1 sigma1 sigma squ>$1 sigma
 cub$">1 & "<id5t;y1 sigma squ>$1 sigma
 "ts tau1 sigma cub$ "ts tau">4 "<id5t;y1
@@ -1021,8 +1036,8 @@ tau"> is a subgr|p ( "<id5t;y1 sigma
 squ>$1 sigma "ts tau1 sigma cub$ "ts
 tau">4 ,! bottom level has only !
 subgr|p 3si/+ ( ! id5t;y1 : is 3ta9$ 9
-all ! subgr|ps4                    #aeda
-,figure  #bc4bf 4  ,galois gr|p (
+all ! subgr|ps4
+,figure  #bc4bf 4  ,galois gr|p (
 _% x~4"-2 _:
 gggggggggggggggggggggggggggggggggggggggg
 
@@ -1032,21 +1047,7 @@ gggggggggggggggggggggggggggggggggggggggg
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                   #aedb
+                                   #aabd
 ,transcrib} note3 ! image ) ,,id
 galois-f|r?-root#b 2l;gs "h4  ,replace ?
 page ) ! 9dep5d5tly g5}at$ tactile
@@ -1071,7 +1072,7 @@ image4
 
 
 
-                                   #aedc
+                                   #aabe
       ,subsec;n ,hi/orical ,note
   ,solu;ns = ! cubic & qu>tic equa;ns 7
 4cov}$ 9 ! #aejjs4 ,attempts to f9d
@@ -1096,7 +1097,7 @@ ma!matical g5ius4 ,he 0 f9ally a3ept$ at
 solvabil;y = polynomials4 ,9 #ahbi1 at !
 age ( #ag1 ,galois pres5t$ two pap}s on
 ! solu;n ( algebraic equa;ns to !
-,acad~/emie des ,sci;es de ,p>is4  #aedd
+,acad~/emie des ,sci;es de ,p>is4  #aabf
 ,~! pap}s 7 s5t to ,cau*y1 :o
 subsequ5tly lo/ !m4 ,a ?ird pap} 0
 submitt$ to ,f|ri}1 :o di$ 2f he cd r1d
@@ -1121,13 +1122,14 @@ h "*i/ic z}o to 5sure t irr$ucible
 polynomials d n h multiple roots4 ,! imm
 goal ( ? sec;n is to det}m9e :5 ! roots
 ( a polynomial _% f(x) _: c 2 comput$ )
-a f9ite numb} ( op}a;ns on !       #aede
+a f9ite numb} ( op}a;ns on !       #aabg
 coe6ici5ts ( _% f(x) _:4 ,! all{able
 op}a;ns >e addi;n1 subtrac;n1
 multiplica;n1 divi.n1 & ! extrac;n (
 .2n? roots4 ,c}ta9ly ! solu;n to !
-quadratic equa;n1 _% ax~2"+bx+c .k
-#0 _:1 illu/rates ? process3
+quadratic equa;n1
+_% ax~2"+bx+c .k #0 _:1 illu/rates ?
+process3
 _% x .k ?-b+->b~2"-4ac}/2a# _:
 4 ,! only "o ( ~! op}a;ns t mi<t dem& a
 l>g} field is ! tak+ ( .2n? roots4 ,we
@@ -1145,9 +1147,9 @@ _% f(x) _: is ~7solvable by radicals~'
 ov} .2;,f if ! splitt+ field .2;,k (
 _% f(x) _: ov} .2;,f is 3ta9$ 9 an
 ext5.n ( .2;,f by radicals4 ,|r goal is
-to >rive at crit}ia t w tell u :e!r or n
-a polynomial _% f(x) _: is         #aedf
-solvable by radicals by exam9+ ! ,galois
+to >rive at crit}ia t w tell u     #aabh
+:e!r or n a polynomial _% f(x) _: is
+solvable by radicals by exam9+ ! ,galois
 gr|p _% f(x) _:4
   ,! easie/ polynomial to solve by
 radicals is "o ( ! =m _% x~n"-a _:4 ,z
@@ -1163,17 +1165,17 @@ call$ a ~7primitive n? root (~'
 ,example  #bc4bg 4
   ,! polynomial _% x~n"-1 _: is solvable
 by radicals ov} _% `;,q _:4 ,! roots ( ?
-polynomial >e _% #1, .w, .w~2, ''',
-.w~n-1 _:1 ":
+polynomial >e
+_% #1, .w, .w~2, ''', .w~n-1 _:1 ":
 _% .w .k cos (?2.p/n#)+isin (?2.p/n#) _:
 4 ,! splitt+ field ( _% x~n"-1 _: ov}
 _% `;,q _: is _% `;,q(.w) _:4
 gggggggggggggggggggggggggggggggggggggggg
 
-  ,we % prove t a polynomial is solvable
-by radicals if xs ,galois gr|p is  #aedg
-solvable4 ,recall t a subnormal s}ies (
-a gr|p .2;,g is a f9ite sequ;e (
+  ,we % prove t a polynomial is    #aabi
+solvable by radicals if xs ,galois gr|p
+is solvable4 ,recall t a subnormal s}ies
+( a gr|p .2;,g is a f9ite sequ;e (
 subgr|ps
 _% ,g .k ,h;n _.1 ,h;n-1 _.1 '''  _.1
 ,h1 _.1 ,h0 .k .(e.) _:
@@ -1182,10 +1184,11 @@ _% ,h;i+1 _:4 ,a gr|p .2;,g is solvable
 if x has a subnormal s}ies
 _% .(,h;i".) _: s* t all ( ! factor
 gr|ps _% ,h;i+1"_/,h;i _: >e abelian4 ,=
-example1 if we exam9e ! s}ies _% .(id.)
-_"k ,a3 _"k ,s3 _:1 we see t _% ,s3 _:
-is solvable4 ,on ! o!r h&1 _% ,s5 _: is
-n solvable1 by ,!orem #aj4aa4
+example1 if we exam9e ! s}ies
+_% .(id.) _"k ,a3 _"k ,s3 _:1 we see t
+_% ,s3 _: is solvable4 ,on ! o!r h&1
+_% ,s5 _: is n solvable1 by
+,!orem #aj4aa4
 7777777777777777777777777777777777777777
 ,lemma  #bc4bh 4
   ,let .2;,f 2 a field ( "*i/ic z}o &
@@ -1194,35 +1197,38 @@ ov} .2;,f ) _% a `e ,f _:4 ,!n
 _% ,g(,e_/,f) _: is a solvable gr|p4
 gggggggggggggggggggggggggggggggggggggggg
 
-7777777777777777777777777777777777777777
+                                   #aacj
+7777777777777777777777777777777777777777
 ,pro( 4
-  ,! roots ( _% x~n"-a _: >e       #aedh
-_% <n>a}, .w<n>a}, ''', .w~n-1"<n>a} _:1
+  ,! roots ( _% x~n"-a _: >e
+_% <n>a}, .w<n>a}, ''', .w~n-1"<n>a} _:1
 ": _% .w _: is a primitive .2n? root (
 un;y4 ,suppose t .2;,f 3ta9s all ( xs
 .2n? roots ( un;y4 ,if _% .z _: is "o (
 ! roots (  _% x~n"-a _:1 !n 4t9ct roots
-( _% x~n"-a _: >e _% .z, .w.z, ''',
-.w~n-1".z _:1 & _% ,e .k ,f(.z) _:4
-,s9ce _% ,g(,e_/,f) _: p}mutes ! roots
+( _% x~n"-a _: >e
+_% .z, .w.z, ''', .w~n-1".z _:1 &
+_% ,e .k ,f(.z) _:4 ,s9ce
+_% ,g(,e_/,f) _: p}mutes ! roots
 _% x~n"-a _:1 ! ele;ts 9
 _% ,g(,e_/,f) _: m/ 2 det}m9$ by _! ac;n
 on ~! roots4 ,let _% .s _:  & _% .t _: 2
-9 _% ,g(,e_/,f) _: & suppose t _% .s(.z)
-.k .w~i".z _: & _% .t(.z) .k .w~j".z _:4
-,if .2;,f 3ta9s ! roots ( un;y1 !n
+9 _% ,g(,e_/,f) _: & suppose t
+_% .s(.z) .k .w~i".z _: &
+_% .t(.z) .k .w~j".z _:4 ,if .2;,f 3ta9s
+! roots ( un;y1 !n
 _% .s.t(.z) .k .s(.w~j".z) .k
 .w~j".s(.z) .k .w~i+j".z .k .w~i".t(.z)
 .k .t(.w~i".z) .k .t.s(.z) _:
 4 ,"!=e1 _% .s.t .k .t.s _: &
 _% ,g(,e_/,f) _: is abelian1 &
-_% ,g(,e_/,f) _: m/ 2 solvable4
-  ,n{ suppose t .2;,f does n 3ta9 a
+_% ,g(,e_/,f) _: m/ 2 solvable4    #aaca
+  ,n{ suppose t .2;,f does n 3ta9 a
 primitive .2n? root ( un;y4 ,let
 _% .w _: 2 a g5}ator ( ! cyclic gr|p ( !
 .2n? roots ( un;y4 ,let _% .a _: 2 a z}o
-( _% x~n"-a _:4 ,s9ce _% .a _: &   #aedi
-_% .w.a _: >e bo? 9 ! splitt+ field (
+( _% x~n"-a _:4 ,s9ce _% .a _: &
+_% .w.a _: >e bo? 9 ! splitt+ field (
 _% x~n"-a _:1 _% .w .k (.w.a)_/.a _: is
 al 9 .2;,e4 ,let _% ,k .k ,f(.w) _:4 ,!n
 _% ,f _"k ,k _"k ,e _:4 ,s9ce .2;,k is !
@@ -1230,10 +1236,10 @@ splitt+ field ( _% x~n"-1 _:1 .2;,k is a
 normal ext5.n ( .2;,f4 ,"!=e1 any
 automorphism _% .s _: 9
 _% ,g(,f(.w)_/,f) _: is det}m9$ by
-_% .s(.w) _:4 ,x m/ 2 ! case t _% .s(.w)
-.k .w~i _: = "s 9teg} .2i s9ce all ( !
-z}os ( _% x~n"-1 _: >e p{}s ( _% .w _:4
-,if _% .t(.w) .k .w~j _: is 9
+_% .s(.w) _:4 ,x m/ 2 ! case t
+_% .s(.w) .k .w~i _: = "s 9teg} .2i s9ce
+all ( ! z}os ( _% x~n"-1 _: >e p{}s (
+_% .w _:4 ,if _% .t(.w) .k .w~j _: is 9
 _% ,g(,f(.w)_/,f) _:1 !n
 _% .s.t(.w) .k .s(.w~j") .k `(.s(.w)`)~j
 .k .w~ij .k `(.t(.w)`)~i .k .t(.w~i") .k
@@ -1241,13 +1247,14 @@ _% .s.t(.w) .k .s(.w~j") .k `(.s(.w)`)~j
 4 ,"!=e1 _% ,g(,f(.w)_/,f) _: is
 abelian4 ,by ! ,funda;tal ,!orem (
 ,galois ,!ory ! s}ies
-_% .(id.) _"k ,g(,e_/,f(.w)) _"k
+                                   #aacb
+_% .(id.) _"k ,g(,e_/,f(.w)) _"k
 ,g(,e_/,f) _:
 is a normal s}ies4 ,by |r previ|s >gu;t1
 _% ,g(,e_/,f(.w)) _: is abelian4 ,s9ce
 _% ,g(,e_/,f)_/,g(,e_/,f(.w)) `:.k
-,g(,f(.w)_/,f) _:                  #aeej
-is al abelian1 _% ,g(,e_/,f) _: is
+,g(,f(.w)_/,f) _:
+is al abelian1 _% ,g(,e_/,f) _: is
 solvable4
 gggggggggggggggggggggggggggggggggggggggg
 
@@ -1265,14 +1272,15 @@ s* t .2;,k t 3ta9s .2;,e & _% ,k;i _: is
 a normal ext5.n ( _% ,k;i-1 _:4
 gggggggggggggggggggggggggggggggggggggggg
 
-7777777777777777777777777777777777777777
+                                   #aacc
+7777777777777777777777777777777777777777
 ,pro( 4
   ,s9ce .2;,e is a radical ext5.n (
 .2;,f1 "! exi/s a *a9 ( subfields
 _% ,f .k ,f0 _"k ,f1 _"k ,f2 _"k '''
 _"k ,f;r .k ,e _:
-s* = _% i .k #1, #2, ''', r _:1    #aeea
-we h  _% ,f;i .k ,f;i-1"(.a;i") _: &
+s* = _% i .k #1, #2, ''', r _:1 we h
+_% ,f;i .k ,f;i-1"(.a;i") _: &
 _% .a;i~n~;i~" `e ,f;i-1 _: = "s
 positive 9teg} _% n;i _:4 ,we w build a
 normal radical ext5.n ( .2;,f1
@@ -1281,23 +1289,23 @@ _"k ,k;r .k ,k _:
 s* t _% ,k _.1: ,e _:4 ,def9e _% ,k1 _:
 = 2 ! splitt+ field (
 _% x~n1"-.a1~n1 _:4 ,! roots ( ?
-polynomial >e _% .a1, .a1.w, .a1.w~2,
-''', .a1.w~n1-1 _:1 ": _% .w _: is a
-primitive _% n1 _:? root ( un;y4 ,if
-.2;,f 3ta9s all ( xs _% n1 _: roots (
-un;y1 !n _% ,k1 .k ,f(.a1) _:4 ,on ! o!r
-h&1 suppose t .2;,f does n 3ta9 a
-primitive _% n1 _:? root ( un;y4 ,if
-_% .b _: is a root ( _% x~n1"-.a1~n1 _:1
-!n all ( ! roots (  _% x~n1"-.a1~n1 _:
-m/ 2 _% .b, .w.b, ''', .w~n1-1 _:1 ":
+polynomial >e _%
+.a1, .a1.w, .a1.w~2, ''', .a1.w~n1-1
+_:1 ": _% .w _: is a primitive _% n1 _:?
+root ( un;y4 ,if .2;,f 3ta9s all ( xs
+_% n1 _: roots ( un;y1 !n
+_% ,k1 .k ,f(.a1) _:4 ,on ! o!r h&1
+suppose t .2;,f does n 3ta9 a primitive
+_% n1 _:? root ( un;y4 ,if _% .b _: is a
+root ( _% x~n1"-.a1~n1 _:1 !n all  #aacd
+( ! roots (  _% x~n1"-.a1~n1 _: m/ 2
+_% .b, .w.b, ''', .w~n1-1 _:1 ":
 _% .w _: is a primitive  _% n1 _:? root
-( un;y4 ,9 ? case1 _% ,k1 .k
-,f(.w.b) _:4 ,?us1 _% ,k1 _: is a normal
-radical ext5.n ( .2;,f 3ta9+ _% ,f1 _:4
-,3t9u+ 9 ? mann}1 we obta9
-                                   #aeeb
-_% ,f .k ,k0 _"k ,k1 _"k ,k2 _"k '''
+( un;y4 ,9 ? case1
+_% ,k1 .k ,f(.w.b) _:4 ,?us1 _% ,k1 _:
+is a normal radical ext5.n ( .2;,f 3ta9+
+_% ,f1 _:4 ,3t9u+ 9 ? mann}1 we obta9
+_% ,f .k ,k0 _"k ,k1 _"k ,k2 _"k '''
 _"k ,k;r .k ,k _:
 s* t _% ,k;i _: is a normal ext5.n (
 _% ,k;i-1 _: & _% ,k;i _.1: ,f;i _: =
@@ -1314,15 +1322,17 @@ solvable by radicals1 !n ! ,galois gr|p
 ( _% f(x) _: ov} .2;,f is solvable4
 gggggggggggggggggggggggggggggggggggggggg
 
-7777777777777777777777777777777777777777
+                                   #aace
+7777777777777777777777777777777777777777
 ,pro( 4
   ,s9ce _% f(x) _: is solvable by
 radicals "! exi/s an ext5.n .2;,e (
-.2;,f by radicals _% ,f .k ,f0 _"k ,f1
-_"k '''  _"k ,f;n .k ,e _:4 ,by
-,lemma #bc4bi1 we c assume t .2;,e is a
-splitt+ field _% f(x) _: &         #aeec
-_% ,f;i _: is normal ov} _% ,f;i-1 _:4
+.2;,f by radicals
+_% ,f .k ,f0 _"k ,f1 _"k '''  _"k ,f;n
+.k ,e _:
+4 ,by  ,lemma #bc4bi1 we c assume t
+.2;,e is a splitt+ field _% f(x) _: &
+_% ,f;i _: is normal ov} _% ,f;i-1 _:4
 ,by ! ,funda;tal ,!orem ( ,galois ,!ory1
 _% ,g(,e_/,f;i") _: is a normal subgr|p
 ( _% ,g(,e_/,f;i-1") _:4 ,"!=e1 we h a
@@ -1337,7 +1347,8 @@ _% ,g(,e_/,f;i-1")_/,g(,e_/,f;i") `:.k
 4 ,by ,lemma #bc4bh1
 _% ,g(,f;i"_/,f;i-1") _: is solvable2
 h;e1 _% ,g(,e_/,f) _: is al solvable4
-gggggggggggggggggggggggggggggggggggggggg
+                                   #aacf
+gggggggggggggggggggggggggggggggggggggggg
 
   ,! 3v}se ( ,!orem #bc4cj is al true4
 ,= a pro(1 see any ( ! ref};es at ! 5d (
@@ -1346,9 +1357,9 @@ gggggggggggggggggggggggggggggggggggggggg
       ,subsec;n ,9solvabil;y ( ! ,qu9tic
   ,we >e n{ 9 a posi;n to f9d a
 fif?-degree polynomial t is n solvable
-by radicals4 ,we m}ely ne$ to f9d  #aeed
-a polynomial ~: ,galois gr|p is
-_% ,s5 _:4 ,we 2g9 by prov+ a lemma4
+by radicals4 ,we m}ely ne$ to f9d a
+polynomial ~: ,galois gr|p is _% ,s5 _:4
+,we 2g9 by prov+ a lemma4
 7777777777777777777777777777777777777777
 ,lemma  #bc4ca 4
   ,if .2;p is prime1 !n any subgr|p (
@@ -1361,30 +1372,33 @@ gggggggggggggggggggggggggggggggggggggggg
   ,let .2;,g 2 a subgr|p ( _% ,s;p _: t
 3ta9s a transposi;n _% .s _: & _% .t _:
 a cycle ( l5g? .2;p4 ,we may assume t
-_% .s .k (#1 #2) _:4 ,! ord} ( _% .t _:
-is .2;p & _% .t~n _: m/ 2 a cycle ( l5g?
-.2;p = _% #1 "k: n "k p _:4 ,"!=e1 we
-may assume t _% .m .k .t~n .k (1, 2, i3,
-''', i;p") _: = "s .2;n1 ": _% #1 "k: n
-"k p _: "<see ,ex}cise #e4d4ac 9
-,*apt} #e">4 ,not+ t _% (#1 #2)(1, 2,
-i3, ''', i;p") .k (2, i3, ''', i;p") _:
-& _% (2, i3, ''', i;p")~k"(#1 #2)(2, i3,
-''', i;p")~-k .k (1i;k") _:1 we c obta9
-all ! transposi;ns ( ! =m          #aeee
-_% (1n) _: = _% #1 "k: n "k p _:4 ,h{"e1
+_% .s .k (#1 #2) _:4 ,! ord} (     #aacg
+_% .t _: is .2;p & _% .t~n _: m/ 2 a
+cycle ( l5g? .2;p = _% #1 "k: n "k p _:4
+,"!=e1 we may assume t _%
+.m .k .t~n .k (1, 2, i3, ''', i;p")
+_: = "s .2;n1 ": _% #1 "k: n "k p _:
+"<see ,ex}cise #e4d4ac 9 ,*apt} #e">4
+,not+ t
+_% (#1 #2)(1, 2, i3, ''', i;p") .k (2,
+i3, ''', i;p") _:
+&
+_% (2, i3, ''', i;p")~k"(#1 #2)(2, i3,
+''', i;p")~-k .k (1i;k") _:
+1 we c obta9 all ! transposi;ns ( ! =m
+_% (1n) _: = _% #1 "k: n "k p _:4 ,h{"e1
 ~! transposi;ns g5}ate all transposi;ns
-9 _% ,s;p _:1 s9ce _% (1j)(1i)(1j) .k
-(ij) _:4 ,! transposi;ns g5}ate
-_% ,s;p _:4
+9 _% ,s;p _:1 s9ce
+_% (1j)(1i)(1j) .k (ij) _:4 ,!
+transposi;ns g5}ate _% ,s;p _:4
 gggggggggggggggggggggggggggggggggggggggg
 
 7777777777777777777777777777777777777777
 ,image ,,id3 galois-qu9tic
 ,descrip;n3 ,! graph is "o a set (
 rectangul> axes & />ts 2l ! horizontal
-axis1 9cr1ses to ab #fh at ;x
-approximately equal to #b1 :ile pass+ "?
+axis1 9cr1ses to ab #fh at ;x      #aach
+approximately equal to #b1 :ile pass+ "?
 ! horizontal axis at ab m9us #c4  ,!
 graph !n decr1ses to ab m9us #gc at ;x
 equal to ab #b4c1 :ile pass+ "? !
@@ -1392,11 +1406,23 @@ horizontal axis at ab m9us #j4b4
 ,f9ally1 ! graph 9cr1ses to #bj at ab
 #c4b1 :ile pass+ "? ! horizontal axis at
 ab #c4
-,figure  #bc4cb 4  ,! graph ( _% f(x) .k
-x~5"-6x~3"-27x-3 _:
+,figure  #bc4cb 4  ,! graph (
+_% f(x) .k x~5"-6x~3"-27x-3 _:
 gggggggggggggggggggggggggggggggggggggggg
 
-                                   #aeef
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #aaci
 ,transcrib} note3 ! image ) ,,id
 galois-qu9tic 2l;gs "h4  ,replace ? page
 ) ! 9dep5d5tly g5}at$ tactile image4
@@ -1421,32 +1447,32 @@ galois-qu9tic 2l;gs "h4  ,replace ? page
 
 
 
-                                   #aeeg
+                                   #aadj
 7777777777777777777777777777777777777777
 ,example  #bc4cc 4
-  ,we w %{ t _% f(x) .k x~5"-6x~3"-27x-3
-`e `;,q`(x`) _: is n solvable4 ,we claim
-t ! ,galois gr|p ( _% f(x) _: ov}
-_% `;,q _: is _% ,s5 _:4 ,by ,eis5/e9's
-,crit}ion1 _% f(x) _: is irr$ucible &1
-"!=e1 m/ 2 sep>able4 ,! d}ivative (
-_% f(x) _: is _% f~'"(x) .k
-#5x~4"-18x~2"-27 _:2 h;e1 sett+
-_% f~'"(x) .k #0 _: & solv+1 we f9d t !
-only r1l roots ( _% f~'"(x) _: >e
+  ,we w %{ t _%
+f(x) .k x~5"-6x~3"-27x-3 `e `;,q`(x`)
+_: is n solvable4 ,we claim t ! ,galois
+gr|p ( _% f(x) _: ov} _% `;,q _: is
+_% ,s5 _:4 ,by ,eis5/e9's ,crit}ion1
+_% f(x) _: is irr$ucible &1 "!=e1 m/ 2
+sep>able4 ,! d}ivative ( _% f(x) _: is
+_% f~'"(x) .k #5x~4"-18x~2"-27 _:2 h;e1
+sett+ _% f~'"(x) .k #0 _: & solv+1 we
+f9d t ! only r1l roots ( _% f~'"(x) _:
+>e
 _% x .k +->?6.>6.}+9/5#} _:
 4 ,"!=e1 _% f(x) _: c h at mo/ "o
 maximum & "o m9imum4 ,x is easy to %{ t
 _% f(x) _: *anges sign 2t _% -#3 _: &
-_% -#2 _:1 2t _% -#2 _: & _% #0 _:1 &
-once ag 2t _% #0 _: & _% #4 _:
-"<,figure #bc4cb">4 ,"!=e1 _% f(x) _:
-has exactly ?ree 4t9ct r1l roots4 ,!
-rema9+ two roots ( _% f(x) _: m/ 2
-complex 3jugates4 ,let .2;,k 2 ! splitt+
-field ( _% f(x) _:4 ,s9ce _% f(x) _: has
-five 4t9ct roots 9 .2;,k & e
-automorphism ( .2;,k fix+          #aeeh
+_% -#2 _:1 2t _% -#2 _: & #j1 & once ag
+2t #j & #d "<,figure #bc4cb">4 ,"!=e1
+_% f(x) _: has exactly ?ree 4t9ct r1l
+roots4 ,! rema9+ two roots ( _% f(x) _:
+m/ 2 complex 3jugates4 ,let .2;,k 2 !
+splitt+ field ( _% f(x) _:4 ,s9ce
+_% f(x) _: has five 4t9ct roots 9 .2;,k
+& e automorphism ( .2;,k fix+      #aada
 _% `;,q _: is det}m9$ by ! way x p}mutes
 ! roots ( _% f(x) _:1 we "k t
 _% ,g(,k_/`;,q) _: is a subgr|p (
@@ -1459,20 +1485,22 @@ l1ves ! r1l roots fix$ & 9t}*anges !
 complex roots2 3sequ5tly1
 _% ,g(,k_/`;,q) _: 3ta9s a transposi;n4
 ,if _% .a _: is "o ( ! r1l roots (
-_% f(x) _:1 !n _% `(`;,q(.a)_3`;,q`) .k
-#5 _: by ,ex}cise #ba4e4bh4 ,s9ce
-_% `;,q(.a) _: is a subfield ( .2;,k1 x
-m/ 2 ! case t _% `(,k_3`;,q`) _: is
-divisible by #e4 ,s9ce _% `(,k_3`;,q`)
-.k |,g(,k_/`;,q)| _: & _% ,g(,k_/`;,q)
-_"k ,s5 _:1 we "k t _% ,g(,k_/`;,q) _:
-3ta9s a cycle ( l5g? _% #5 _:4 ,by
-,lemma #bc4ca1 _% ,s5 _: is g5}at$ by a
-transposi;n & an ele;t ( ord} _% #5 _:2
-"!=e1 _% ,g(,k_/`;,q) _: m/ 2 all (
-_% ,s5 _:4 ,by ,!orem #aj4aa1 _% ,s5 _:
-is n solvable4 ,3sequ5tly1         #aeei
-_% f(x) _: _c 2 solv$ by radicals4
+_% f(x) _:1 !n
+_% `(`;,q(.a)_3`;,q`) .k #5 _: by
+,ex}cise #ba4e4bh4 ,s9ce _% `;,q(.a) _:
+is a subfield ( .2;,k1 x m/ 2 ! case t
+_% `(,k_3`;,q`) _: is divisible by #e4
+,s9ce
+_% `(,k_3`;,q`) .k |,g(,k_/`;,q)| _: &
+_% ,g(,k_/`;,q) _"k ,s5 _:1 we "k t
+_% ,g(,k_/`;,q) _: 3ta9s a cycle ( l5g?
+#e4 ,by ,lemma #bc4ca1 _% ,s5 _: is
+g5}at$ by a transposi;n & an ele;t (
+ord} #e2 "!=e1 _% ,g(,k_/`;,q) _: m/ 2
+all ( _% ,s5 _:4 ,by               #aadb
+,!orem #aj4aa1 _% ,s5 _: is n solvable4
+,3sequ5tly1 _% f(x) _: _c 2 solv$ by
+radicals4
 gggggggggggggggggggggggggggggggggggggggg
 
       ,subsec;n ,! ,funda;tal ,!orem (
@@ -1494,46 +1522,72 @@ l9e> factors4
 algebraically clos$2 t is1 e polynomial
 9 _% `;,c`(x`) _: has a root 9
 _% `;,c _:4
-gggggggggggggggggggggggggggggggggggggggg
+                                   #aadc
+gggggggggggggggggggggggggggggggggggggggg
 
-                                   #aefj
-7777777777777777777777777777777777777777
+7777777777777777777777777777777777777777
 ,pro( 4
   ,suppose t .2;,e is a prop} f9ite
 field ext5.n ( ! complex numb}s4 ,s9ce
 any f9ite ext5.n ( a field ( "*i/ic z}o
-is a simple ext5.n1 "! exi/s an _% .a `e
-,e _: s* t _% ,e .k `;,c(.a) _: )
-_% .a _: ! root ( an irr$ucible
+is a simple ext5.n1 "! exi/s an
+_% .a `e ,e _: s* t _% ,e .k `;,c(.a) _:
+) _% .a _: ! root ( an irr$ucible
 polynomial _% f(x) _: 9 _% `;,c`(x`) _:4
 ,! splitt+ field .2;,l ( _% f(x) _: is a
 f9ite normal sep>able ext5.n (
 _% `;,c _: t 3ta9s .2;,e4 ,we m/ %{ t x
 is impossible = .2;,l to 2 a prop}
 ext5.n ( _% `;,c _:4
-  ,suppose t .2;,l is a prop} ext5.n (
+,suppose t .2;,l is a prop} ext5.n (
 _% `;,c _:4 ,s9ce .2;,l is ! splitt+
 field ( _% f(x) .k (x~2"+1) _: ov}
 _% `;,r _:1 .2;,l is a f9ite normal
 sep>able ext5.n ( _% `;,r _:4 ,let .2;,k
 2 ! fix$ field ( a ,syl{ #b-subgr|p
-.2;,g ( _% ,g(,l_/`;,r) _:4 ,!n _% ,l
-_.1 ,k _.1 `;,r _: & _% |,g(,l_/,k)| .k
-`(,l "1 ,k`) _:4 ,s9ce _% `(,l_3`;,r`)
-.k `(,l "1 ,k`)`(,k_3`;,r`) _:1 we "k t
-_% `(,k_3`;,r`) _: m/ 2 odd4       #aefa
-,3sequ5tly1 _% ,k .k `;,r(.b) _: )
+.2;,g ( _% ,g(,l_/`;,r) _:4 ,!n
+_% ,l _.1 ,k _.1 `;,r _: &
+_% |,g(,l_/,k)| .k `(,l "1 ,k`)-   #aadd
+_:4 ,s9ce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #aade
+_% `(,l_3`;,r`) .k `(,l "1
+,k`)`(,k_3`;,r`) _:
+1 we "k t _% `(,k_3`;,r`) _: m/ 2 odd4
+,3sequ5tly1 _% ,k .k `;,r(.b) _: )
 _% .b _: hav+ a m9imal polynomial
-_% f(x) _: ( odd degree4 ,"!=e1 _% ,k .k
-`;,r _:4
+_% f(x) _: ( odd degree4 ,"!=e1
+_% ,k .k `;,r _:4
   ,we n{ "k t _% ,g(,l_/`;,r) _: m/ 2 a
 #b-gr|p4 ,x foll{s t _% ,g(,l_/`;,c) _:
-is a _% #2 _:-gr|p4 ,we h assum$ t _% ,l
-/.k `;,c _:2 "!=e1 _% |,g(,l_/`;,c)| .1:
-#2 _:4 ,by ! f/ ,syl{ ,!orem & !
-,funda;tal ,!orem ( ,galois ,!ory1 "!
-exi/s a subgr|p .2;,g (
-_% ,g(,l_/`;,c) _: ( 9dex #b & a field
+is a #b-gr|p4 ,we h assum$ t
+_% ,l /.k `;,c _:2 "!=e1
+_% |,g(,l_/`;,c)| .1: #2 _:4 ,by ! f/
+,syl{ ,!orem & ! ,funda;tal ,!orem (
+,galois ,!ory1 "! exi/s a subgr|p .2;,g
+( _% ,g(,l_/`;,c) _: ( 9dex #b & a field
 .2;,e fix$ ele;twise by .2;,g4 ,!n
 _% `(,e_3`;,c`) .k #2 _: & "! exi/s an
 ele;t _% .g `e ,e _: ) m9imal polynomial
@@ -1541,28 +1595,35 @@ _% x~2"+bx+c _: 9 _% `;,c`(x`) _:4 ,?
 polynomial has roots
 _% (-b+->b~2"-4c})_/2 _: t >e 9
 _% `;,c _:1 s9ce _% b~2"-4c _: is 9
-_% `;,c _:4 ,? is impossible2 h;e1 _% ,l
-.k `;,c _:4
-gggggggggggggggggggggggggggggggggggggggg
+_% `;,c _:4 ,? is impossible2 h;e1
+_% ,l .k `;,c _:4
+                                   #aadf
+gggggggggggggggggggggggggggggggggggggggg
 
   ,al? |r pro( 0 /rictly algebraic1 we 7
-=c$ to rely on results f           #aefb
-calculus4 ,x is nec to assume !
-complete;s axiom f analysis to %{ t e
-polynomial ( odd degree has a r1l root &
-t e positive r1l numb} has a squ>e root4
-,x seems t "! is no possible way to
-avoid ? di6iculty & =mulate a purely
-algebraic >gu;t4 ,x is "s:at amaz+ t "!
->e s"eal elegant pro(s ( ! ,funda;tal
-,!orem ( ,algebra t use complex
-analysis4 ,x is al 9t}e/+ to note t we c
-obta9 a pro( ( s* an important !orem f
-two v di6}5t fields ( ma!matics4
+=c$ to rely on results f calculus4 ,x is
+nec to assume ! complete;s axiom f
+analysis to %{ t e polynomial ( odd
+degree has a r1l root & t e positive r1l
+numb} has a squ>e root4 ,x seems t "! is
+no possible way to avoid ? di6iculty &
+=mulate a purely algebraic >gu;t4 ,x is
+"s:at amaz+ t "! >e s"eal elegant pro(s
+( ! ,funda;tal ,!orem ( ,algebra t use
+complex analysis4 ,x is al 9t}e/+ to
+note t we c obta9 a pro( ( s* an
+important !orem f two v di6}5t fields (
+ma!matics4
+,sage4
+  ,fields1 field ext5.ns1 roots (
+polynomials1 & gr|p !ory ,- ,sage has x
+all1 & s x is possible to c>e;lly /udy v
+complicat$ examples f ,galois ,!ory )
+,sage4
 ,r1d+ ,"qs #bc4d ,r1d+ ,"qs #a 4
   ,:at is ! ,galois gr|p ( a field
-ext5.n8
-#b 4
+ext5.n8                            #aadg
+#b 4
   ,:5 >e two ele;ts ( a field ext5.n
 3jugate8 "<,9 o!r ~ws1 :at is !
 def9i;n8">
@@ -1571,8 +1632,8 @@ def9i;n8">
 ,funda;tal ,!orem ( ,galois ,!ory4
 ,capture ! ess;e ( ! result )|t gett+
 bo7$ d{n 9 too _m details4
-#d 4                               #aefc
-  ,:y >e 8solvable0 gr|ps s "nd8
+#d 4
+  ,:y >e 8solvable0 gr|ps s "nd8
 ,p>aphras+ ! relevant !orem wd 2 a gd
 answ}4
 #e 4
@@ -1586,8 +1647,8 @@ be5 9 prep>a;n = ? *apt}4
 ext5.ns8 ,if ! ext5.n is n normal1 f9d a
 normal ext5.n ( _% `;,q _: 9 : ! ext5.n
 field is 3ta9$4
-
-a4 _% ,g(`;,q(>30})_/`;,q) _:
+                                   #aadh
+a4 _% ,g(`;,q(>30})_/`;,q) _:
 ;b4 _% ,g(`;,q(<4>5})_/`;,q) _:
 ;c4 _% ,g(`;,q(>2}, >3}, >5})_/`;,q) _:
 ;d4 _% ,g(`;,q(>2}, <3>2}, i)_/`;,q) _:
@@ -1596,8 +1657,8 @@ a4 _% ,g(`;,q(>30})_/`;,q) _:
 #b 4
   ,det}m9e ! sep>abil;y ( ea* ( ! foll{+
 polynomials4
-                                   #aefd
-a4 _% x~3"+2x~2"-x-2 _: ov} _% `;,q _:
+
+a4 _% x~3"+2x~2"-x-2 _: ov} _% `;,q _:
 ;b4 _% x~4"+2x~2"+1 _: ov} _% `;,q _:
 ;c4 _% x~4"+x~2"+1 _: ov} _% `;,z3 _:
 ;d4 _% x~3"+x~2"+1 _: ov} _% `;,z2 _:
@@ -1611,8 +1672,8 @@ _% ,,gf(9) _:4
 foll{+ polynomials 9 _% `;,q`(x`) _:2
 h;e1 det}m9e ! solvabil;y by radicals (
 ea* ( ! polynomials4
-
-a4 _% x~5"-12x~2"+2 _:
+                                   #aadi
+a4 _% x~5"-12x~2"+2 _:
 ;b4 _% x~5"-4x~4"+2x+2 _:
 ;c4 _% x~3"-5 _:
 ;d4 _% x~4"-x~2"-6 _:
@@ -1621,8 +1682,8 @@ a4 _% x~5"-12x~2"+2 _:
 ;g4 _% x~8"-1 _:
 ;h4 _% x~8"+1 _:
 i4 _% x~4"-3x~2"-10 _:
-                                   #aefe
-#e 4
+
+#e 4
   ,f9d a primitive ele;t 9 ! splitt+
 field ( ea* ( ! foll{+ polynomials 9
 _% `;,q`(x`) _:4
@@ -1636,8 +1697,8 @@ a4 _% x~4"-1 _:
   ,prove t ! ,galois gr|p ( an
 irr$ucible quadratic polynomial is
 isomorphic to _% `;,z2 _:4
-#g 4
-  ,prove t ! ,galois gr|p ( an
+#g 4                               #aaej
+  ,prove t ! ,galois gr|p ( an
 irr$ucible cubic polynomial is
 isomorphic to _% ,s3 _: or _% `;,z3 _:4
 #h 4
@@ -1646,58 +1707,59 @@ isomorphic to _% ,s3 _: or _% `;,z3 _:4
 t .2;,e m/ al 2 a normal ext5.n ( .2;,k4
 #i 4
   ,let .2;,g 2 ! ,galois gr|p ( a
-polynomial ( degree .2;n4 ,prove   #aeff
-t _% |,g| _: divides _% n& _:4
+polynomial ( degree .2;n4 ,prove t
+_% |,g| _: divides _% n& _:4
 #aj 4
   ,let _% ,f _"k ,e _:4 ,if _% f(x) _:
 is solvable ov} .2;,f1 %{ t _% f(x) _:
 is al solvable ov} .2;,e4
 #aa 4
   ,3/ruct a polynomial _% f(x) _: 9
-_% `;,q`(x`) _: ( degree _% #7 _: t is n
+_% `;,q`(x`) _: ( degree #g t is n
 solvable by radicals4
 #ab 4
   ,let .2;p 2 prime4 ,prove t "! exi/s a
 polynomial _% f(x) `e `;,q`(x`) _: (
 degree .2;p ) ,galois gr|p isomorphic to
 _% ,s;p _:4 ,3clude t = ea* prime .2;p )
-_% p .1: #5 _: "! exi/s a polynomial (
-degree .2;p t is n solvable by radicals4
+_% p .1: #5 _: "! exi/s a          #aaea
+polynomial ( degree .2;p t is n solvable
+by radicals4
 #ac 4
   ,let .2;p 2 a prime & _% `;,z;p"(t) _:
 2 ! field ( ra;nal func;ns ov}
-_% `;,z;p _:4 ,prove t _% f(x) .k
-x~p"-t _: is an irr$ucible polynomial 9
-_% `;,z;p"(t)`(x`) _:4 ,%{ t _% f(x) _:
-is n sep>able4
+_% `;,z;p _:4 ,prove t
+_% f(x) .k x~p"-t _: is an irr$ucible
+polynomial 9 _% `;,z;p"(t)`(x`) _:4 ,%{
+t _% f(x) _: is n sep>able4
 #ad 4
-  ,let .2;,e 2 an ext5.n field (   #aefg
-.2;,f4 ,suppose t .2;,k & .2;,l >e two
+  ,let .2;,e 2 an ext5.n field ( .2;,f4
+,suppose t .2;,k & .2;,l >e two
 9t}m$iate fields4 ,if "! exi/s an ele;t
-_% .s `e ,g(,e_/,f) _: s* t _% .s(,k) .k
-,l _:1 !n .2;,k & .2;,l >e sd to 2
-~13jugate ~1fields4 ,prove t .2;,k &
-.2;,l >e 3jugate if & only if
+_% .s `e ,g(,e_/,f) _: s* t
+_% .s(,k) .k ,l _:1 !n .2;,k & .2;,l >e
+sd to 2 ~13jugate ~1fields4 ,prove t
+.2;,k & .2;,l >e 3jugate if & only if
 _% ,g(,e_/,k) _: & _% ,g(,e_/,l) _: >e
 3jugate subgr|ps ( _% ,g(,e_/,f) _:4
 #ae 4
   ,let _% .s `e ,aut(`;,r) _:4 ,if .2a
-is a positive r1l numb}1 %{ t _% .s(a)
-.1 #0 _:4
+is a positive r1l numb}1 %{ t
+_% .s(a) .1 #0 _:4
 #af 4
-  ,let .2;,k 2 ! splitt+ field (
-_% x~3"+x~2"+1 `e `;,z2`(x`) _:4 ,prove
+  ,let .2;,k 2 ! splitt+ field (   #aaeb
+_% x~3"+x~2"+1 `e `;,z2`(x`) _:4 ,prove
 or 4prove t .2;,k is an ext5.n by
 radicals4
 #ag 4
-  ,let .2;,f 2 a field s* t _% char(,f)
-/.k #2 _:4 ,prove t ! splitt+ field (
-_% f(x) .k ax~2"+bx+c _: is
-_% ,f(>.a}) _:1 ": _% .a .k b~2"-4ac _:4
+  ,let .2;,f 2 a field s* t
+_% char(,f) /.k #2 _:4 ,prove t !
+splitt+ field ( _% f(x) .k ax~2"+bx+c _:
+is _% ,f(>.a}) _:1 ":
+_% .a .k b~2"-4ac _:4
 #ah 4
   ,prove or 4prove3 ,two di6}5t subgr|ps
-( a ,galois gr|p w h di6}5t fix$   #aefh
-fields4
+( a ,galois gr|p w h di6}5t fix$ fields4
 #ai 4
   ,let .2;,k 2 ! splitt+ field ( a
 polynomial ov} .2;,f4 ,if .2;,e is a
@@ -1710,8 +1772,8 @@ _% ,f`(x`) _:4
 _% .,f;p"(x) .k ?x~p"-1/x-1# .k
 x~p-1"+x~p-2+''' +x+1 _:
 is irr$ucible ov} _% `;,q _: = e prime
-.2;p4 ,let _% .w _: 2 a z}o (
-_% .,f;p"(x) _:1 & 3sid} ! field
+.2;p4 ,let _% .w _: 2 a z}o (      #aaec
+_% .,f;p"(x) _:1 & 3sid} ! field
 _% `;,q(.w) _:4
 
 a4 ,%{ t _% .w, .w~2, ''', .w~p-1 _: >e
@@ -1721,24 +1783,27 @@ a4 ,%{ t _% .w, .w~2, ''', .w~p-1 _: >e
   abelian ( ord} _% p-1 _:4
 ;c4 ,%{ t ! fix$ field (
   _% ,g(`;,q(.w)_/`;,q) _: is
-  _% `;,q _:4                      #aefi
-#ba 4
+  _% `;,q _:4
+
+#ba 4
   ,let .2;,f 2 a f9ite field or a field
 ( "*i/ic z}o4 ,let .2;,e 2 a f9ite
 normal ext5.n ( .2;,f ) ,galois gr|p
-_% ,g(,e_/,f) _:4 ,prove t _% ,f _"k ,k
-_"k ,l _"k ,e _: if & only if _% .(id.)
-_"k ,g(,e_/,l) _"k ,g(,e_/,k) _"k
-,g(,e_/,f) _:4
+_% ,g(,e_/,f) _:4 ,prove t
+_% ,f _"k ,k _"k ,l _"k ,e _: if & only
+if
+_% .(id.) _"k ,g(,e_/,l) _"k ,g(,e_/,k)
+_"k ,g(,e_/,f) _:
+4
 #bb 4
   ,let .2;,f 2 a field ( "*i/ic z}o &
-let _% f(x) `e ,f`(x`) _: 2 a sep>able
-polynomial ( degree .2;n4 ,if .2;,e is !
-splitt+ field ( _% f(x) _:1 let _% .a1,
-''', .a;n _: 2 ! roots ( _% f(x) _: 9
-.2;,e4 ,let _% .,d .k "%i "k
-j}(.a;i"-.a;j") _:4 ,we def9e !
-~14crim9ant ( _% f(x) _: to 2
+let _% f(x) `e ,f`(x`) _: 2 a      #aaed
+sep>able polynomial ( degree .2;n4 ,if
+.2;,e is ! splitt+ field ( _% f(x) _:1
+let _% .a1, ''', .a;n _: 2 ! roots (
+_% f(x) _: 9 .2;,e4 ,let
+_% .,d .k "%i "k j}(.a;i"-.a;j") _:4 ,we
+def9e ! ~14crim9ant ( _% f(x) _: to 2
 _% .,d~2 _:4
 
 a4 ,if _% f(x) .k x~2"+bx+c _:1 %{ t
@@ -1746,10 +1811,9 @@ a4 ,if _% f(x) .k x~2"+bx+c _:1 %{ t
 ;b4 ,if _% f(x) .k x~3"+px+q _:1 %{ t
   _% .,d~2 .k -#4p~3"-27q~2 _:4
 ;c4 ,prove t _% .,d~2 _: is 9 .2;,f4
-;d4 ,if _% .s `e ,g(,e_/,f) _: is  #aegj
-  a transposi;n ( two roots (
-  _% f(x) _:1 %{ t _% .s(.,d) .k
-  -.,d _:4
+;d4 ,if _% .s `e ,g(,e_/,f) _: is a
+  transposi;n ( two roots ( _% f(x) _:1
+  %{ t _% .s(.,d) .k -.,d _:4
 ;e4 ,if _% .s `e ,g(,e_/,f) _: is an ev5
   p}muta;n ( ! roots ( _% f(x) _:1 %{ t
   _% .s(.,d) .k .,d _:4
@@ -1758,8 +1822,8 @@ a4 ,if _% f(x) .k x~2"+bx+c _:1 %{ t
   if & only if _% .,d `e ,f _:4
 ;g4 ,det}m9e ! ,galois gr|ps (
   _% x~3"+2x-4 _: & _% x~3"+x-3 _:4
-
-,ref};es #bc4f ,ref};es & ,su7e/$ ,r1d+s
+                                   #aaee
+,ref};es #bc4f ,ref};es & ,su7e/$ ,r1d+s
 .<#a.>    ,>t91 ;,e4 ,!ory3 ,lectures
 ,deliv}$ at ! ,univ}s;y ( ,notre ,dame
 "<,notre ,dame ,ma!matical ,lectures1
@@ -1771,8 +1835,8 @@ a4 ,if _% f(x) .k x~2"+bx+c _:1 %{ t
 #gth $4 ,pe>son1 ,upp} ,saddle ,riv}1
 ,,nj1 #bjjc4 .<#d.>    ,gaal1 ;,l4
 ,classical ,galois ,!ory ) ,examples4
-,am}ican ,ma!matical ,society1     #aega
-,provid;e1 #aigi4 .<#e.>    ,g>l+1
+,am}ican ,ma!matical ,society1
+,provid;e1 #aigi4 .<#e.>    ,g>l+1
 ;,,,d4 ;j4 ;h4 a,' ,c|rse 9 ,galois
 ,!ory4 ,cambridge ,univ}s;y ,press1
 ,cambridge1 #aihf4 .<#f.>    ,kaplansky1
@@ -1780,1206 +1844,12 @@ a4 ,if _% f(x) .k x~2"+bx+c _:1 %{ t
 ,*icago ,press1 ,*icago1 #aigb4 .<#g.>
  ,ro?man1 ;,t4 8,! ,%ort ,life (
 ,~/ev>i/e ,galois10 ,sci5tific ,am}ican1
-,april #aihb1 #acf,-#di4
-
-    ,sec;n #bc4g ,sage
-  ,ag1 |r compet;e at exam9+ fields )
-,sage w all{ u to /udy ! ma9 3cepts (
-,galois ,!ory easily4 ,we w ?or|<ly
-exam9e ,example #g c>e;lly us+ |r
-computa;nal tools4
-
-      ,subsec;n ,galois ,gr|ps
-  ,we w rep1t ,example #bc4be & analyze
-c>e;lly ! splitt+ field ( ! polynomial
-_% p(x) .k x~4"-2 _:4 ,we 2g9 ) an
-9itial field ext5.n 3ta9+ at l1/ "o
-root4
-7777777777777777777777777777777777777777
-,sage                              #aegb
-  ,9put3
-x = polygen(_>qq, 'x') _n.<a> =
-_number_field(x^4 _- 2); _n
-  ,|tput3
-_number _field in a with defining
-polynomial x^4 _- _2
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! 4galois.-closure"<"> me?od w cr1te
-an ext5.n 3ta9+ all ( ! roots ( ! def9+
-polynomial ( a numb} field4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_l.<b> = _n.galois__closure(); _l
-  ,|tput3
-_number _field in b with defining
-polynomial x^8 + 28*x^4 + 2500
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_l.degree()
-  ,|tput3                          #aegc
-_8
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-y = polygen(_l, 'y') (y^4 _- 2).factor()
-  ,|tput3
-(y _- 1/120*b^5 _-  19/60*b) * (y _-
-1/240*b^5 + 41/120*b) * (y + 1/240*b^5
-_- 41/120*b) * (y + 1/120*b^5 +
-19/60*b)
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,f ! factoriza;n1 x is cle> t ;,l is !
-splitt+ field ( ! polynomial1 ev5 if !
-factoriza;n is n pretty4 ,x is easy to
-!n obta9 ! ,galois gr|p ( ? field
-ext5.n4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_g = _l.galois__group(); _g
-  ,|tput3
-_galois group 8_t4 ([4]2) with     #aegd
-order _8 of x^8 + 28*x^4 + 2500
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,we c exam9e ? gr|p1 & id5tify x4
-,notice t s9ce ! field is a degree
-_% #8 _: ext5.n1 ! gr|p is describ$ z a
-p}muta;n gr|p on _% #8 _: symbols4 "<,x
-is j a co9cid;e t ! gr|p has _% #8 _:
-ele;ts4"> ,) a pauc;y ( nonabelian gr|ps
-( ord} _% #8 _:1 x is n h>d to guess !
-nature ( ! gr|p4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_g.is__abelian()
-  ,|tput3
-_false
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_g.order()
-  ,|tput3
-_8                                 #aege
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_g.list()
-  ,|tput3
-[(), (1,2,8,7)(3,4,6,5),
-(1,3)(2,5)(4,7)(6,8),
-(1,4)(2,3)(5,8)(6,7),
-(1,5)(2,6)(3,7)(4,8),
-(1,6)(2,4)(3,8)(5,7),
-(1,7,8,2)(3,5,6,4),
-(1,8)(2,7)(3,6)(4,5)]
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_g.is__isomorphic(_dihedral_group(4))
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,t's x4 ,b maybe n v satisfy+4   #aegf
-,let u dig deep} = m "u/&+4 ,we w />t
-ov} & cr1te ! splitt+ field ( _% p(x) .k
-x~4"-2 _: ag1 b ! prim>y di6};e is t we
-w make ! roots extremely obvi|s s we c
-"w m c>e;lly ) ! ,galois gr|p & ! fix$
-fields4 ,al;g ! way1 we w see ano!r
-example ( l9e> algebra 5abl+ c}ta9
-computa;ns4 ,! foll{+ 3/ruc;n %d 2
-famili> by n{4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-x = polygen(_>qq, 'x') p = x^4 _- _2
-_n.<a> = _number_field(p); _n
-  ,|tput3
-_number _field in a with defining
-polynomial x^4 _- _2
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-y = polygen(_n, 'y') p = p.subs(x=y)
-p.factor()
-  ,|tput3                          #aegg
-(y _- a) * (y + a) * (y^2 + a^2)
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_m.<b> = _number_field(y^2 + a^2); _m
-  ,|tput3
-_number _field in b with defining
-polynomial y^2 + a^2 over its base field
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-z = polygen(_m, 'z') (z^4 _- 2).factor()
-  ,|tput3
-(z _- b) * (z _- a) * (z + a) * (z + b)
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! important ?+ to notice "h is t we h
->rang$ ! splitt+ field s t ! f|r roots1
-a1 -a1 ;b1 -;b1 >e v simple func;ns ( !
-g5}ators4 ,9 m tradi;nal nota;n1 a is
-_% #2~?1/4# .k <4>2} _:1 & ;b is   #aegh
-_% #2~?1/4#"i .k <4>2}i _: "<or _!
-negatives">4
-  ,we w f9d x easi} to compute 9 !
-flatt5$ t{}1 a n{ famili> 3/ruc;n4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_l.<c> = _m.absolute__field(); _l
-  ,|tput3
-_number _field in c with defining
-polynomial x^8 + 28*x^4 + 2500
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l, to_l = _l.structure()
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,we c return to |r orig9al polynomial
-"<ov} ! ra;nals">1 & ask = xs roots 9 !
-flatt5$ t{}1 cu/om-design$ to 3ta9 ~!
-roots4
-7777777777777777777777777777777777777777
-,sage                              #aegi
-  ,9put3
-roots = p.roots(ring=_l,
-multiplicities=_false); roots
-  ,|tput3
-[1/120*c^5 +  19/60*c,  1/240*c^5 _-
-41/120*c, -1/240*c^5 + 41/120*c,
--1/120*c^5 _-  19/60*c]
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,hmmm4 ,d ~? look "r8 ,if y look back
-at ! factoriza;n obta9$ 9 ! field
-3/ruct$ ) ! 4galois.-closure"<"> me?od1
-!n !y look "r4 ,b we c d bett}4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-[from_l(r) for r in roots]
-  ,|tput3
-[b, a, -a, -b]
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,yes1 ~? >e ! roots4
-  ,! ,5d"<"> comm& w cr1te ! gr|p (
-automorphisms ( ! field ;,l4
-                                   #aehj
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_g = _end(_l); _g
-  ,|tput3
-_automorphism group of _number _field in
-c with defining polynomial x^8 + 28*x^4
-+ 2500
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,we c *eck t ea* ( ~! automorphisms
-fixes ! ra;nal numb}s ele;twise4 ,if a
-field homomorphism fixes #a1 !n x w fix
-! 9teg}s1 & ?us fix all frac;ns (
-9teg}s4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-[tau(1) for tau in _g]
-  ,|tput3
-[1, 1, 1, 1, 1, 1, 1, 1]
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,s ea* ele;t ( ;,g fixes ! ra;nals
-ele;twise & ?us ;,g is ! ,galois   #aeha
-gr|p ( ! splitt+ field ;,l ov} !
-ra;nals4
-  ,proposi;n #bc4e is funda;tal4 ,x says
-e automorphism 9 ! ,galois gr|p ( a
-field ext5.n cr1tes a p}muta;n ( ! roots
-( a polynomial ) coe6ici5ts 9 ! base
-field4 ,we h all ( ~? 9gr$i5ts "h4 ,s we
-w evaluate ea* automorphism ( ! ,galois
-gr|p at ea* ( ! f|r roots ( |r
-polynomial1 : 9 ea* case %d 2 ano!r
-root4 "<,we use ! ,sequ;e"<"> 3/ructor j
-to get nicely-align$ |tput4">
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_sequence([[from_l(tau(r)) for r in
-roots] for tau in _g], cr=_true)
-  ,|tput3
-[ [b, a, -a, -b], [-b, -a, a, b], [a,
--b, b, -a], [b, -a, a, -b], [-a, -b, b,
-a], [a, b, -b, -a], [-b, a, -a, b], [-a,
-b, -b, a] ]
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,ea* r{ ( ! |tput is a li/ ( !   #aehb
-roots1 b p}mut$1 & s corresponds to a
-p}muta;n ( f|r objects "<! roots">4 ,=
-example1 ! second r{ %{s ! second
-automorphism 9t}*ang+ a ) -a1 & ;b )
--;b4 "<,notice t ! f/ r{ is ! result ( !
-id5t;y automorphism1 s we c m5tally
-com9e ! f/ r{ ) any o!r r{ to imag9e a
-8two-r{0 =m ( a p}muta;n4"> ,we c numb}
-! roots1 #a "? #d1 & cr1te ea* p}muta;n
-z an ele;t ( _% ,s4 _:4 ,x is ov}kill1 b
-we c !n build ! p}muta;n gr|p by lett+
-.1all ( ~! ele;ts g5}ate a gr|p4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_s4 = _symmetric_group(4) elements =
-[_s4([1, 2, 3, 4]),             _s4([4,
-3, 2, 1]),             _s4([2, 4, 1,
-3]),             _s4([1, 3, 2, 4]),
-       _s4([3, 4, 1, 2]),
-_s4([2, 1, 4, 3]),             _s4([4,
-2, 3, 1]),             _s4([3, 1, 4,
-2])] elements
-  ,|tput3
-[(), (1,4)(2,3), (1,2,4,3),        #aehc
-(2,3), (1,3)(2,4),  (1,2)(3,4), (1,4),
-(1,3,4,2)]
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_p = _s4.subgroup(elements)
-_p.is__isomorphic(_dihedral_group(4))
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,notice t we n{ h built an isomorphism
-f ! ,galois gr|p to a gr|p ( p}muta;ns
-.7us+ j f|r.' .1symbols.'1 r ?an ! ei<t
-us$ previ|sly4
-
-      ,subsec;n ,fix$ ,fields
-  ,9 a previ|s ,sage ex}cise1 we comput$
-! fix$ fields ( s+le field automorphisms
-= f9ite fields4 ,? 0 8easy0 9 ! s5se t
-we cd j te/ e ele;t ( ! field to see if
-x 0 fix$1 s9ce ! field 0 f9ite4 ,n{ we h
-an 9f9ite field ext5.n4 ,h{ >e we  #aehd
-go+ to det}m9e : ele;ts >e fix$ by
-9dividual automorphisms1 or subgr|ps (
-automorphisms8
-  ,! answ} is to use ! vector space
-/ructure ( ! flatt5$ t{}4 ,z a degree
-_% #8 _: ext5.n ( ! ra;nals1 ! f/
-_% #8 _: p{}s ( ! primitive ele;t ;c =m
-a basis :5 ! field is view$ z a vector
-space ) ! ra;nals z ! scal>s4 ,x is
-su6ici5t to "k h{ ea* field automorphism
-2haves on ? basis to fully specify !
-def9i;n ( ! automorphism4 ,to wit1
-_%
-.t(x)                                .k-
- .t(".,s%i .k #0<7}q;i"c~i")   q;i" `e-
-`;,q
-.k ".,s%i .k #0<7}.t(q;i").t(c~i")   .t-
- is a field automorphism
-.k ".,s%i .k #0<7}q;i".t(c~i")       ra-
-tionals are fixed
-_:
-,s we c compute ! value ( a field
-automorphism at any l9e> comb9a;n ( p{}s
-( ! primitive ele;t z a l9e> comb9a;n (
-! values ( ! field automorphism    #aehe
-at j ! p{}s ( ! primitive ele;t4 ,? is
-"kn z ! 8p{} basis01 : we c obta9 simply
-) ! 4p{}.-basis"<"> me?od4 ,we w 2g9 )
-an example ( h{ we c use ? basis4 ,we w
-illu/rate ) ! f|r? automorphism ( !
-,galois gr|p4 ,notice t ! 4vector"<">
-me?od is a 3v5i;e t /rips a l9e>
-comb9a;n ( ! p{}s ( ;c 9to a vector ( j
-! coe6ici5ts4  "<,notice too t _% .t _:
-is totally def9$ by ! value (
-_% .t(c) _:1 s9ce z a field automorphism
-_% .t(c~k") .k (.t(c))~k _:4 ,h{"e1 we /
-ne$ to "w ) ! 5tire p{} basis to exploit
-! vector space /ructure4">
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-basis = _l.power__basis(); basis
-  ,|tput3
-[1, c, c^2, c^3, c^4, c^5, c^6, c^7]
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3                           #aehf
-tau = _g[3] z = _4 + 5*c+ 6*c^3-7*c^6 tz
-= tau(4 + 5*c+ 6*c^3-7*c^6); tz
-  ,|tput3
-11/250*c^7 _- 98/25*c^6 + 1/12*c^5 +
-779/125*c^3 + 6006/25*c^2 _- 11/6*c + _4
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-tz.vector()
-  ,|tput3
-(4, -11/6, 6006/25, 779/125, 0, 1/12,
--98/25, 11/250)
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-tau__matrix =
-column__matrix([tau(be).vector() for be
-in basis]) tau__matrix
-  ,|tput3
-[  _1       _0       _0        _0  -28
-    _0        _0          0] [     #aehg
-_0  -11/30       _0        _0    _0
-779/15        _0          0] [  _0
-_0  -14/25        _0    _0       _0
--858/25          0] [  _0       _0
-_0  779/750    _0       _0        _0
--4031/375] [  _0       _0       _0
- _0   -1       _0        _0          0]
-[  _0    1/60       _0        _0    _0
-11/30        _0          0] [  _0
-_0   -1/50        _0    _0       _0
-14/25          0] [  _0       _0
-_0  11/1500    _0       _0        _0
--779/750]
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-tau__matrix*z.vector()
-  ,|tput3
-(4, -11/6, 6006/25, 779/125, 0, 1/12,
--98/25, 11/250)
-gggggggggggggggggggggggggggggggggggggggg
-
-                                   #aehh
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-tau__matrix*(z.vector()) ==
-(tau(z)).vector()
-  ,|tput3
-_true
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! la/ l9e expresses ! fact t
-tau.-matrix is a matrix repres5ta;n ( !
-field automorphism1 view$ z a l9e>
-trans=ma;n ( ! vector space /ructure4 ,z
-a repres5ta;n ( an 9v}tible field
-homomorphism1 ! matrix is 9v}tible4 ,z
-an ord} _% #2 _: p}muta;n ( ! roots1 !
-9v}se ( ! matrix is xf4 ,b ~! facts >e j
-v}ifica;ns t we h ! "r ?+1 we >e 9t}e/$
-9 o!r prop}ties4
-  ,to 3/ruct fix$ fields1 we want to f9d
-ele;ts fix$ by automorphisms4 ,3t9u+ )
-tau f abv1 we seek ele;ts ;z "<writt5 z
-vectors"> s* t tau.-matrix"9z"7z4 ,~! >e
-eig5vectors = ! eig5value _% #1 _:1 or
-ele;ts ( ! null space (            #aehi
-"<tau.-matrix - ,i">"<null spaces >e
-obta9$ ) 4"r.-k}nel"<"> 9 ,sage">4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_k =
-(tau__matrix-identity__matrix(8)).right-
-__kernel(); _k
-  ,|tput3
-_vector space of degree _8 and dimension
-_4 over _rational _field _basis matrix:
-[    _1     _0     _0     _0     _0
-_0     _0     0] [    _0     _1     _0
-  _0     _0  1/38     _0     0] [    _0
-   _0     _1     _0     _0     _0 -1/22
-   0] [    _0     _0     _0     _1
-_0     _0     _0 1/278]
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,ea* r{ ( ! basis matrix is a vector
-repres5t+ an ele;t ( ! field1
-specifically #a1 ;c "6
-"<#a_/#ch">"9c`5#e1 c`5#b -
-"<#a_/#bb">"9c`5#f1 c`5#c "6
-"<#a_/#bgh">"9c`5#g4 ,let's take   #aeij
-a clos} look at ~! fix$ ele;ts1 9 t}ms
-we recognize4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(1)
-  ,|tput3
-_1
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(c + (1/38)*c^5)
-  ,|tput3
-60/19*b
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(c^2 _- (1/22)*c^6)
-  ,|tput3
-150/11*a^2
-                                   #aeia
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(c^3 + (1/278)*c^7)
-  ,|tput3
-1500/139*a^2*b
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,any ele;t fix$ by tau w 2 a l9e>
-comb9a;n ( ~! f|r ele;ts4 ,we c ignore
-any ra;nal multiples pres5t1 ! f/ ele;t
-is j say+ ! ra;nals >e fix$1 & ! la/
-ele;t is j a product ( ! middle two4 ,s
-funda;tally tau is fix+ ra;nals1 ;b "<:
-is _% <4>2}i _:"> & a`5#b "<: is
-_% >2} _:">4 ,fur!rmore1 b`5#b "7 -a`5#b
-"<! *eck foll{s">1 s we c cr1te any fix$
-ele;t ( tau by j adjo9+ b"7_% <4>2}i _:
-to ! ra;nals4 ,s ! ele;ts fix$ by tau >e
-_% `;,q(<4>2}i) _:4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3                           #aeib
-a^2 + b^2
-  ,|tput3
-_0
-gggggggggggggggggggggggggggggggggggggggg
-
-      ,subsec;n ,galois ,correspond;e
-  ,! 5tire subfield /ructure ( |r
-splitt+ field is det}m9$ by ! subgr|p
-/ructure ( ! ,galois gr|p
-"<,!orem #bc4bc">1 : is isomorphic to a
-gr|p we "k well4 ,:at >e ! subgr|ps ( |r
-,galois gr|p1 express$ z p}muta;n gr|ps8
-"<,= brev;y1 we j li/ ! .1g5}ators ( ea*
-subgr|p4">
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-sg = _p.subgroups(); [_h.gens() for _h
-in sg]
-  ,|tput3
-[[()],  [(1,4)(2,3)],  [(2,3)],
-[(1,4)],  [(1,2)(3,4)],  [(1,3)(2,4)],
-[(2,3), (1,4)(2,3)],  [(1,2,4,3),
-(1,4)(2,3)],  [(1,2)(3,4), (1,4)(2,3)],
-[(2,3), (1,2,4,3), (1,4)(2,3)]]    #aeic
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-[_h.order() for _h in sg]
-  ,|tput3
-[1, 2, 2, 2, 2, 2, 4, 4, 4, 8]
-gggggggggggggggggggggggggggggggggggggggg
-
-  tau abv is ! f|r? ele;t ( !
-automorphism gr|p1 & ! f|r? p}muta;n 9
-ele;ts is ! p}muta;n "<#b1c">1 ! g5}ator
-"<( ord} #b"> = ! second subgr|p4 ,s z !
-only nontrivial ele;t ( ? subgr|p1 we "k
-t ! correspond+ fix$ field is
-_% `;,q(<4>2}i) _:4
-  ,let u analyze ano!r subgr|p ( ord}
-#b1 )|t all ! explana;n1 & />t+ ) !
-subgr|p4 ,! six? subgr|p is g5}at$ by !
-fif? automorphism1 s let u det}m9e !
-ele;ts t >e fix$4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3                           #aeid
-tau = _g[4] tau__matrix =
-column__matrix([tau(be).vector() for be
-in basis])
-(tau__matrix-identity__matrix(8)).right-
-__kernel()
-  ,|tput3
-_vector space of degree _8 and dimension
-_4 over _rational _field _basis matrix:
-[     _1      _0      _0      _0      _0
-     _0      _0      0] [     _0      _1
-     _0      _0      _0  1/158      _0
-   0] [     _0      _0      _1      _0
-   _0      _0   1/78      0] [     _0
-  _0      _0      _1      _0      _0
- _0 13/614]
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(1))
-  ,|tput3
-_1
-gggggggggggggggggggggggggggggggggggggggg
-                                   #aeie
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(c+(1/158)*c^5))
-  ,|tput3
-120/79*b _- 120/79*a
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(c^2+(1/78)*c^6))
-  ,|tput3
--200/39*a*b
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(c^3+(13/614)*c^7))
-  ,|tput3
-3000/307*a^2*b + 3000/307*a^3
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! f/ ele;t 9dicates t !         #aeif
-ra;nals >e fix$ "<we knew t">4 ,scal+ !
-second ele;t gives ;b - a z a fix$
-ele;t4 ,scal+ ! ?ird & f|r? fix$ ele;ts1
-we recognize t !y c 2 obta9$ f p{}s ( ;b
-- a4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-(b-a)^2
-  ,|tput3
--2*a*b
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-(b-a)^3
-  ,|tput3
-2*a^2*b + 2*a^3
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,s ! fix$ field ( ? subgr|p c 2 =m$ by
-adjo9+ ;b - a to ! ra;nals1 : 9
-ma!matical nota;n is _% <4>2}i-<4>2} .k
-(1-i)<4>2} _:1 s ! fix$ field is   #aeig
-_% `;,q(<4>2}i-<4>2}) .k
-`;,q((1-i)<4>2}) _:4
-  ,we c cr1te ? fix$ field1 ?|< z cr1t$
-"h x is n /rictly a subfield ( ;,l4 ,we
-w use an expres.n = ;b - a t is a l9e>
-comb9a;n ( p{}s ( ;c4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-subinfo =
-_l.subfield((79/120)*(c+(1/158)*c^5));
-subinfo
-  ,|tput3
-(_number _field in c0 with defining
-polynomial x^4 + _8  with c0 = 1/240*c^5
-+ 79/120*c,  _ring morphism:    _from:
-_number _field in c0 with defining
-polynomial x^4 + _8          with c0 =
-1/240*c^5 + 79/120*c    _to:   _number
-_field in c with defining polynomial x^8
-+ 28*x^4 + 2500    _defn: c0 _\-->
-1/240*c^5 + 79/120*c)
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,! 4subfield"<"> me?od returns   #aeih
-a pair4 ,! f/ item is a new numb} field1
-isomorphic to a subfield ( ;,l4 ,!
-second item is an 9jective mapp+ f ! new
-numb} field 9to ;,l4 ,9 ? case1 ! image
-( ! primitive ele;t c#j is ! ele;t we h
-specifi$ z ! g5}ator ( ! subfield4 ,!
-primitive ele;t ( ! new field w satisfy
-! def9+ polynomial _% x~4"+8 _: ,- y c
-*eck t _% (1-i)<4>2} _: is 9de$ a root (
-! polynomial _% x~4"+8 _:4
-  ,"! >e five subgr|ps ( ord} _% #2 _:1
-we h f.d fix$ fields = two ( !m4 ,! o!r
-?ree >e simil>1 s x wd 2 a gd ex}cise to
-"w "? !m4 ,|r automorphism gr|p has ?ree
-subgr|ps ( ord} #d1 & at l1/ "o ( ea*
-possible type "<cyclic v}sus
-non-cyclic">4 ,fix$ fields ( l>g}
-subgr|ps require t we f9d ele;ts fix$ by
-all ( ! automorphisms 9 ! subgr|p4 "<,we
-7 3v5i5tly ignor+ ! id5t;y automorphism
-abv4"> ,? w require m computa;n1 b w
-re/rict ! possibilities "<small}
-fields"> to ": x w 2 easi} to d$uce a
-primitive ele;t = ea* field4
-  ,! sev5? subgr|p is g5}at$ by    #aeii
-two ele;ts ( ord} _% #2 _: & is compos$
-5tirely ( ele;ts ( ord} _% #2 _:
-"<except ! id5t;y">1 s is isomorphic to
-_% `;,z2`*`;,z2 _:4 ,! p}muta;ns
-correspond to automorphisms numb} #j1
-#a1 #c1 & #f4 ,to det}m9e ! ele;ts fix$
-by .1all .1f|r automorphisms1 we w build
-! k}nel = ea* "o & z we g1 we =m !
-.19t}sec;n ( all f|r k}nels4 ,we w "w
-via a loop ov} ! f|r automorphisms4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_v = _>qq^8 for tau in [_g[0], _g[1],
-_g[3], _g[6]]:   tau__matrix =
-column__matrix([tau(be).vector() for be
-in basis])   _k =
-(tau__matrix-identity__matrix(8)).right-
-__kernel()   _v = _v.intersection(_k) _v
-  ,|tput3
-_vector space of degree _8 and dimension
-_2 over _rational _field _basis matrix:
-[    _1     _0     _0     _0     _0
-_0     _0     0] [    _0     _0     _1
-  _0     _0     _0 -1/22     0]    #afjj
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,|tside ( ! ra;nals1 "! is a s+le fix$
-ele;t4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(c^2 _- (1/22)*c^6))
-  ,|tput3
-150/11*a^2
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,remov+ a scal> multiple1 |r primitive
-ele;t is a`5#b1 : ma!matically is
-_% >2} _:1 s ! fix$ field is
-_% `;,q(>2}) _:4 ,ag1 we c build ? fix$
-field1 b ignore ! mapp+4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_f, mapping = _l.subfield((11/150)*(c^2
-_- (1/22)*c^6)) _f
-  ,|tput3
-_number _field in c0 with defining
-polynomial x^2 _- _2 with c0 =     #afja
--1/300*c^6 + 11/150*c^2
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,"o m subgr|p4 ,! p5ultimate subgr|p
-has a p}muta;n ( ord} #d z a g5}ator1 s
-is a cyclic gr|p ( ord} #d4 ,! 9dividual
-p}muta;ns ( ! subgr|p correspond to
-automorphisms #j1 #a1 #b1 #g4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_v = _>qq^8 for tau in [_g[0], _g[1],
-_g[2], _g[7]]:   tau__matrix =
-column__matrix([tau(be).vector() for be
-in basis])   _k =
-(tau__matrix-identity__matrix(8)).right-
-__kernel()   _v = _v.intersection(_k) _v
-  ,|tput3
-_vector space of degree _8 and dimension
-_2 over _rational _field _basis matrix:
-[1 _0 _0 _0 _0 _0 _0 0] [0 _0 _0 _0 _1
-_0 _0 0]
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,s we compute ! primitive        #afjb
-ele;t4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(c^4))
-  ,|tput3
--24*a^3*b _- 14
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,s9ce ra;nals >e fix$1 we c remove !
-_% -#14 _: & ! multiple & take a`5#c"9b
-z ! primitive ele;t4 ,ma!matically1 ? is
-_% #2i _:1 s we mi<t z well use j .2i z
-! primitive ele;t & ! fix$ field is
-_% `;,q(i) _:4 ,we c !n build ! fix$
-field "<& ignore ! mapp+ al return$">4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_f, mapping = _l.subfield((c^4+14)/-48)
-_f
-  ,|tput3
-_number _field in c0 with defining
-polynomial x^2 + _1 with c0 = -1/48*c^4
-_- 7/24                            #afjc
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,"! is "o m subgr|p ( ord} _% #4 _:1 :
-we w l1ve z an ex}cise to analyze4 ,"!
->e al two trivial subgr|ps "<! id5t;y &
-! full gr|p"> : >e n v 9t}e/+ or
-surpris+4
-  ,if ! abv seems l too m* "w1 y c alw j
-h ,sage d x all ) ! 4subfields"<">
-me?od4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-_l.subfields()
-  ,|tput3
-[ (_number _field in c0 with defining
-polynomial x,  _ring morphism:    _from:
-_number _field in c0 with defining
-polynomial x    _to:   _number _field in
-c with defining polynomial x^8 + 28*x^4
-+ 2500    _defn: _0 _\--> 0,  _none),
-(_number _field in c1 with defining
-polynomial x^2 + 112*x + 40000,  _ring
-morphism:    _from: _number _field in c1
-with defining polynomial x^2 +     #afjd
-112*x + 40000    _to:   _number _field
-in c with defining polynomial x^8 +
-28*x^4 + 2500    _defn: c1 _\--> 4*c^4,
-_none), (_number _field in c2 with
-defining polynomial x^2 + 512,  _ring
-morphism:    _from: _number _field in c2
-with defining polynomial x^2 + 512
-_to:   _number _field in c with defining
-polynomial x^8 + 28*x^4 + 2500    _defn:
-c2 _\--> 1/25*c^6 + 78/25*c^2,  _none),
-(_number _field in c3 with defining
-polynomial x^2 _- 288,  _ring morphism:
-  _from: _number _field in c3 with
-defining polynomial x^2 _- 288    _to:
-_number _field in c with defining
-polynomial x^8 + 28*x^4 + 2500    _defn:
-c3 _\--> -1/25*c^6 + 22/25*c^2,  _none),
-(_number _field in c4 with defining
-polynomial x^4 + 112*x^2 + 40000,  _ring
-morphism:    _from: _number _field in c4
-with defining polynomial x^4 + 112*x^2 +
-40000    _to:   _number _field in c with
-defining polynomial x^8 + 28*x^4 + 2500
-  _defn: c4 _\--> 2*c^2,  _none),
-(_number _field in c5 with         #afje
-defining polynomial x^4 + 648,  _ring
-morphism:    _from: _number _field in c5
-with defining polynomial x^4 + 648
-_to:   _number _field in c with defining
-polynomial x^8 + 28*x^4 + 2500    _defn:
-c5 _\--> 1/80*c^5 + 79/40*c,  _none),
-(_number _field in c6 with defining
-polynomial x^4 + 8, _ring morphism:
-_from: _number _field in c6 with
-defining polynomial x^4 + _8   _to:
-_number _field in c with defining
-polynomial x^8 + 28*x^4 + 2500   _defn:
-c6 _\--> -1/80*c^5 + 1/40*c,   _none),
-(_number _field in c7 with defining
-polynomial x^4 _- 512,  _ring morphism:
-  _from: _number _field in c7 with
-defining polynomial x^4 _- 512    _to:
-_number _field in c with defining
-polynomial x^8 + 28*x^4 + 2500    _defn:
-c7 _\--> -1/60*c^5 + 41/30*c,  _none),
-(_number _field in c8 with defining
-polynomial x^4 _- 32,  _ring morphism:
- _from: _number _field in c8 with
-defining polynomial x^4 _- 32    _to:
-_number _field in c with defining  #afjf
-polynomial x^8 + 28*x^4 + 2500    _defn:
-c8 _\--> 1/60*c^5 + 19/30*c,  _none),
-(_number _field in c9 with defining
-polynomial x^8 + 28*x^4 + 2500,  _ring
-morphism:    _from: _number _field in c9
-with defining polynomial x^8 + 28*x^4 +
-2500    _to:   _number _field in c with
-defining polynomial x^8 + 28*x^4 + 2500
-  _defn: c9 _\--> c,  _ring morphism:
-_from: _number _field in c with defining
-polynomial x^8 + 28*x^4 + 2500    _to:
-_number _field in c9 with defining
-polynomial x^8 + 28*x^4 + 2500    _defn:
-c _\--> c9) ]
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,t5 subfields >e describ$1 : is :at we
-wd expect1 giv5 ! #aj subgr|ps ( !
-,galois gr|p4 ,ea* 2g9s ) a new numb}
-field t is a subfield4 ,te*nically1 ea*
-is n a subset ( ;,l1 b ! second item
-return$ = ea* subfield is an 9jective
-homomorphism1 al "kn g5}ally z an
-8emb$d+40 ,ea* emb$d+ describes h{ a
-primitive ele;t ( ! subfield       #afjg
-translates to an ele;t ( ;,l4 ,"s ( ~!
-primitive ele;ts cd 2 manipulat$ "<z we
-h d"o abv"> to yield sli<tly simpl}
-m9imal polynomials1 b ! results >e q
-impressive n"o!.s4 ,ea* item 9 ! li/ has
-a ?ird compon5t1 : is alm alw ,n"o1
-except :5 ! subfield is ! :ole field1 &
-!n ! ?ird compon5t is an 9jective
-homomorphism 8in ! o!r direc;n40
-
-      ,subsec;n ,normal ,ext5.ns
-  ,3sid} ! ?ird subgr|p 9 ! li/ abv1
-g5}at$ by ! p}muta;n "<#a1d">4 ,z a
-subgr|p ( ord} _% #2 _:1 x only has "o
-nontrivial ele;t1 : "h corresponds to !
-sev5? automorphism4 ,we det}m9e ! fix$
-ele;ts z 2f4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-tau = _g[6] tau__matrix =
-column__matrix([tau(be).vector() for be
-in basis])
-(tau__matrix-identity__matrix(8)).right-
-__kernel()                         #afjh
-  ,|tput3
-_vector space of degree _8 and dimension
-_4 over _rational _field _basis matrix:
-[    _1     _0     _0     _0     _0
-_0     _0     0] [    _0     _1     _0
-  _0     _0 -1/82     _0     0] [    _0
-   _0     _1     _0     _0     _0 -1/22
-   0] [    _0     _0     _0     _1
-_0     _0     _0 11/58]
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(1))
-  ,|tput3
-_1
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(c+(-1/82)*c^5))
-  ,|tput3
--120/41*a                          #afji
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(c^2+(-1/22)*c^6))
-  ,|tput3
-150/11*a^2
-gggggggggggggggggggggggggggggggggggggggg
-
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-from_l(tau(c^3+(11/58)*c^7))
-  ,|tput3
-3000/29*a^3
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,z usual1 ignor+ ra;nal multiples1 we
-see p{}s ( a & recognize t a al"o w 2 a
-primitive ele;t = ! fix$ field1 : is ?us
-_% `;,q(<4>2}) _:4 ,recognize t a 0 |r
-f/ root ( _% x~4"-2 _:1 & 0 us$ to cr1te
-! f/ "p ( orig9al t{}1 ;,n4 ,s ;,n is
-bo? _% `;,q(<4>2}) _: & ! fix$     #afaj
-field ( _% ,h .k ..((1, 4)..) _:4
-  _% `;,q(<4>2}) _: 3ta9s at l1/ "o root
-( ! irr$ucible _% x~4"-2 _:1 b n all ( !
-roots "<wit;s ! factoriza;n abv"> & "!=e
-does n qualify z a normal ext5.n4 ,by "p
-"<#d"> ( ,!orem #bc4bc ! automorphism
-gr|p ( ! ext5.n is n normal 9 ! full
-,galois gr|p4
-7777777777777777777777777777777777777777
-,sage
-  ,9put3
-sg[2].is__normal(_p)
-  ,|tput3
-_false
-gggggggggggggggggggggggggggggggggggggggg
-
-  ,z expect$4
-,ex}cises #bc4h ,sage ,ex}cises #a 4
-  ,9 ! analysis ( ,example #bc4be )
-,sage1 two subgr|ps ( ord} _% #2 _: & "o
-subgr|p ( ord} _% #4 _: 7 n analyz$4
-,det}m9e ! fix$ fields ( ~! ?ree
-subgr|ps4
-#b 4
-  ,build ! splitt+ field (         #afaa
-_% p(x) .k x~3"-6x~2"+12x-10 _: & !n
-det}m9e ! ,galois gr|p ( _% p(x) _: z a
-3crete gr|p ( explicit p}muta;ns4 ,build
-! lattice ( subgr|ps ( ! ,galois gr|p1
-ag us+ ! same explicit p}muta;ns4 ,us+ !
-,funda;tal ,!orem ( ,galois ,!ory1
-3/ruct ! subfields ( ! splitt+ field4
-,9clude yr support+ docu;ta;n 9 yr
-submitt$ ,sage "w%eet4 ,al1 submit a
-writt5 compon5t ( ? assign;t 3ta9+ a
-complete lay|t ( ! subgr|ps & subfields1
-writt5 5tirely ) ma!matical nota;n & )
-no ,sage comm&s1 design$ to illu/rate !
-correspond;e 2t ! two4 ,all y ne$ "h is
-! graphical lay|t1 suitably label$ ,- !
-,sage "w%eet w sub/antiate yr "w4
-#c 4
-  ,! polynomial _% x~5"-x-1 _: has all (
-! symmetric gr|p _% ,s5 _: z xs ,galois
-gr|p4 ,2c _% ,s5 _: is n solvable1 we "k
-? polynomial to 2 an example ( a qu9tic
-polynomial t is n solvable by radicals4
-,un=tunately1 ask+ ,sage to compute ?
-,galois gr|p takes f> too l;g4 ,s ?
-ex}cise w simulate t exp}i;e ) a   #afab
-sli<tly small} example4
-  ,3sid} ! polynomial _% p(x) .k
-x~4"+x+1 _:4
-
-a4 ,build ! splitt+ field ( _% p(x) _:
-  "o root at a "t4 ,cr1te an ext5.n1
-  factor "!1 4c>d l9e> factors1 use !
-  rema9+ irr$ucible factor to ext5d once
-  m4 ,rep1t until _% p(x) _: factors
-  completely4 ,2 sure to d a f9al ext5.n
-  via j a l9e> factor4 ,? is a ll silly1
-  & ,sage w seem to ignore yr f9al
-  g5}ator "<s y w want to set}m9e :at x
-  is equival5t to 9 t}ms ( ! previ|s
-  gf5}ators">4 ,direc;ns 2l dep5d on
-  tak+ ? extra /ep4
-;b4 ,factor ! orig9al polynomial ov} !
-  f9al ext5.n field 9 ! t{}4 ,:at is
-  bor+ ab ? factoriza;n 9 comp>ison to
-  "s o!r examples we h d"o8
-;c4 ,3/ruct ! full t{} z an absolute
-  field ov} _% `;,q _:4 ,f ! degree ( ?
-  ext5.n & ! degree ( ! orig9al
-  polynomial1 9f} ! ,galois gr|p ( !
-  polynomial4                      #afac
-;d4 ,us+ ! mapp+s t all{ y to translate
-  2t ! t{} & ! absolute field "<obta9$ f
-  ! 4/ructure"<"> me?od">1 *oose "o ( !
-  roots "<any "o"> & express x 9 t}ms (
-  ! s+le g5}ator ( ! absolute field4 ,!n
-  rev}se ! proc$ure & express ! s+le
-  g5}ator ( ! absolute field 9 t}ms ( !
-  roots 9 ! t{}4
-;e4 ,compute ! gr|p ( automorphisms ( !
-  absolute field "<b don't 4play ! :ole
-  gr|p 9 :at y submit">4 ,take all f|r
-  roots "<9clud+ yr silly "o f ! la/ /ep
-  ( ! t{} 3/ruc;n"> & apply ea* field
-  automorphism to ! f|r roots "<cr1t+ !
-  gu>ante$ p}muta;ns ( ! roots">4 ,com;t
-  on :at y see4
-;f4 ,"! is "o nontrivial automorphism t
-  has an especially simple =m "<x is !
-  second "o = me"> :5 appli$ to !
-  g5}ator ( ! absolute field4 ,:at does
-  ? automorphism d to ! roots (
-  _% p(x) _:;8
-;g4 ,3sid} ! ext5.n ( _% `;,q _: =m$ by
-  adjo9+ j "o ( ! roots4 ,? is a
-  subfield ( ! splitt+ field ( !   #afad
-  polynomial1 s is ! fix$ field ( a
-  subgr|p ( ! ,galois gr|p4 ,give a
-  simple descrip;n ( ! correspond+
-  subgr|p us+ language we typically only
-  apply to p}muta;n gr|ps4
-
-#d 4
-  ,return to ! splitt+ field ( ! qu9tic
-4cuss$ 9 ! 9troduc;n to ! previ|s
-problem "<_% x~5"-x-1 _:">4 ,cr1te ! f/
-two 9t}m$iate fields by adjo9+ two roots
-"<"o at a "t">4 ,b 9/1d ( factor+ at ea*
-/ep to get a new irr$ucible polynomial1
-.1divide by ! l9e> factor y .1"k is a
-factor4 ,9 g5}al1 ! quoti5t mi<t factor
-fur!r1 b 9 ? ex}cise presume x does n4
-,9 o!r ~ws1 act z if yr quoti5t by !
-l9e> factor is irr$ucible4 ,if x is n1
-!n ! ,numb},field"<"> comm& %d compla9
-"<: x w n">4
-  ,af adjo9+ two roots1 cr1te ! ext5.n
-produc+ a ?ird root1 & d ! divi.n4 ,y %d
-n{ h a quadratic factor4 ,assum+ !
-quadratic is irr$ucible "<x is"> >gue t
-y h 5 evid;e to e/abli% ! ord} (   #afae
-! ,galois gr|p1 & h;e c det}m9e
-.1exactly : gr|p x is4
-  ,y c try to use ? quadratic factor to
-cr1te "o m /ep 9 ! ext5.ns1 & y w >rive
-at ! splitt+ field1 z c 2 se5 ) logic or
-divi.n4 ,h{"e1 ? cd take a l;g "t to
-complete "<save yr "w 2fh&6">4 ,y c try
-pass+ ! *eck"7,false >gu;t to !
-,numb},field"<"> comm& ,- ? w bypass
-*eck+ irr$ucibil;y4
-#e 4
-  ,cr1te ! f9ite field ( ord}
-_% #3~6 _:1 lett+ ,sage supply ! default
-polynomial = xs 3/ruc;n4 ,! polynomial
-_% x~6"+x~2"+2x+1 _: is irr$ucible ov} ?
-f9ite field4 ,*eck t ? polynomial splits
-9 ! f9ite field1 & !n use ! 4roots"<">
-me?od to collect ! roots ( ! polynomial4
-,get ! gr|p ( automorphisms ( ! field )
-! ,5d"<"> comm&4
-  ,y n{ h all ( ! pieces to associate
-ea* field automorphism ) a p}muta;n ( !
-roots4 ,f ?1 id5tify ! ,galois gr|p &
-all ( xs subgr|ps4 ,= ea* subgr|p1
-det}m9e ! fix$ field4 ,y mi<t f9d  #afaf
-! roots easi} to "w ) if y use !
-4log"<"> me?od to id5tify !m z p{}s ( !
-field's multiplicative g5}ator4
-  ,yr ,galois gr|p 9 ? example w 2
-abelian4 ,s e subgr|p is normal1 & h;e
-any ext5.n is al normal4 ,c y ext5d ?
-example by *oos+ a nontrivial 9t}m$iate
-field ) a nontrivial irr$ucible
-polynomial t has all ( xs roots 9 !
-9t}m$iate field & a nontrivial
-irr$ucible polynomial ) n"o ( xs roots 9
-! 9t}m$iate field8
-  ,yr results "h >e 8typical0 9 ! s5se t
-! "picul> field or irr$ucible polynomial
-makes ll di6};e 9 ! qualitative nature (
-! results4
-#f 4
-  ,! splitt+ field = ! irr$ucible
-polynomial _% p(x) .k x~7"-7x+3 _: has
-degree #afh "<h;e ? is ! ord} ( !
-,galois gr|p">4 ,? polynomial is d}iv$ f
-an 8,elkies tr9omial curve10 a
-hyp}elliptic curve "<2l"> t produces
-polynomials ) 9t}e/+ ,galois gr|ps3
-                                   #afag
-_% y~2 .k
-x(81x~5"+396x~4"+738x~3"+660x~2"+269x+4-
-8) _:
-  ,= _% p(x) _: ! result+ ,galois gr|p
-is _% ,p,s,l(2, 7) _:1 a simple gr|p4
-,if _% ,s,l(2, 7) _: is all _% #2`*2 _:
-matrices ov} _% `;,z7 _: ) det}m9ant #a1
-!n _% ,p,s,l(2, 7) _: is ! quoti5t by !
-subgr|p _% .(,i2, -,i2.) _:4 ,x is !
-second-smalle/ non-abelian simple gr|p
-"<af _% ,a5 _:">4
-  ,see h{ f> y c get 9 us+ ,sage to
-build ? splitt+ field4 ,a degree
-_% #7 _: ext5.n w yield "o l9e> factor1
-& a subsequ5t degree _% #6 _: ext5.n w
-yield two l9e> factors1 l1v+ a qu>tic
-factor4 ,"h is ": ! computa;ns 2g9 to
-sl{ d{n4 ,if we 2lieve t ! splitt+ field
-has degree _% #168 _:1 !n we "k t add+ a
-root f ? degree #d factor w get u to !
-splitt+ field4 ,cr1t+ ? ext5.n may 2
-possible computa;nally1 b v}ify+ t !
-qu>tic splits 9to l9e> factors "h seems
-to 2 9f1sible4
-#g 4                               #afah
-  ,return to ,example #bc4be1 & !
-complete li/ ( subfields obta9able f !
-4subfields"<"> me?od appli$ to ! flatt5$
-t{}4 ,z m5;n$1 ~! >e te*nically n
-subfields1 b d h emb$d+s 9to ! t{}4
-,giv5 two subfields1 _! respective
-primitive ele;ts >e emb$d$ 9to ! t{}1 )
-an image t is a l9e> comb9a;n ( p{}s ( !
-primitive ele;t = ! t{}4
-  ,if "o subfield is 3ta9$ 9 ! o!r1 !n !
-image ( ! primitive ele;t = ! small}
-field %d 2 a l9e> comb9a;n ( !
-"<appropriate"> p{}s ( ! image ( !
-primitive ele;t = ! l>g} field4 ,? is a
-l9e> algebra computa;n t %d 2 possible 9
-! t{}1 relative to ! p{} basis = ! :ole
-t{}4
-  ,write a proc$ure to det}m9e if two
-subfields >e relat$ by "o 2+ a subset (
-! o!r4 ,!n use ? proc$ure to cr1te !
-lattice ( subfields4 ,! ev5tual goal wd
-2 a graphical 4play ( ! lattice1 us+ !
-exi/+ plott+ facilities available =
-lattices1 simil> to ! top half (
-,figure #bc4bf4 ,? is a 8*all5g+0  #afai
-ex}cise1 : is code = 8x is speculative &
-has n be5 te/$40
-,app5dix ,a ,,gnu ,free ,docu;ta;n
-,lic5se
+,april #aihb1 #acf,-#di4 ,app5dix ,a
+,,gnu ,free ,docu;ta;n ,lic5se
   ,v}.n #a4c1 #c ,novemb} #bjjh
-  ,copy"r ~c #bjjj1 #bjja1 #bjjb1 #bjjg1
-#bjjh ,free ,s(tw>e ,f.da;n1 ,9c4 `<
-www4fsf4org`>
+  ,copy"r ~c #bjjj1 #bjja1 #bjjb1  #aaef
+#bjjg1 #bjjh ,free ,s(tw>e ,f.da;n1 ,9c4
+`< www4fsf4org`>
   ,"ey"o is p}mitt$ to copy & 4tribute
 v}batim copies ( ? lic5se docu;t1 b
 *ang+ x is n all{$4
@@ -2996,20 +1866,20 @@ au?or & publi%} a way to get cr$it = _!
 modifica;ns made by o!rs4
   ,? ,lic5se is a k9d ( 8copyleft01 :
 m1ns t d}ivative "ws ( ! docu;t m/ !mvs
-2 free 9 ! same s5se4 ,x           #afbj
-comple;ts ! ,,gnu ,g5}al ,public
-,lic5se1 : is a copyleft lic5se design$
-= free s(tw>e4
+2 free 9 ! same s5se4 ,x comple;ts !
+,,gnu ,g5}al ,public ,lic5se1 : is a
+copyleft lic5se design$ = free s(tw>e4
   ,we h design$ ? ,lic5se 9 ord} to use
 x = manuals = free s(tw>e1 2c free
 s(tw>e ne$s free docu;ta;n3 a free
-program %d come ) manuals provid+ ! same
-fre$oms t ! s(tw>e does4 ,b ? ,lic5se is
-n limit$ to s(tw>e manuals2 x c 2 us$ =
-any textual "w1 reg>d.s ( subject matt}
-or :e!r x is publi%$ z a pr9t$ book4 ,we
-recomm5d ? ,lic5se pr9cipally = "ws ~:
-purpose is 9/ruc;n or ref};e4
+program %d come ) manuals provid+  #aaeg
+! same fre$oms t ! s(tw>e does4 ,b ?
+,lic5se is n limit$ to s(tw>e manuals2 x
+c 2 us$ = any textual "w1 reg>d.s (
+subject matt} or :e!r x is publi%$ z a
+pr9t$ book4 ,we recomm5d ? ,lic5se
+pr9cipally = "ws ~: purpose is 9/ruc;n
+or ref};e4
 #a4 ,,,applicabil;y & def9i;ns4,'
   ,? ,lic5se applies to any manual or
 o!r "w1 9 any m$ium1 t 3ta9s a notice
@@ -3021,16 +1891,16 @@ lic5se1 unlimit$ 9 dura;n1 to use t "w
 ref}s to any s* manual or "w4 ,any memb}
 ( ! public is a lic5see1 & is address$ z
 8y04 ,y a3ept ! lic5se if y copy1 modify
-or 4tribute ! "w 9 a way requir+   #afba
-p}mis.n "u copy"r law4
+or 4tribute ! "w 9 a way requir+ p}mis.n
+"u copy"r law4
   ,a 8,modifi$ ,v}.n0 ( ! ,docu;t m1ns
 any "w 3ta9+ ! ,docu;t or a por;n ( x1
 ei copi$ v}batim1 or ) modifica;ns &_/or
 translat$ 9to ano!r language4
-  ,a 8,second>y ,sec;n0 is a "nd app5dix
-or a front-matt} sec;n ( ! ,docu;t t
-d1ls exclusively ) ! rela;n%ip ( !
-publi%}s or au?ors ( ! ,docu;t to !
+  ,a 8,second>y ,sec;n0 is a "nd   #aaeh
+app5dix or a front-matt} sec;n ( !
+,docu;t t d1ls exclusively ) ! rela;n%ip
+( ! publi%}s or au?ors ( ! ,docu;t to !
 ,docu;t's ov}all subject "<or to relat$
 matt}s"> & 3ta9s no?+ t cd fall directly
 )9 t ov}all subject4 "<,?us1 if !
@@ -3046,14 +1916,14 @@ posi;n reg>d+ !m4
 designat$1 z 2+ ~? ( ,9v>iant ,sec;ns1 9
 ! notice t says t ! ,docu;t is rel1s$ "u
 ? ,lic5se4 ,if a sec;n does n fit ! abv
-def9i;n ( ,second>y !n x is n      #afbb
-all{$ to 2 designat$ z ,9v>iant4 ,!
-,docu;t may 3ta9 z}o ,9v>iant ,sec;ns4
-,if ! ,docu;t does n id5tify any
-,9v>iant ,sec;ns !n "! >e n"o4
+def9i;n ( ,second>y !n x is n all{$ to 2
+designat$ z ,9v>iant4 ,! ,docu;t may
+3ta9 z}o ,9v>iant ,sec;ns4 ,if ! ,docu;t
+does n id5tify any ,9v>iant ,sec;ns !n
+"! >e n"o4
   ,! 8,cov} ,texts0 >e c}ta9 %ort
-passages ( text t >e li/$1 z
-,front-,cov} ,texts or ,back-,cov}
+passages ( text t >e li/$1 z       #aaei
+,front-,cov} ,texts or ,back-,cov}
 ,texts1 9 ! notice t says t ! ,docu;t is
 rel1s$ "u ? ,lic5se4 ,a ,front-,cov}
 ,text may 2 at mo/ #e ~ws1 & a
@@ -3071,16 +1941,16 @@ transla;n to a v>iety ( =mats suitable =
 9put to text =matt}s4 ,a copy made 9 an
 o!rwise ,transp>5t file =mat ~: m>kup1
 or abs;e ( m>kup1 has be5 >rang$ to ?w>t
-or 4c|rage subsequ5t modifica;n    #afbc
-by r1d}s is n ,transp>5t4 ,an image =mat
-is n ,transp>5t if us$ = any sub/antial
-am.t ( text4 ,a copy t is n 8,transp>5t0
-is call$ 8,opaque04
+or 4c|rage subsequ5t modifica;n by r1d}s
+is n ,transp>5t4 ,an image =mat is n
+,transp>5t if us$ = any sub/antial am.t
+( text4 ,a copy t is n 8,transp>5t0 is
+call$ 8,opaque04
   ,examples ( suitable =mats =
-,transp>5t copies 9clude pla9 ,,ascii
-)|t m>kup1 ,tex9fo 9put =mat1 ,la,te,x
-9put =mat1 ,,sgml or ,,xml us+ a
-publicly available ,,dtd1 & /&>d-3=m+
+,transp>5t copies 9clude pla9      #aafj
+,,ascii )|t m>kup1 ,tex9fo 9put =mat1
+,la,te,x 9put =mat1 ,,sgml or ,,xml us+
+a publicly available ,,dtd1 & /&>d-3=m+
 simple ,,html1 ,po/,script or ,,pdf
 design$ = human modifica;n4 ,examples (
 transp>5t image =mats 9clude ,,png1
@@ -3096,15 +1966,14 @@ book1 ! title page xf1 plus s* foll{+
 pages z >e ne$$ to hold1 legibly1 !
 mat}ial ? ,lic5se requires to appe> 9 !
 title page4 ,= "ws 9 =mats : d n h any
-title page z s*1 8,title ,page0    #afbd
-m1ns ! text ne> ! mo/ prom95t appe>.e (
-! "w's title1 prec$+ ! 2g9n+ ( ! body (
-! text4
+title page z s*1 8,title ,page0 m1ns !
+text ne> ! mo/ prom95t appe>.e ( ! "w's
+title1 prec$+ ! 2g9n+ ( ! body ( ! text4
   ,! 8publi%}0 m1ns any p}son or 5t;y t
 4tributes copies ( ! ,docu;t to !
 public4
-  ,a sec;n 8,5titl$ ,,xyz0 m1ns a "nd
-subunit ( ! ,docu;t ~: title ei is
+  ,a sec;n 8,5titl$ ,,xyz0 m1ns a  #aafa
+"nd subunit ( ! ,docu;t ~: title ei is
 precisely ,,xyz or 3ta9s ,,xyz 9 p>5!ses
 foll{+ text t translates ,,xyz 9 ano!r
 language4 "<,"h ,,xyz /&s = a specific
@@ -3121,22 +1990,21 @@ def9i;n4
 by ref};e 9 ? ,lic5se1 b only z reg>ds
 4claim+ w>ranties3 any o!r implica;n t
 ~! ,w>ranty ,4claim}s may h is void &
-has no e6ect on ! m1n+ ( ?         #afbe
-,lic5se4
+has no e6ect on ! m1n+ ( ? ,lic5se4
 #b4 ,,v}batim ,,copy+4
   ,y may copy & 4tribute ! ,docu;t 9 any
 m$ium1 ei comm}cially or noncomm}cially1
 provid$ t ? ,lic5se1 ! copy"r notices1 &
 ! lic5se notice say+ ? ,lic5se applies
 to ! ,docu;t >e reproduc$ 9 all copies1
-& t y add no o!r 3di;ns :atso"e to ~? (
-? ,lic5se4 ,y may n use te*nical m1sures
-to ob/ruct or 3trol ! r1d+ or fur!r
-copy+ ( ! copies y make or 4tribute4
-,h{"e1 y may a3ept comp5sa;n 9 ex*ange =
-copies4 ,if y 4tribute a l>ge 5 numb} (
-copies y m/ al foll{ ! 3di;ns 9 sec;n
-#c4
+& t y add no o!r 3di;ns :atso"e    #aafb
+to ~? ( ? ,lic5se4 ,y may n use te*nical
+m1sures to ob/ruct or 3trol ! r1d+ or
+fur!r copy+ ( ! copies y make or
+4tribute4 ,h{"e1 y may a3ept comp5sa;n 9
+ex*ange = copies4 ,if y 4tribute a l>ge
+5 numb} ( copies y m/ al foll{ ! 3di;ns
+9 sec;n #c4
   ,y may al l5d copies1 "u ! same 3di;ns
 /at$ abv1 & y may publicly 4play copies4
 #c4 ,,,copy+ 9 quant;y4,'
@@ -3146,18 +2014,17 @@ copies y m/ al foll{ ! 3di;ns 9 sec;n
 ,docu;t's lic5se notice requires ,cov}
 ,texts1 y m/ 5close ! copies 9 cov}s t
 c>ry1 cle>ly & legibly1 all ~! ,cov}
-,texts3 ,front-,cov} ,texts on !   #afbf
-front cov}1 & ,back-,cov} ,texts on !
-back cov}4 ,bo? cov}s m/ al cle>ly &
-legibly id5tify y z ! publi%} ( ~!
-copies4 ,! front cov} m/ pres5t ! full
-title ) all ~ws ( ! title equally
-prom95t & visible4 ,y may add o!r
-mat}ial on ! cov}s 9 addi;n4 ,copy+ )
-*anges limit$ to ! cov}s1 z l;g z !y
-pres}ve ! title ( ! ,docu;t & satisfy ~!
-3di;ns1 c 2 tr1t$ z v}batim copy+ 9 o!r
-respects4
+,texts3 ,front-,cov} ,texts on ! front
+cov}1 & ,back-,cov} ,texts on ! back
+cov}4 ,bo? cov}s m/ al cle>ly & legibly
+id5tify y z ! publi%} ( ~! copies4 ,!
+front cov} m/ pres5t ! full title ) all
+~ws ( ! title equally prom95t & visible4
+,y may add o!r mat}ial on ! cov}s 9
+addi;n4 ,copy+ ) *anges limit$ to !
+cov}s1 z l;g z !y pres}ve ! title  #aafc
+( ! ,docu;t & satisfy ~! 3di;ns1 c 2
+tr1t$ z v}batim copy+ 9 o!r respects4
   ,if ! requir$ texts = ei cov} >e too
 volum9|s to fit legibly1 y %d put ! f/
 "os li/$ "<z _m z fit r1sonably"> on !
@@ -3171,20 +2038,20 @@ or ) ea* ,opaque copy a comput}-net"w
 loca;n f : ! g5}al net"w-us+ public has
 a3ess to d{nload us+ public-/&>d net"w
 protocols a complete ,transp>5t copy ( !
-,docu;t1 free ( add$ mat}ial4 ,if  #afbg
-y use ! latt} op;n1 y m/ take r1sonably
-prud5t /eps1 :5 y 2g9 4tribu;n ( ,opaque
-copies 9 quant;y1 to 5sure t ?
-,transp>5t copy w rema9 ?us a3essible at
-! /at$ loca;n until at l1/ "o ye> af !
-la/ "t y 4tribute an ,opaque copy
-"<directly or "? yr ag5ts or retail}s">
-( t $i;n to ! public4
-  ,x is reque/$1 b n requir$1 t y 3tact
-! au?ors ( ! ,docu;t well 2f r$i/ribut+
-any l>ge numb} ( copies1 to give !m a
-*.e to provide y ) an updat$ v}.n ( !
-,docu;t4
+,docu;t1 free ( add$ mat}ial4 ,if y use
+! latt} op;n1 y m/ take r1sonably prud5t
+/eps1 :5 y 2g9 4tribu;n ( ,opaque copies
+9 quant;y1 to 5sure t ? ,transp>5t copy
+w rema9 ?us a3essible at ! /at$ loca;n
+until at l1/ "o ye> af ! la/ "t y
+4tribute an ,opaque copy "<directly or
+"? yr ag5ts or retail}s"> ( t $i;n to !
+public4
+  ,x is reque/$1 b n requir$1 t y  #aafd
+3tact ! au?ors ( ! ,docu;t well 2f
+r$i/ribut+ any l>ge numb} ( copies1 to
+give !m a *.e to provide y ) an updat$
+v}.n ( ! ,docu;t4
 #d4 ,,modifica;ns4
   ,y may copy & 4tribute a ,modifi$
 ,v}.n ( ! ,docu;t "u ! 3di;ns ( sec;ns
@@ -3196,17 +2063,17 @@ modifica;n ( ! ,modifi$ ,v}.n to :o"e
 possesses a copy ( x4 ,9 addi;n1 y m/ d
 ~! ?+s 9 ! ,modifi$ ,v}.n3
 
-,a4 ,use 9 ! ,title ,page "<& on   #afbh
-  ! cov}s1 if any"> a title 4t9ct f t (
-  ! ,docu;t1 & f ~? ( previ|s v}.ns "<:
+,a4 ,use 9 ! ,title ,page "<& on !
+  cov}s1 if any"> a title 4t9ct f t ( !
+  ,docu;t1 & f ~? ( previ|s v}.ns "<:
   %d1 if "! 7 any1 2 li/$ 9 ! ,hi/ory
   sec;n ( ! ,docu;t">4 ,y may use ! same
   title z a previ|s v}.n if ! orig9al
   publi%} ( t v}.n gives p}mis.n4
 ;,b4 ,li/ on ! ,title ,page1 z au?ors1
   "o or m p}sons or 5tities responsible
-  = au?or%ip ( ! modifica;ns 9 !
-  ,modifi$ ,v}.n1 tgr ) at l1/ five ( !
+  = au?or%ip ( ! modifica;ns 9 !   #aafe
+  ,modifi$ ,v}.n1 tgr ) at l1/ five ( !
   pr9cipal au?ors ( ! ,docu;t "<all ( xs
   pr9cipal au?ors1 if x has few} ?an
   five">1 un.s !y rel1se y f ?
@@ -3221,9 +2088,8 @@ possesses a copy ( x4 ,9 addi;n1 y m/ d
   notices4
 ;,f4 ,9clude1 immly af ! copy"r notices1
   a lic5se notice giv+ ! public p}mis.n
-  to use ! ,modifi$ ,v}.n "u !     #afbi
-  t}ms ( ? ,lic5se1 9 ! =m %{n 9 !
-  ,add5dum 2l4
+  to use ! ,modifi$ ,v}.n "u ! t}ms ( ?
+  ,lic5se1 9 ! =m %{n 9 ! ,add5dum 2l4
 ;,g4 ,pres}ve 9 t lic5se notice ! full
   li/s ( ,9v>iant ,sec;ns & requir$
   ,cov} ,texts giv5 9 ! ,docu;t's lic5se
@@ -3231,12 +2097,12 @@ possesses a copy ( x4 ,9 addi;n1 y m/ d
 ;,h4 ,9clude an unalt}$ copy ( ?
   ,lic5se4
 ,i4 ,pres}ve ! sec;n ,5titl$ 8,hi/ory01
-  ,pres}ve xs ,title1 & add to x an item
-  /at+ at l1/ ! title1 ye>1 new au?ors1
-  & publi%} ( ! ,modifi$ ,v}.n z giv5 on
-  ! ,title ,page4 ,if "! is no sec;n
-  ,5titl$ 8,hi/ory0 9 ! ,docu;t1 cr1te
-  "o /at+ ! title1 ye>1 au?ors1 &
+  ,pres}ve xs ,title1 & add to x   #aaff
+  an item /at+ at l1/ ! title1 ye>1 new
+  au?ors1 & publi%} ( ! ,modifi$ ,v}.n z
+  giv5 on ! ,title ,page4 ,if "! is no
+  sec;n ,5titl$ 8,hi/ory0 9 ! ,docu;t1
+  cr1te "o /at+ ! title1 ye>1 au?ors1 &
   publi%} ( ! ,docu;t z giv5 on xs
   ,title ,page1 !n add an item describ+
   ! ,modifi$ ,v}.n z /at$ 9 ! previ|s
@@ -3246,20 +2112,21 @@ possesses a copy ( x4 ,9 addi;n1 y m/ d
   ,transp>5t copy ( ! ,docu;t1 &
   likewise ! net"w loca;ns giv5 9 !
   ,docu;t = previ|s v}.ns x 0 bas$ on4
-  ,~! may 2 plac$ 9 ! 8,hi/ory0    #afcj
-  sec;n4 ,y may omit a net"w loca;n = a
-  "w t 0 publi%$ at l1/ f|r ye>s 2f !
-  ,docu;t xf1 or if ! orig9al publi%} (
-  ! v}.n x ref}s to gives p}mis.n4
+  ,~! may 2 plac$ 9 ! 8,hi/ory0 sec;n4
+  ,y may omit a net"w loca;n = a "w t 0
+  publi%$ at l1/ f|r ye>s 2f ! ,docu;t
+  xf1 or if ! orig9al publi%} ( ! v}.n x
+  ref}s to gives p}mis.n4
 ;,k4 ,= any sec;n ,5titl$ 8,ac"kl$ge;ts0
   or 8,d$ica;ns01 ,pres}ve ! ,title ( !
   sec;n1 & pres}ve 9 ! sec;n all !
   sub/.e & t"o ( ea* ( ! 3tributor
   ac"kl$ge;ts &_/or d$ica;ns giv5 "!94
-;,l4 ,pres}ve all ! ,9v>iant ,sec;ns ( !
-  ,docu;t1 unalt}$ 9 _! text & 9 _!
-  titles4 ,sec;n numb}s or ! equival5t
-  >e n 3sid}$ "p ( ! sec;n titles4
+;,l4 ,pres}ve all ! ,9v>iant       #aafg
+  ,sec;ns ( ! ,docu;t1 unalt}$ 9 _! text
+  & 9 _! titles4 ,sec;n numb}s or !
+  equival5t >e n 3sid}$ "p ( ! sec;n
+  titles4
 ;,m4 ,delete any sec;n ,5titl$
   8,5dorse;ts04 ,s* a sec;n may n 2
   9clud$ 9 ! ,modifi$ ,v}.n4
@@ -3271,17 +2138,17 @@ possesses a copy ( x4 ,9 addi;n1 y m/ d
   ,if ! ,modifi$ ,v}.n 9cludes new
 front-matt} sec;ns or app5dices t
 qualify z ,second>y ,sec;ns & 3ta9 no
-mat}ial copi$ f ! ,docu;t1 y may   #afca
-at yr op;n designate "s or all ( ~!
-sec;ns z 9v>iant4 ,to d ?1 add _! titles
-to ! li/ ( ,9v>iant ,sec;ns 9 ! ,modifi$
-,v}.n's lic5se notice4 ,~! titles m/ 2
-4t9ct f any o!r sec;n titles4
+mat}ial copi$ f ! ,docu;t1 y may at yr
+op;n designate "s or all ( ~! sec;ns z
+9v>iant4 ,to d ?1 add _! titles to ! li/
+( ,9v>iant ,sec;ns 9 ! ,modifi$ ,v}.n's
+lic5se notice4 ,~! titles m/ 2 4t9ct f
+any o!r sec;n titles4
   ,y may add a sec;n ,5titl$
 8,5dorse;ts01 provid$ x 3ta9s no?+ b
 5dorse;ts ( yr ,modifi$ ,v}.n by v>i|s
-"pies ,- = example1 /ate;ts ( pe} review
-or t ! text has be5 approv$ by an
+"pies ,- = example1 /ate;ts ( pe}  #aafh
+review or t ! text has be5 approv$ by an
 organiza;n z ! au?oritative def9i;n ( a
 /&>d4
   ,y may add a passage ( up to five ~ws
@@ -3296,8 +2163,8 @@ cov} text = ! same cov}1 previ|sly add$
 by y or by >range;t made by ! same 5t;y
 y >e act+ on 2half (1 y may n add ano!r2
 b y may replace ! old "o1 on explicit
-p}mis.n f ! previ|s publi%} t      #afcb
-add$ ! old "o4
+p}mis.n f ! previ|s publi%} t add$ ! old
+"o4
   ,! au?or"<s"> & publi%}"<s"> ( !
 ,docu;t d n by ? ,lic5se give p}mis.n to
 use _! "ns = public;y = or to ass}t or
@@ -3305,13 +2172,13 @@ imply 5dorse;t ( any ,modifi$ ,v}.n4
 #e4 ,,comb9+ ,,docu;ts4
   ,y may comb9e ! ,docu;t ) o!r docu;ts
 rel1s$ "u ? ,lic5se1 "u ! t}ms def9$ 9
-sec;n #d abv = modifi$ v}.ns1 provid$ t
-y 9clude 9 ! comb9a;n all ( ! ,9v>iant
-,sec;ns ( all ( ! orig9al docu;ts1
-unmodifi$1 & li/ !m all z ,9v>iant
-,sec;ns ( yr comb9$ "w 9 xs lic5se
-notice1 & t y pres}ve all _! ,w>ranty
-,4claim}s4
+sec;n #d abv = modifi$ v}.ns1      #aafi
+provid$ t y 9clude 9 ! comb9a;n all ( !
+,9v>iant ,sec;ns ( all ( ! orig9al
+docu;ts1 unmodifi$1 & li/ !m all z
+,9v>iant ,sec;ns ( yr comb9$ "w 9 xs
+lic5se notice1 & t y pres}ve all _!
+,w>ranty ,4claim}s4
   ,! comb9$ "w ne$ only 3ta9 "o copy ( ?
 ,lic5se1 & multiple id5tical ,9v>iant
 ,sec;ns may 2 replac$ ) a s+le copy4 ,if
@@ -3321,8 +2188,8 @@ sec;n unique by add+ at ! 5d ( x1 9
 p>5!ses1 ! "n ( ! orig9al au?or or
 publi%} ( t sec;n if "kn1 or else a
 unique numb}4 ,make ! same adju/;t to !
-sec;n titles 9 ! li/ ( ,9v>iant    #afcc
-,sec;ns 9 ! lic5se notice ( ! comb9$ "w4
+sec;n titles 9 ! li/ ( ,9v>iant ,sec;ns
+9 ! lic5se notice ( ! comb9$ "w4
   ,9 ! comb9a;n1 y m/ comb9e any sec;ns
 ,5titl$ 8,hi/ory0 9 ! v>i|s orig9al
 docu;ts1 =m+ "o sec;n ,5titl$ 8,hi/ory02
@@ -3330,8 +2197,8 @@ likewise comb9e any sec;ns ,5titl$
 8,ac"kl$ge;ts01 & any sec;ns ,5titl$
 8,d$ica;ns04 ,y m/ delete all sec;ns
 ,5titl$ 8,5dorse;ts04
-#f4 ,,,collec;ns ( docu;ts4,'
-  ,y may make a collec;n 3si/+ ( !
+#f4 ,,,collec;ns ( docu;ts4,'      #aagj
+  ,y may make a collec;n 3si/+ ( !
 ,docu;t & o!r docu;ts rel1s$ "u ?
 ,lic5se1 & replace ! 9dividual copies (
 ? ,lic5se 9 ! v>i|s docu;ts ) a s+le
@@ -3346,8 +2213,8 @@ collec;n1 & 4tribute x 9dividually "u ?
 ,lic5se 9 all o!r respects reg>d+
 v}batim copy+ ( t docu;t4
 #g4 ,,,a7rega;n ) 9dep5d5t "ws4,'
-  ,a compila;n ( ! ,docu;t or xs   #afcd
-d}ivatives ) o!r sep>ate & 9dep5d5t
+  ,a compila;n ( ! ,docu;t or xs
+d}ivatives ) o!r sep>ate & 9dep5d5t
 docu;ts or "ws1 9 or on a volume ( a
 /orage or 4tribu;n m$ium1 is call$ an
 8a7regate0 if ! copy"r result+ f !
@@ -3355,8 +2222,8 @@ compila;n is n us$ to limit ! legal "rs
 ( ! compila;n's us}s 2y :at ! 9dividual
 "ws p}mit4 ,:5 ! ,docu;t is 9clud$ 9 an
 a7regate1 ? ,lic5se does n apply to !
-o!r "ws 9 ! a7regate : >e n !mvs
-d}ivative "ws ( ! ,docu;t4
+o!r "ws 9 ! a7regate : >e n !mvs   #aaga
+d}ivative "ws ( ! ,docu;t4
   ,if ! ,cov} ,text require;t ( sec;n #c
 is applicable to ~! copies ( ! ,docu;t1
 !n if ! ,docu;t is less ?an "o half ( !
@@ -3371,17 +2238,17 @@ bracket ! :ole a7regate4
 modifica;n1 s y may 4tribute transla;ns
 ( ! ,docu;t "u ! t}ms ( sec;n #d4
 ,replac+ ,9v>iant ,sec;ns ) transla;ns
-requires special p}mis.n f _!      #afce
-copy"r hold}s1 b y may 9clude transla;ns
-( "s or all ,9v>iant ,sec;ns 9 addi;n to
-! orig9al v}.ns ( ~! ,9v>iant ,sec;ns4
-,y may 9clude a transla;n ( ? ,lic5se1 &
+requires special p}mis.n f _! copy"r
+hold}s1 b y may 9clude transla;ns ( "s
+or all ,9v>iant ,sec;ns 9 addi;n to !
+orig9al v}.ns ( ~! ,9v>iant ,sec;ns4 ,y
+may 9clude a transla;n ( ? ,lic5se1 &
 all ! lic5se notices 9 ! ,docu;t1 & any
 ,w>ranty ,4claim}s1 provid$ t y al
 9clude ! orig9al ,5gli% v}.n ( ? ,lic5se
 & ! orig9al v}.ns ( ~? notices &
-4claim}s4 ,9 case ( a 4agree;t 2t !
-transla;n & ! orig9al v}.n ( ? ,lic5se
+4claim}s4 ,9 case ( a 4agree;t 2t  #aagb
+! transla;n & ! orig9al v}.n ( ? ,lic5se
 or a notice or 4claim}1 ! orig9al v}.n w
 prevail4
   ,if a sec;n 9 ! ,docu;t is ,5titl$
@@ -3396,19 +2263,18 @@ provid$ "u ? ,lic5se4 ,any attempt
 o!rwise to copy1 modify1 sublic5se1 or
 4tribute x is void1 & w automatically
 t}m9ate yr "rs "u ? ,lic5se4
-  ,h{"e1 if y c1se all viola;n (   #afcf
-? ,lic5se1 !n yr lic5se f a "picul>
-copy"r hold} is re9/at$ "<a">
-provi.nally1 un.s & until ! copy"r hold}
-explicitly & f9ally t}m9ates yr lic5se1
-& "<;b"> p}man5tly1 if ! copy"r hold}
-fails to notify y ( ! viola;n by "s
-r1sonable m1ns prior to #fj "ds af !
-cessa;n4
+  ,h{"e1 if y c1se all viola;n ( ?
+,lic5se1 !n yr lic5se f a "picul> copy"r
+hold} is re9/at$ "<a"> provi.nally1 un.s
+& until ! copy"r hold} explicitly &
+f9ally t}m9ates yr lic5se1 & "<;b">
+p}man5tly1 if ! copy"r hold} fails to
+notify y ( ! viola;n by "s r1sonable
+m1ns prior to #fj "ds af ! cessa;n4
   ,moreov}1 yr lic5se f a "picul> copy"r
-hold} is re9/at$ p}man5tly if ! copy"r
-hold} notifies y ( ! viola;n by "s
-r1sonable m1ns1 ? is ! f/ "t y h rcvd
+hold} is re9/at$ p}man5tly if !    #aagc
+copy"r hold} notifies y ( ! viola;n by
+"s r1sonable m1ns1 ? is ! f/ "t y h rcvd
 notice ( viola;n ( ? ,lic5se "<= any
 "w"> f t copy"r hold}1 & y cure !
 viola;n prior to #cj "ds af yr receipt (
@@ -3421,8 +2287,8 @@ receipt ( a copy ( "s or all ( ! same
 mat}ial does n give y any "rs to use x4
 #aj4 ,,,future revi.ns ( ? lic5se4,'
   ,! ,free ,s(tw>e ,f.da;n may publi%
-new1 revis$ v}.ns ( ! ,,gnu ,free  #afcg
-,docu;ta;n ,lic5se f "t to "t4 ,s* new
+new1 revis$ v}.ns ( ! ,,gnu ,free
+,docu;ta;n ,lic5se f "t to "t4 ,s* new
 v}.ns w 2 simil> 9 _s to ! pres5t v}.n1
 b may di6} 9 detail to address new
 problems or 3c}ns4 ,see
@@ -3431,37 +2297,37 @@ www4gnu4org_/copyleft4
 4t+ui%+ v}.n numb}4 ,if ! ,docu;t
 specifies t a "picul> numb}$ v}.n ( ?
 ,lic5se 8or any lat} v}.n0 applies to x1
-y h ! op;n ( foll{+ ! t}ms & 3di;ns ei (
-t specifi$ v}.n or ( any lat} v}.n t has
-be5 publi%$ "<n z a draft"> by ! ,free
-,s(tw>e ,f.da;n4 ,if ! ,docu;t does n
-specify a v}.n numb} ( ? ,lic5se1 y may
-*oose any v}.n "e publi%$ "<n z a
+y h ! op;n ( foll{+ ! t}ms &       #aagd
+3di;ns ei ( t specifi$ v}.n or ( any
+lat} v}.n t has be5 publi%$ "<n z a
 draft"> by ! ,free ,s(tw>e ,f.da;n4 ,if
-! ,docu;t specifies t a proxy c decide :
-future v}.ns ( ? ,lic5se c 2 us$1 t
-proxy's public /ate;t ( a3ept.e ( a v}.n
-p}man5tly au?orizes y to *oose t v}.n =
-! ,docu;t4
+! ,docu;t does n specify a v}.n numb} (
+? ,lic5se1 y may *oose any v}.n "e
+publi%$ "<n z a draft"> by ! ,free
+,s(tw>e ,f.da;n4 ,if ! ,docu;t specifies
+t a proxy c decide : future v}.ns ( ?
+,lic5se c 2 us$1 t proxy's public /ate;t
+( a3ept.e ( a v}.n p}man5tly au?orizes y
+to *oose t v}.n = ! ,docu;t4
 #aa4 ,,relic5s+4
   8,massive ,multiau?or ,collabora;n
 ,site0 "<or 8,,mmc ,site0"> m1ns any ,_w
-,wide ,web s}v} t publi%es         #afch
-copy"rable "ws & al provides prom95t
-facilities = anybody to $it ~? "ws4 ,a
-public wiki t anybody c $it is an
-example ( s* a s}v}4 ,a 8,massive
-,multiau?or ,collabora;n0 "<or 8,,mmc0">
-3ta9$ 9 ! site m1ns any set ( copy"rable
-"ws ?us publi%$ on ! ,,mmc site4
+,wide ,web s}v} t publi%es copy"rable
+"ws & al provides prom95t facilities =
+anybody to $it ~? "ws4 ,a public wiki t
+anybody c $it is an example ( s* a s}v}4
+,a 8,massive ,multiau?or ,collabora;n0
+"<or 8,,mmc0"> 3ta9$ 9 ! site m1ns any
+set ( copy"rable "ws ?us publi%$ on !
+,,mmc site4
   8,,cc-,,by-,,sa0 m1ns ! ,cr1tive
 ,commons ,attribu;n-,%>e ,alike #c4j
-lic5se publi%$ by ,cr1tive ,commons
-,corpora;n1 a n-=-pr(it corpora;n ) a
-pr9cipal place ( busi;s 9 ,san
-,francisco1 ,cali=nia1 z well z future
-copyleft v}.ns ( t lic5se publi%$ by t
-same organiza;n4
+lic5se publi%$ by ,cr1tive         #aage
+,commons ,corpora;n1 a n-=-pr(it
+corpora;n ) a pr9cipal place ( busi;s 9
+,san ,francisco1 ,cali=nia1 z well z
+future copyleft v}.ns ( t lic5se publi%$
+by t same organiza;n4
   8,9corporate0 m1ns to publi% or
 republi% a ,docu;t1 9 :ole or 9 "p1 z "p
 ( ano!r ,docu;t4
@@ -3471,8 +2337,7 @@ x is lic5s$ "u ? ,lic5se1 & if all "ws t
 ,,mmc1 & subsequ5tly 9corporat$ 9 :ole
 or 9 "p 9to ! ,,mmc1 "<#a"> _h no cov}
 texts or 9v>iant sec;ns1 & "<#b"> 7 ?us
-9corporat$ prior to ,novemb} #a1   #afci
-#bjjh4
+9corporat$ prior to ,novemb} #a1 #bjjh4
   ,! op}ator ( an ,,mmc ,site may
 republi% an ,,mmc 3ta9$ 9 ! site "u
 ,,cc-,,by-,,sa on ! same site at any "t
@@ -3482,8 +2347,8 @@ eligible = relic5s+4
 docu;ts4
   ,to use ? ,lic5se 9 a docu;t y h
 writt51 9clude a copy ( ! ,lic5se 9 !
-docu;t & put ! foll{+ copy"r & lic5se
-notices j af ! title page3
+docu;t & put ! foll{+ copy"r &     #aagf
+lic5se notices j af ! title page3
 
 ,copy"r "<;,,,c">  ye>  yr "n4,'
 ,p}mis.n is grant$ to copy1 4tribute &_&
@@ -3496,8 +2361,7 @@ or any lat} v}.n publi%$ by ! ,free ,s_&
 ,texts1 & no ,back-,cov} ,texts4
 ,a copy ( ! lic5se is 9clud$ 9 ! sec;n_&
 5titl$ 8,,gnu
-                                   #afdj
-,free ,docu;ta;n ,lic5se04
+,free ,docu;ta;n ,lic5se04
 
   ,if y h ,9v>iant ,sec;ns1 ,front-,cov}
 ,texts & ,back-,cov} ,texts1 replace !
@@ -3508,9 +2372,9 @@ es1,' ) !
 ,front-,cov} ,texts 2+ ,,li/1 & ) ! ,b_&
 ack-,cov} ,texts 2+ ,,li/4
 
-  ,if y h ,9v>iant ,sec;ns )|t ,cov}
-,texts1 or "s o!r comb9a;n ( ! ?ree1
-m}ge ~? two alt}natives to suit !
+  ,if y h ,9v>iant ,sec;ns )|t     #aagg
+,cov} ,texts1 or "s o!r comb9a;n ( !
+?ree1 m}ge ~? two alt}natives to suit !
 situa;n4
   ,if yr docu;t 3ta9s nontrivial
 examples ( program code1 we recomm5d
@@ -3521,7 +2385,19 @@ rel1s+ ~! examples 9 p>allel "u yr *oice
 
 
 
-                                   #afda
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #aagh
  ,h9ts & ,answ}s to ,select$ ,ex}cises
 
 #a  ,prelim9>ies
@@ -3529,28 +2405,31 @@ rel1s+ ~! examples 9 p>allel "u yr *oice
   "<a"> _% ,a.%,b .k .(2.) _:2 "<;b">
 _% ,b.%,c .k .(5.) _:4
 #a4d4b 4 ,h9t 43
-  "<a"> _% ,a`*,b .k .((a, 1), (a, 2),
-(a, 3), (b, 1), (b, 2), (b, 3), (c, 1),
-(c, 2), (c, 3).) _:2 "<;d"> _% ,a`*,d .k
-_0 _:4
+  "<a">
+_% ,a`*,b .k .((a, 1), (a, 2), (a, 3),
+(b, 1), (b, 2), (b, 3), (c, 1), (c, 2),
+(c, 3).) _:
+2 "<;d"> _% ,a`*,d .k _0 _:4
 #a4d4f 4 ,h9t 43
   ,obs}ve t _% x `e ,a.+,b _: if & only
 if _% x `e ,a _: or _% x `e ,b _:4
-,equival5tly1 _% x `e ,b _: or _% x `e
-,a _:1 : is ! same z _% x `e ,b.+,a _:4
-,"!=e1 _% ,a.+,b .k ,b.+,a _:4
+,equival5tly1 _% x `e ,b _: or
+_% x `e ,a _:1 : is ! same z
+_% x `e ,b.+,a _:4 ,"!=e1
+_% ,a.+,b .k ,b.+,a _:4
 #a4d4aj 4 ,h9t 43
-  _% (,a.%,b).+(,a_*,b).+(,b_*,a) .k
+_% (,a.%,b).+(,a_*,b).+(,b_*,a) .k
 (,a.%,b).+(,a.%,b~'").+(,b.%,a~'") .k
 `(,a.%(,b.+,b~'")`).+(,b.%,a~'") .k
 ,a.+(,b.%,a~'") .k (,a.+,b).%(,a.+,a~'")
-.k ,a.+,b _:4
+.k ,a.+,b _:                       #aagi
+  4
 #a4d4ad 4 ,h9t 43
-  _% ,a_*(,b.+,c) .k               #afdb
-,a.%(,b.+,c)' .k
+_% ,a_*(,b.+,c) .k ,a.%(,b.+,c)' .k
 (,a.%,a).%(,b~'".%,c~'") .k
 (,a.%,b~'").%(,a.%,c~'") .k
-(,a_*,b).%(,a_*,c) _:4
+(,a_*,b).%(,a_*,c) _:
+  4
 #a4d4ag 4 ,h9t 43
   "<a"> ,n a map s9ce _% f(2_/3) _: is
 undef9$2 "<;b"> ? is a map2 "<;c"> n a
@@ -3560,28 +2439,29 @@ map4
 #a4d4ah 4 ,h9t 43
   "<a"> .2;f is "o-to-"o b n onto4
 _% f(`;,r) .k .(x `e `;,r_3x .1 #0.) _:4
-"<;c"> .2;f is nei "o-to-"o nor onto4
-_% f(`;,r) .k .(x_3-#1 "k: x "k:
-#1.) _:4
+"<;c"> .2;f is nei "o-to-"o nor onto4 _%
+f(`;,r) .k .(x_3-#1 "k: x "k: #1.)
+_:4
 #a4d4bj 4 ,h9t 43
   "<a"> _% f(n) .k n+1 _:4
 #a4d4bb 4 ,h9t 43
   "<a"> ,let _% x, y `e ,a _:4 ,!n
 _% g(f(x)) .k (g.*f)(x) .k (g.*f)(y) .k
-g(f(y)) _:4 ,?us1 _% f(x) .k f(y) _: &
+g(f(y)) _:                         #aahj
+4 ,?us1 _% f(x) .k f(y) _: &
 _% x .k y _:1 s _% g.*f _: is "o-to-"o4
-"<;b"> ,let _% c `e ,c _:1 !n _% c .k
-(g.*f)(x) .k g(f(x)) _: = "s _% x  #afdc
-`e ,a _:4 ,s9ce _% f(x) `e ,b _:1 .2;g
-is onto4
+"<;b"> ,let _% c `e ,c _:1 !n
+_% c .k (g.*f)(x) .k g(f(x)) _: = "s
+_% x `e ,a _:4 ,s9ce _% f(x) `e ,b _:1
+.2;g is onto4
 #a4d4bc 4 ,h9t 43
   _% f~-1"(x) .k (x+1)_/(x-1) _:4
 #a4d4bd 4 ,h9t 43
   "<a"> ,let _% y `e f(,a1.+,a2) _:4 ,!n
 "! exi/s an _% x `e ,a1.+,a2 _: s* t
 _% f(x) .k y _:4 ,h;e1 _% y `e f(,a1) _:
-or _% f(,a2) _:4 ,"!=e1 _% y `e
-f(,a1).+f(,a2) _:4 ,3sequ5tly1
+or _% f(,a2) _:4 ,"!=e1
+_% y `e f(,a1).+f(,a2) _:4 ,3sequ5tly1
 _% f(,a1.+,a2) _"k f(,a1).+f(,a2) _:4
 ,3v}sely1 if _% y `e f(,a1).+f(,a2) _:1
 !n _% y `e f(,a1) _: or _% f(,a2) _:4
@@ -3592,46 +2472,73 @@ _% f(x) .k y _:4 ,"!=e1
 _% f(,a1).+f(,a2) _"k f(,a1.+,a2) _:1 &
 _% f(,a1.+,a2) .k f(,a1).+f(,a2) _:4
 #a4d4be 4 ,h9t 43
-  "<a"> ,! rela;n fails to 2 symmetric4
-"<;b"> ,! rela;n is n reflexive1 s9ce
-_% #0 _: is n equival5t to xf4 "<;c"> ,!
-rela;n is n transitive4
-#a4d4bh 4 ,h9t 43                  #afdd
-  ,let _% ,x .k `;,n.+.(>2}.) _: & def9e
+  "<a"> ,! rela;n fails to 2       #aaha
+symmetric4 "<;b"> ,! rela;n is n
+reflexive1 s9ce #j is n equival5t to xf4
+"<;c"> ,! rela;n is n transitive4
+#a4d4bh 4 ,h9t 43
+  ,let _% ,x .k `;,n.+.(>2}.) _: & def9e
 _% x `: y _: if _% x+y `e `;,n _:4
 #b  ,! ,9teg}s
 #b4d  ,ex}cises #b4d4a 4 ,h9t 43
   ,! base case1
 _% ,s(1)_3`(1(1+1)(2(1)+1)`)_/6 .k #1 .k
-#1~2 _: is true4 ,assume t
+#1~2 _:
+is true4 ,assume t
 _% ,s(k)_3#1~2"+2~2+''' +k~2" .k
-`(k(k+1)(2k+1)`)_/6 _: is true4 ,!n
+`(k(k+1)(2k+1)`)_/6 _:
+is true4 ,!n
 _%
-#1~2"+2~2+''' +k~2"+(k+1)~2"       .k `-
-(k(k+1)(2k+1)`)_/6+(k+1)~2"
+#1~2"+2~2+''' +k~2"+(k+1)~2"       .k
+`(k(k+1)(2k+1)`)_/6+(k+1)~2"
 .k `((k+1)((k+1)+1)(2(k+1)+1)`)_/6
 _:
 1 & s _% ,s(k+1) _: is true4 ,?us1
 _% ,s(n) _: is true = all positive
 9teg}s .2;n4
 #b4d4c 4 ,h9t 43
-  ,! base case1 _% ,s(4)_34&  .k #24 .1
-#16 .k #2~4 _: is true4 ,assume
+,! base case1                      #aahb
+_% ,s(4)_34&  .k #24 .1 #16 .k #2~4 _:
+is true4 ,assume
 _% ,s(k)_3k&  .1 #2~k _: is true4 ,!n
-_% (k+1)&  .k k& (k+1) .1 #2~k"*2 .k
-#2~k+1 _:1 s _% ,s(k+1) _: is true4
-,?us1 _% ,s(n) _: is true = all positive
-9teg}s .2;n4                       #afde
-#b4d4h 4 ,h9t 43
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #aahc
+_% (k+1)&  .k k& (k+1) .1 #2~k"*2 .k
+#2~k+1 _:
+1 s _% ,s(k+1) _: is true4 ,?us1
+_% ,s(n) _: is true = all positive
+9teg}s .2;n4
+#b4d4h 4 ,h9t 43
   ,foll{ ! pro( 9 ,example #b4d4
 #b4d4aa 4 ,h9t 43
-  ,! base case1 _% ,s(0)_3(1+x)~0"-1 .k
-#0 .1: #0 .k #0*x _: is true4 ,assume
+  ,! base case1 _%
+,s(0)_3(1+x)~0"-1 .k #0 .1: #0 .k #0*x
+_: is true4 ,assume
 _% ,s(k)_3(1+x)~k"-1 .1: kx _: is true4
 ,!n
 _%
-(1+x)~k+1"-1            .k (1+x)(1+x)~k-
-"-1
+(1+x)~k+1"-1            .k
+(1+x)(1+x)~k"-1
 .k (1+x)~k"+x(1+x)~k"-1
 .1: kx+x(1+x)~k"
 .1: kx+x
@@ -3640,39 +2547,39 @@ _:
 1 s _% ,s(k+1) _: is true4 ,"!=e1
 _% ,s(n) _: is true = all positive
 9teg}s .2;n4
-#b4d4ag 4  ,fibona3i ,numb}s4 ,h9t 43
+#b4d4ag 4  ,fibona3i ,numb}s4      #aahd
+,h9t 43
   ,= "<a"> & "<;b"> use ma!matical
 9duc;n4 "<;c"> ,%{ t _% f1 .k #1 _:1
-_% f2 .k #1 _:1 & _% f;n+2 .k
-f;n+1"+f;n _:4 "<;e"> ,use "p "<;b"> &
-,ex}cise #b4d4af4
-#b4d4ai 4 ,h9t 43                  #afdf
-  ,use ! ,funda;tal ,!orem ( ,>i?metic4
+_% f2 .k #1 _:1 &
+_% f;n+2 .k f;n+1"+f;n _:4 "<;e"> ,use
+"p "<;b"> & ,ex}cise #b4d4af4
+#b4d4ai 4 ,h9t 43
+  ,use ! ,funda;tal ,!orem ( ,>i?metic4
 #b4d4bc 4 ,h9t 43
   ,use ! ,pr9ciple ( ,well-,ord}+ & !
 divi.n algori?m4
 #b4d4bg 4 ,h9t 43
   ,s9ce _% gcd (a, b) .k #1 _:1 "! exi/
-9teg}s .2;r & .2;s s* t _% ar+bs .k
-#1 _:4 ,?us1 _% acr+bcs .k c _:4
+9teg}s .2;r & .2;s s* t
+_% ar+bs .k #1 _:4 ,?us1
+_% acr+bcs .k c _:4
 #b4d4bi 4 ,h9t 43
-  ,e prime m/ 2 ( ! =m _% #2 _:1
-_% #3 _:1 _% #6n+1 _:1 or _% #6n+5 _:4
-,suppose "! >e only f9itely _m primes (
-! =m _% #6k+5 _:4
+  ,e prime m/ 2 ( ! =m #b1 #c1
+_% #6n+1 _:1 or _% #6n+5 _:4 ,suppose "!
+>e only f9itely _m primes ( ! =m
+_% #6k+5 _:4
 #c  ,gr|ps
 #c4e  ,ex}cises #c4e4a 4 ,h9t 43
-  "<a"> _% #3+7`;,z .k .( ''', -#4, #3,
-#10, '''.) _:2 "<;c"> _% #18+26`;,z _:2
-"<;e"> _% #5+6`;,z _:4
+  "<a"> _%
+#3+7`;,z .k .( ''', -#4, #3, #10-  #aahe
+, '''.)
+_:2 "<;c"> _% #18+26`;,z _:2 "<;e">
+_% #5+6`;,z _:4
 #c4e4b 4 ,h9t 43
   "<a"> ,n a gr|p2 "<;c"> a gr|p4
 #c4e4f 4 ,h9t 43
-
-
-
-                                   #afdg
-_%
+_%
 *    #1   #5   #7   #11
 "33  "33  "33  "33  "33
 #1   #1   #5   #7   #11
@@ -3690,46 +2597,49 @@ ele;ts4
   ,look at ! symmetry gr|p ( an
 equilat}al triangle or a squ>e4
 #c4e4ag 4 ,h9t 43
-  ,! >e five di6}5t gr|ps ( ord} #h4
+  ,! >e five di6}5t gr|ps ( ord}   #aahf
+#h4
 #c4e4ah 4 ,h9t 43
   ,let
 _%
 .s .k ,(#1 #2 ''' n  ,)
       ,(a1 a2 ''' a;n,)
-_:                                 #afdh
-2 9 _% ,s;n _:4 ,all ( ! _% a;i _:s m/ 2
+_:
+2 9 _% ,s;n _:4 ,all ( ! _% a;i _:s m/ 2
 4t9ct4 ,"! >e .2;n ways to *oose
-_% a1 _:1 _% n-1 _: ways to *oose _% a2,
-''' _:1 #b ways to *oose _% a;n-1 _:1 &
-only "o way to *oose _% a;n _:4 ,"!=e1
-we c =m _% .s _: 9 _% n(n-1) ''' #2*1 .k
-n& _: ways4
+_% a1 _:1 _% n-1 _: ways to *oose
+_% a2, ''' _:1 #b ways to *oose
+_% a;n-1 _:1 & only "o way to *oose
+_% a;n _:4 ,"!=e1 we c =m _% .s _: 9
+_% n(n-1) ''' #2*1 .k n& _: ways4
 #c4e4be 4 ,h9t 43
 _%
-(aba~-1")~n"-
-     .k (aba~-1")(aba~-1) ''' (aba~-1")
-.k ab(aa~-1")b(aa~-1")b ''' b(aa~-1")ba-
-~-1"
-.k ab~n"a~-1-
-
+(aba~-1")~n"
+   .k (aba~-1")(aba~-1) ''' (aba~-1")
+.k ab(aa~-1")b(aa~-1")b '''
+b(aa~-1")ba~-1"
+.k ab~n"a~-1
 _:
 4
 #c4e4ca 4 ,h9t 43
-  ,s9ce _% abab .k (ab)~2 .k e .k
-a~2"b~2 .k aabb _:1 we "k t _% ba .k
-ab _:4
+  ,s9ce _%                         #aahg
+abab .k (ab)~2 .k e .k a~2"b~2 .k aabb
+_:1 we "k t _% ba .k ab _:4
 #c4e4ce 4 ,h9t 43
-  _% ,h1 .k .(id.) _:1 _% ,h2 .k .(id,
-.r1, .r2.) _:1 _% ,h3 .k .(id, .m1.) _:1
-_% ,h4 .k .(id, .m2.) _:1 _% ,h5   #afdi
-.k .(id, .m3.) _:1 _% ,s3 _:4
+  _% ,h1 .k .(id.) _:1
+_% ,h2 .k .(id, .r1, .r2.) _:1
+_% ,h3 .k .(id, .m1.) _:1
+_% ,h4 .k .(id, .m2.) _:1
+_% ,h5 .k .(id, .m3.) _:1 _% ,s3 _:4
 #c4e4da 4 ,h9t 43
-  ,! id5t;y ( .2;,g is _% #1 .k
-#1+0>2} _:4 ,s9ce _% (a+b>2})(c+d>2}) .k
-(ac+2bd)+(ad+bc)>2} _:1 .2;,g is clos$
-"u multiplica;n4 ,f9ally1 _% (a+b>2})~-1
-.k
-a_/(a~2"-2b~2")-b>2}_/(a~2"-2b~2") _:4
+  ,! id5t;y ( .2;,g is
+_% #1 .k #1+0>2} _:4 ,s9ce _%
+(a+b>2})(c+d>2}) .k (ac+2bd)+(ad+bc)>2}
+_:1 .2;,g is clos$ "u multiplica;n4
+,f9ally1
+_% (a+b>2})~-1 .k
+a_/(a~2"-2b~2")-b>2}_/(a~2"-2b~2") _:
+4
 #c4e4df 4 ,h9t 43
   ,look at _% ,s3 _:4
 #c4e4di 4 ,h9t 43
@@ -3737,42 +2647,45 @@ a_/(a~2"-2b~2")-b>2}_/(a~2"-2b~2") _:4
 #d  ,cyclic ,gr|ps
 #d4e  ,ex}cises #d4e4a 4 ,h9t 43
   "<a"> ,false2 "<;c"> false2 "<;e">
-true4
-#d4e4b 4 ,h9t 43
-  "<a"> _% #12 _:2 "<;c"> 9f9ite2 "<;e">
-_% #10 _:4
+true4                              #aahh
+#d4e4b 4 ,h9t 43
+  "<a"> #ab2 "<;c"> 9f9ite2 "<;e"> #aj4
 #d4e4c 4 ,h9t 43
-  "<a"> _% #7`;,z .k .( ''', -#7, #0,
-#7, #14, '''.) _:2 "<;b"> _% .(0, 3, 6,
-9, 12, 15, 18, 21.) _:2 "<;c">
-_% .(0.) _:1 _% .(0, 6.) _:1 _% .(0, 4,
-8.) _:1 _% .(0, 3, 6, 9.) _:1      #afej
-_% .(0, 2, 4, 6, 8, 10.) _:2 "<;g">
-_% .(1, 3, 7, 9.) _:2 "<;j"> _% .(1,
--#1, i, -i.) _:4
+  "<a">
+_% #7`;,z .k .( ''', -#7, #0, #7, #14,
+'''.) _:
+2 "<;b">
+_% .(0, 3, 6, 9, 12, 15, 18, 21.) _:2
+"<;c"> _% .(0.) _:1 _% .(0, 6.) _:1
+_% .(0, 4, 8.) _:1 _% .(0, 3, 6, 9.) _:1
+_% .(0, 2, 4, 6, 8, 10.) _:2 "<;g">
+_% .(1, 3, 7, 9.) _:2 "<;j">
+_% .(1, -#1, i, -i.) _:4
 #d4e4d 4 ,h9t 43
   "<a">
 _%
-,(#1 #0,), ,(-#1 #0 ,), ,(#0 -#1,), ,(#-
-0  #1,)
-,(#0 #1,)  ,(#0  -#1,)  ,(#1 #0 ,)  ,(--
-#1 #0,)
+,(#1 #0,), ,(-#1 #0 ,), ,(#0 -#1,), ,(#0
+ #1,)
+,(#0 #1,)  ,(#0  -#1,)  ,(#1 #0 ,)
+,(-#1 #0,)
 _:
 4
   "<;c">
-_%
-,(#1 #0,), ,(#1 -#1,), ,(-#1 #1,), ,(#0-
-  #1,), ,(#0 -#1,), ,(-#1 #0 ,)
-,(#0 #1,)  ,(#1 #0 ,)  ,(-#1 #0,)  ,(-#-
-1 #1,)  ,(#1 -#1,)  ,(#0  -#1,)
+
+                                   #aahi
+_%
+,(#1 #0,), ,(#1 -#1,), ,(-#1 #1,), ,(#0
+#1,), ,(#0 -#1,), ,(-#1 #0 ,)
+,(#0 #1,)  ,(#1 #0 ,)  ,(-#1 #0,)  ,(-#1
+#1,)  ,(#1 -#1,)  ,(#0  -#1,)
 _:
 4
 #d4e4aj 4 ,h9t 43
-  "<a"> _% #0 _:2 "<;b"> _% #1, -#1 _:4
+  "<a"> #j2 "<;b"> _% #1, -#1 _:4
 #d4e4aa 4 ,h9t 43
-  _% #1, #2, #3, #4, #6, #8, #12,
-#24 _:4                            #afea
-#d4e4ae 4 ,h9t 43
+  _% #1, #2, #3, #4, #6, #8, #12, #24 _-
+:4
+#d4e4ae 4 ,h9t 43
   "<a"> _% -#3+3i _:2 "<;c">
 _% #43-18i _:2 "<;e"> .2i
 #d4e4af 4 ,h9t 43
@@ -3784,45 +2697,49 @@ _% #3cis(3.p_/2) _:4
 #d4e4ah 4 ,h9t 43
   "<a"> _% (1-i)_/2 _:2 "<;c">
 _% #16(i->3}) _:2 "<;e"> _% -#1_/4 _:4
-#d4e4bb 4 ,h9t 43
-  "<a"> _% #292 _:2 "<;c"> _% #1523 _:4
+#d4e4bb 4 ,h9t 43                  #aaij
+  "<a"> #bib2 "<;c"> #aebc4
 #d4e4bg 4 ,h9t 43
   _% |..(g..).%..(h..)| .k #1 _:4
 #d4e4ca 4 ,h9t 43
   ,! id5t;y ele;t 9 any gr|p has f9ite
 ord}4 ,let _% g, h `e ,g _: h ord}s .2;m
-& .2;n1 respectively4 ,s9ce _% (g~-1")~m
-.k e _: & _% (gh)~mn .k e _:1 ! ele;ts (
-f9ite ord} 9 .2;,g =m a subgr|p ( .2;,g4
+& .2;n1 respectively4 ,s9ce
+_% (g~-1")~m .k e _: &
+_% (gh)~mn .k e _:1 ! ele;ts ( f9ite
+ord} 9 .2;,g =m a subgr|p ( .2;,g4
 #d4e4cg 4 ,h9t 43
   ,if .2;g is an ele;t 4t9ct f ! id5t;y
-9 .2;,g1 .2;g m/ g5}ate .2;,g2     #afeb
-o!rwise1 _% ..(g..) _: is a nontrivial
-prop} subgr|p ( .2;,g4
+9 .2;,g1 .2;g m/ g5}ate .2;,g2 o!rwise1
+_% ..(g..) _: is a nontrivial prop}
+subgr|p ( .2;,g4
 #e  ,p}muta;n ,gr|ps
 #e4d  ,ex}cises #e4d4a 4 ,h9t 43
   "<a"> _% (#1 #2 #4 #5 #3) _:2 "<;c">
 _% (#1 #3)(#2 #5) _:4
 #e4d4b 4 ,h9t 43
   "<a"> _% (#1 #3 #5)(#2 #4) _:2 "<;c">
-_% (#1 #4)(#2 #3) _:2 "<;e"> _% (#1 #3
-#2 #4) _:2 "<;g"> _% (#1 #3 #4)(#2
-#5) _:2 "<;n"> _% (#1 #7 #3 #5 #2) _:4
-#e4d4c 4 ,h9t 43
-  "<a"> _% (#1 #6)(#1 #5)(#1 #3)(#1
-#4) _:2 "<;c"> _% (#1 #6)(#1 #4)(#1
-#2) _:4
+_% (#1 #4)(#2 #3) _:2 "<;e">
+_% (#1 #3 #2 #4) _:2 "<;g">
+_% (#1 #3 #4)(#2 #5) _:2 "<;n">
+_% (#1 #7 #3 #5 #2) _:4            #aaia
+#e4d4c 4 ,h9t 43
+  "<a">
+_% (#1 #6)(#1 #5)(#1 #3)(#1 #4) _:2
+"<;c"> _% (#1 #6)(#1 #4)(#1 #2) _:4
 #e4d4d 4 ,h9t 43
-  _% (a1, a2, ''', a;n")~-1 .k (a1, a;n,
+_% (a1, a2, ''', a;n")~-1 .k (a1, a;n,
 a;n-1, ''', a2) _:
 #e4d4e 4 ,h9t 43
-  "<a"> _% .((#1 #3), (#1 #3)(#2 #4),
-(#1 #3 #2), (#1 #3 #4), (#1 #3 #2 #4),
-(#1 #3 #4 #2).) _: is n a subgr|p4
+  "<a">
+_% .((#1 #3), (#1 #3)(#2 #4), (#1 #3
+#2), (#1 #3 #4), (#1 #3 #2 #4), (#1 #3
+#4 #2).) _:
+is n a subgr|p4
 #e4d4h 4 ,h9t 43
   _% (#1 #2 #3 #4 #5)(#6 #7 #8) _:4
-#e4d4aa 4 ,h9t 43                  #afec
-  ,p}muta;ns ( ! =m
+#e4d4aa 4 ,h9t 43
+  ,p}muta;ns ( ! =m
 _% (1), (a1, a2)(a3, a4), (a1, a2, a3),
 (a1, a2, a3, a4, a5) _:
 >e possible = _% ,a5 _:4
@@ -3830,38 +2747,39 @@ _% (1), (a1, a2)(a3, a4), (a1, a2, a3),
   ,calculate _% (#1 #2 #3)(#1 #2) _: &
 _% (#1 #2)(#1 #2 #3) _:4
 #e4d4be 4 ,h9t 43
-  ,3sid} ! cases _% (a, b)(b, c) _: &
-_% (a, b)(c, d) _:4
+  ,3sid} ! cases                   #aaib
+_% (a, b)(b, c) _: & _% (a, b)(c, d) _:4
 #e4d4bi 4 ,h9t 43
   ,%{ t ! c5t} ( _% ,d;n _: 3si/s ( !
 id5t;y if .2;n is odd & 3si/s ( ! id5t;y
 & a _% #180~.* _: rota;n if .2;n is ev54
 #e4d4cj 4 ,h9t 43
-  ,= "<a">1 %{ t _% .s.t.s~-1"(.s(a;i"))
-.k .s(a;i+1") _:4
+  ,= "<a">1 %{ t _%
+.s.t.s~-1"(.s(a;i")) .k .s(a;i+1")
+_:4
 #f  ,cosets & ,lagrange's ,!orem
 #f4e  ,ex}cises #f4e4a 4 ,h9t 43
   ,! ord} ( .2;g & ! ord} .2;h m/ bo?
 divide ! ord} ( .2;,g4
 #f4e4b 4 ,h9t 43
-  ,! possible ord}s m/ divide _% #60 _:4
+  ,! possible ord}s m/ divide #fj4
 #f4e4c 4 ,h9t 43
-  ,? is true = e prop} nontrivial  #afed
-subgr|p4
+  ,? is true = e prop} nontrivial
+subgr|p4
 #f4e4d 4 ,h9t 43
   ,false4
 #f4e4e 4 ,h9t 43
   "<a"> _% ..(8..) _:1 _% #1+..(8..) _:1
 _% #2+..(8..) _:1 _% #3+..(8..) _:1
 _% #4+..(8..) _:1 _% #5+..(8..) _:1
-_% #6+..(8..) _:1 & _% #7+..(8..) _:2
-"<;c"> _% #3`;,z _:1 _% #1+3`;,z _:1 &
-_% #2+3`;,z _:4
+_% #6+..(8..) _:1 &                #aaic
+_% #7+..(8..) _:2 "<;c"> _% #3`;,z _:1
+_% #1+3`;,z _:1 & _% #2+3`;,z _:4
 #f4e4g 4 ,h9t 43
   _% #4~f(15) _l #4~8 _l #1(mod #15) _:4
 #f4e4ab 4 ,h9t 43
-  ,let _% g1 `e g,h _:4 ,%{ t _% g1 `e
-,hg _: & ?us _% g,h _"k ,hg _:4
+  ,let _% g1 `e g,h _:4 ,%{ t
+_% g1 `e ,hg _: & ?us _% g,h _"k ,hg _:4
 #f4e4ai 4 ,h9t 43
   ,%{ t _% g(,h.%,k) .k g,h.%g,k _:4
 #f4e4bb 4 ,h9t 43
@@ -3871,42 +2789,49 @@ _% f(mn) .k f(m)f(n) _:
 #g  ,9troduc;n to ,cryptography
 #g4d  ,ex}cises #g4d4a 4 ,h9t 43
   ,,laoryhapdwk
-#g4d4c 4 ,h9t 43                   #afee
-  ,h9t3 ;,,,v "7 ;e1 ;e "7 ;x,' "<al us$
+#g4d4c 4 ,h9t 43
+  ,h9t3 ;,,,v "7 ;e1 ;e "7 ;x,' "<al us$
 = spaces & punctua;n">1 ;,k "7 ;,r4
 #g4d4d 4 ,h9t 43
   _% #26& -#1 _:
 #g4d4g 4 ,h9t 43
-  "<a"> _% #2791 _:2 "<;c">
+  "<a"> #bgia2 "<;c">
 _% #11213525032442 _:4
-#g4d4i 4 ,h9t 43
-  "<a"> _% #31 _: "<;c"> _% #14 _:4
+#g4d4i 4 ,h9t 43                   #aaid
+  "<a"> #ca "<;c"> #ad4
 #g4d4aj 4 ,h9t 43
-  "<a"> _% n .k #11*41 _:2 "<;c"> _% n
-.k #8779*4327 _:4
+  "<a"> _% n .k #11*41 _:2 "<;c">
+_% n .k #8779*4327 _:4
 #h  ,algebraic ,cod+ ,!ory
 #h4f  ,ex}cises #h4f4b 4 ,h9t 43
-  ,? _c 2 a gr|p code s9ce _% (0000) /`e
-,c _:4
+  ,? _c 2 a gr|p code s9ce
+_% (0000) /`e ,c _:4
 #h4f4c 4 ,h9t 43
-  "<a"> _% #2 _:2 "<;c"> _% #2 _:4
+  "<a"> #b2 "<;c"> #b4
 #h4f4d 4 ,h9t 43
-  "<a"> _% #3 _:2 "<;c"> _% #4 _:4
+  "<a"> #c2 "<;c"> #d4
 #h4f4f 4 ,h9t 43
   "<a"> _% d;min .k #2 _:2 "<;c">
 _% d;min .k #1 _:4
 #h4f4g 4 ,h9t 43
-                                   #afef
-a4 _% (00000), (00101), (10011),
-  (10110) _:
-  _%
+
+a4 _%
+  (00000), (00101), (10011), (10110)
+  _:
+
+
+
+
+                                   #aaie
+  _%
   ,g .k ,(#0 #1,)
         ,(#0 #0,)
         ,(#1 #0,)
         ,(#0 #1,)
         ,(#1 #1,)
   _:
-;b4 _% (000000), (010111), (101101),
+;b4
+  _% (000000), (010111), (101101),
   (111010) _:
   _%
   ,g .k ,(#1 #0,)
@@ -3921,9 +2846,9 @@ _% d;min .k #1 _:4
   ,multiple }rors o3ur 9 "o ( ! rcvd
 ~ws4
 #h4f4aa 4 ,h9t 43
-  "<a"> ,a canonical p>;y-*eck     #afeg
-matrix ) /&>d g5}ator matrix
-_%
+  "<a"> ,a canonical p>;y-*eck matrix )
+/&>d g5}ator matrix                #aaif
+_%
 ,g .k ,(#1,)
       ,(#1,)
       ,(#0,)
@@ -3946,37 +2871,37 @@ _:
   "<a"> .2;,c1 _% (10000)+,c _:1
 _% (01000)+,c _:1 _% (00100)+,c _:1
 _% (00010)+,c _:1 _% (11000)+,c _:1
-_% (01100)+,c _:1                  #afeh
-_% (01010)+,c _:4 ,a decod+ table does n
-exi/ = .2;,c s9ce ? is only a s+le
-}ror-detect+ code4
+_% (01100)+,c _:1 _% (01010)+,c _:4 ,a
+decod+ table does n exi/ = .2;,c   #aaig
+s9ce ? is only a s+le }ror-detect+ code4
 #h4f4ai 4 ,h9t 43
   ,let _% _;x `e ,c _: h odd wei<t &
 def9e a map f ! set ( odd code~ws to !
-set ( ev5 code~ws by _% _;y $|33o
-_;x+_;y _:4 ,%{ t ? map is a bijec;n4
+set ( ev5 code~ws by
+_% _;y $|33o _;x+_;y _:4 ,%{ t ? map is
+a bijec;n4
 #h4f4bc 4 ,h9t 43
-  ,= _% #20 _: 9=ma;n posi;ns1 at l1/ #f
-*eck bits >e ne$$ to 5sure an
-}ror-correct+ code4
+  ,= #bj 9=ma;n posi;ns1 at l1/ #f *eck
+bits >e ne$$ to 5sure an }ror-correct+
+code4
 #i  ,isomorphisms
 #i4d  ,ex}cises #i4d4a 4 ,h9t 43
   ,e 9f9ite cyclic gr|p is isomorphic to
 _% `;,z _: by ,!orem #i4g4
 #i4d4b 4 ,h9t 43
-  ,def9e _% .f_3 `;,c~`# $o
-,g,l2(`;,r) _: by
+  ,def9e
+_% .f_3 `;,c~`# $o ,g,l2(`;,r) _: by
 _%
 .f(a+bi) .k ,(a  b,)
             ,(-b a,)
 _:
 4
-#i4d4c 4 ,h9t 43                   #afei
-  ,false4
-#i4d4f 4 ,h9t 43
+#i4d4c 4 ,h9t 43
+  ,false4                          #aaih
+#i4d4f 4 ,h9t 43
   ,def9e a map f _% `;,z;n _: 9to ! .2n?
-roots ( un;y by _% k $|33o
-cis(2k.p_/n) _:4
+roots ( un;y by
+_% k $|33o cis(2k.p_/n) _:4
 #i4d4h 4 ,h9t 43
   ,assume t _% `;,q _: is cyclic & try
 to f9d a g5}ator4
@@ -3984,7 +2909,7 @@ to f9d a g5}ator4
   ,"! >e two nonabelian & ?ree abelian
 gr|ps t >e n isomorphic4
 #i4d4af 4 ,h9t 43
-  "<a"> _% #12 _:2 "<;c"> _% #5 _:4
+  "<a"> #ab2 "<;c"> #e4
 #i4d4ai 4 ,h9t 43
   ,draw ! picture4
 #i4d4bj 4 ,h9t 43
@@ -3996,9 +2921,9 @@ gr|ps t >e n isomorphic4
 _% .f_3 ,g $o ,h _: is an isomorphism1
 %{ t _% f(a) _: is a g5}ator = .2;,h4
 #i4d4ch 4 ,h9t 43
-  ,any automorphism ( _% `;,z6 _:  #affj
-m/ s5d #a to ano!r g5}ator (
-_% `;,z6 _:4
+  ,any automorphism ( _% `;,z6 _: m/ s5d
+#a to ano!r g5}ator (              #aaii
+_% `;,z6 _:4
 #i4d4de 4 ,h9t 43
   ,to %{ t _% .f _: is "o-to-"o1 let
 _% g1 .k h1k1 _: & _% g2 .k h2k2 _: &
@@ -4020,9 +2945,10 @@ _% ,s4 _:4
 _% ,g_/,h _:4
 #aj4d4aa 4 ,h9t 43
   ,= any _% g `e ,g _:1 %{ t ! map
-_% i;g_3 ,g $o ,g _: def9$ by _% i;g_3 x
-$|33o gxg~-1 _: is an isomorphism  #affa
-( .2;,g ) xf4 ,!n 3sid} _% i;g"(,h) _:4
+_% i;g_3 ,g $o ,g _: def9$ by
+_% i;g_3 x $|33o gxg~-1 _: is an
+isomorphism ( .2;,g ) xf4 ,!n      #abjj
+3sid} _% i;g"(,h) _:4
 #aj4d4ab 4 ,h9t 43
   ,suppose t _% ..(g..) _: is normal 9
 .2;,g & let .2;y 2 an >bitr>y ele;t (
@@ -4030,74 +2956,102 @@ $|33o gxg~-1 _: is an isomorphism  #affa
 _% yxy~-1 _: is al 9 _% ,c(g) _:4 ,%{ t
 _% (yxy~-1")g .k g(yxy~-1") _:4
 #aj4d4ad 4 ,h9t 43
-  "<a"> ,let _% g `e ,g _: & _% h `e
-,g' _:4 ,if _% h .k aba~-1"b~-1 _:1 !n
+  "<a"> ,let _% g `e ,g _: &
+_% h `e ,g' _:4 ,if
+_% h .k aba~-1"b~-1 _:1 !n
 _%
-ghg~-1"-
-         .k gaba~-1"b~-1"g~-1"
-.k (gag~-1")(gbg~-1")(ga~-1"g~-1")(gb~--
-1"g~-1")
-.k (gag~-1")(gbg~-1")(gag~-1")~-1"(gbg~-
--1")~-1
+ghg~-1"
+       .k gaba~-1"b~-1"g~-1"
+.k
+(gag~-1")(gbg~-1")(ga~-1"g~-1")(gb~-1"g-
+~-1")
+.k
+(gag~-1")(gbg~-1")(gag~-1")~-1"(gbg~-1"-
+)~-1
 _:
-4 ,we al ne$ to %{ t if _% h .k h1 '''
-h;n _: ) _% h;i .k
-a;i"b;i"a;i~-1"b;i~-1 _:1 !n
-_% ghg~-1 _: is a product ( ele;ts ( !
-same type4 ,h{"e1 _% ghg~-1" .k gh1 '''
-h;n"g~-1" .k (gh1g~-1")(gh2g~-1) '''
-(gh;n"g~-1") _:4                   #affb
-#aa  ,homomorphisms
+4 ,we al ne$ to %{ t if
+_% h .k h1 ''' h;n _: )
+_% h;i .k a;i"b;i"a;i~-1"b;i~-1 _:1 !n
+_% ghg~-1 _: is a product (        #abja
+ele;ts ( ! same type4 ,h{"e1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #abjb
+_% ghg~-1" .k gh1 ''' h;n"g~-1" .k
+(gh1g~-1")(gh2g~-1) ''' (gh;n"g~-1") _:
+4
+#aa  ,homomorphisms
 #aa4d  ,ex}cises #aa4d4b 4 ,h9t 43
   "<a"> is a homomorphism ) k}nel
 _% .(1.) _:2 "<;c"> is n a homomorphism4
 #aa4d4d 4 ,h9t 43
-  ,s9ce _% f(m+n) .k #7(m+n) .k #7m+7n
-.k f(m)+f(n) _:1 _% .f _: is a
-homomorphism4
+  ,s9ce
+_% f(m+n) .k #7(m+n) .k #7m+7n .k
+f(m)+f(n) _:
+1 _% .f _: is a homomorphism4
 #aa4d4e 4 ,h9t 43
-  ,= any homomorphism _% .f_3 `;,z24 $o
-`;,z18 _:1 ! k}nel ( _% .f _: m/ 2 a
-subgr|p ( _% `;,z24 _: & ! image (
-_% .f _: m/ 2 a subgr|p ( _% `;,z18 _:4
-,n{ use ! fact t a g5}ator m/ map to a
-g5}ator4
+  ,= any homomorphism
+_% .f_3 `;,z24 $o `;,z18 _:1 ! k}nel (
+_% .f _: m/ 2 a subgr|p ( _% `;,z24 _: &
+! image ( _% .f _: m/ 2 a subgr|p (
+_% `;,z18 _:4 ,n{ use ! fact t a g5}ator
+m/ map to a g5}ator4
 #aa4d4i 4 ,h9t 43
-  ,let _% a, b `e ,g _:4 ,!n _% f(a)f(b)
-.k f(ab) .k f(ba) .k f(b)f(a) _:4
+  ,let _% a, b `e ,g _:4 ,!n _%
+f(a)f(b) .k f(ab) .k f(ba) .k f(b)f(a)
+_:4
 #aa4d4ag 4 ,h9t 43
-  ,f9d a c.t}example4
-#ab  ,matrix ,gr|ps & ,symmetry
+  ,f9d a c.t}example4              #abjc
+#ab  ,matrix ,gr|ps & ,symmetry
 #ab4d  ,ex}cises #ab4d4a 4 ,h9t 43
-
-
-                                   #affc
-_%
+_%
 ?1/2#`(||_;x+_;y||~2"+||_;x||~2"-||_;y|-
-|~2"`)                       .k ?1/2#`(-
-..(x+y, x+y..)-||_;x||~2"-||_;y||~2"`)
-.k ?1/2#`(||_;x||~2"+2..(x, y..)+||_;y|-
-|~2"-||_;x||~2"-||_;y||~2"`)
-.k ..(_;x, _;y..)-
-
+|~2"`)                       .k
+?1/2#`(..(x+y,
+x+y..)-||_;x||~2"-||_;y||~2"`)
+.k ?1/2#`(||_;x||~2"+2..(x,
+y..)+||_;y||~2"-||_;x||~2"-||_;y||~2"`)
+.k ..(_;x, _;y..)
 _:
 4
 #ab4d4c 4 ,h9t 43
   "<a"> is 9 _% ,s,o(2) _:2 "<;c"> is n
 9 _% ,o(3) _:4
 #ab4d4e 4 ,h9t 43
-  "<a"> _% ..(_;x, _;y..) .k ..(_;y,
-_;x..) _:4
+  "<a">
+_% ..(_;x, _;y..) .k ..(_;y, _;x..) _:4
 #ab4d4g 4 ,h9t 43
   ,use ! unimodul> matrix
 _%
 ,(#5 #2,)
 ,(#2 #1,)
 _:
-4
-#ab4d4aj 4 ,h9t 43
-  ,%{ t ! k}nel ( ! map _% det_3   #affd
-,o(n) $o `;,r~`# _: is _% ,s,o(n) _:4
+4                                  #abjd
+#ab4d4aj 4 ,h9t 43
+  ,%{ t ! k}nel ( ! map
+_% det_3 ,o(n) $o `;,r~`# _: is
+_% ,s,o(n) _:4
 #ab4d4ac 4 ,h9t 43
   ,true4
 #ab4d4ag 4 ,h9t 43
@@ -4106,74 +3060,72 @@ _:
 #ac4d  ,ex}cises #ac4d4a 4 ,h9t 43
   ,"! >e ?ree possible gr|ps4
 #ac4d4d 4 ,h9t 43
-  "<a"> _% .(0.) _"k ..(6..) _"k ..(3..)
-_"k `;,z12 _:2 "<;e"> _% .((1).)`*.(0.)
-_"k .((1), (#1 #2 #3), (#1 #3
-#2).)`*.(0.) _"k ,s3`*.(0.) _"k
-,s3`*..(2..) _"k ,s3`*`;,z4 _:4
+  "<a">
+_% .(0.) _"k ..(6..) _"k ..(3..) _"k
+`;,z12 _:
+2 "<;e">
+_% .((1).)`*.(0.) _"k .((1), (#1 #2 #3),
+(#1 #3 #2).)`*.(0.) _"k ,s3`*.(0.) _"k
+,s3`*..(2..) _"k ,s3`*`;,z4 _:
+4
 #ac4d4g 4 ,h9t 43
   ,use ! ,funda;tal ,!orem ( ,f9itely
 ,g5}at$ ,abelian ,gr|ps4
 #ac4d4ab 4 ,h9t 43
-  ,if .2;,n & _% ,g_/,n _: >e solvable1
-!n !y h solvable s}ies
-
-
-
-
-                                   #affe
-_%
-,n .k ,n;n _.1 ,n;n-1 _.1 '''  _.1 ,n1-
+  ,if .2;,n & _% ,g_/,n _: >e      #abje
+solvable1 !n !y h solvable s}ies
+_%
+,n .k ,n;n _.1 ,n;n-1 _.1 '''  _.1 ,n1
 _.1 ,n0 .k .(e.)
-,g_/,n .k ,g;n"_/,n _.1 ,g;n-1"_/,n _.1-
-  ''' ,g1_/,n _.1 ,g0_/,n .k .(,n.)
+,g_/,n .k ,g;n"_/,n _.1 ,g;n-1"_/,n _.1
+''' ,g1_/,n _.1 ,g0_/,n .k .(,n.)
 _:
 4
 #ac4d4af 4 ,h9t 43
   ,use ! fact t _% ,d;n _: has a cyclic
-subgr|p ( 9dex _% #2 _:4
+subgr|p ( 9dex #b4
 #ac4d4ba 4 ,h9t 43
   _% ,g_/,g' _: is abelian4
 #ad  ,gr|p ,ac;ns
 #ad4e  ,ex}cises #ad4e4a 4 ,h9t 43
-  ,example #ad4a3 _% #0 _:1
+  ,example #ad4a3 #j1
 _% `;,r~2"_*.(0.) _:4 ,example #ad4b3
 _% ,x .k .(1, 2, 3, 4.) _:4
 #ad4e4b 4 ,h9t 43
   "<a"> _% ,x;(1) .k .(1, 2, 3.) _:1
-_% ,x;(#1 #2) .k .(3.) _:1 _% ,x;(#1 #3)
-.k .(2.) _:1 _% ,x;(#2 #3) .k .(1.) _:1
-_% ,x;(#1 #2 #3) .k ,x;(#1 #3 #2) .k
-_0 _:4 _% ,g1 .k .((1), (#2 #3).) _:1
-_% ,g2 .k .((1), (#1 #3).) _:1 _% ,g3 .k
-.((1), (#1 #2).) _:4               #afff
-#ad4e4c 4 ,h9t 43
-  "<a"> _% `;,o1 .k `;,o2 .k `;,o3 .k
-.(1, 2, 3.) _:4
+_% ,x;(#1 #2) .k .(3.) _:1
+_% ,x;(#1 #3) .k .(2.) _:1
+_% ,x;(#2 #3) .k .(1.) _:1 _%
+,x;(#1 #2 #3) .k ,x;(#1 #3 #2) .k _0
+_:4                                #abjf
+_% ,g1 .k .((1), (#2 #3).) _:1
+_% ,g2 .k .((1), (#1 #3).) _:1
+_% ,g3 .k .((1), (#1 #2).) _:4
+#ad4e4c 4 ,h9t 43
+  "<a"> _%
+`;,o1 .k `;,o2 .k `;,o3 .k .(1, 2, 3.)
+_:4
 #ad4e4f 4 ,h9t 43
   ,! 3jugacy classes = _% ,s4 _: >e
 _%
-`;,o;(1) .k .((1).),-
--
-
-`;,o;(12) .k .((#1 #2), (#1 #3), (#1 #4-
-), (#2 #3), (#2 #4), (#3 #4).),-
-
-`;,o;(#1 #2)(#3 #4) .k .((#1 #2)(#3 #4)-
-, (#1 #3)(#2 #4), (#1 #4)(#2 #3).),-
-
-`;,o;(123) .k .((#1 #2 #3), (#1 #3 #2),-
- (#1 #2 #4), (#1 #4 #2), (#1 #3 #4), (#-
-1 #4 #3), (#2 #3 #4), (#2 #4 #3).),
-`;,o;(1234) .k .((#1 #2 #3 #4), (#1 #2-
-#4 #3), (#1 #3 #2 #4), (#1 #3 #4 #2), (-
-#1 #4 #2 #3), (#1 #4 #3 #2).)
+`;,o;(1) .k .((1).),
+`;,o;(12) .k .((#1 #2), (#1 #3), (#1
+#4), (#2 #3), (#2 #4), (#3 #4).),
+`;,o;(#1 #2)(#3 #4) .k .((#1 #2)(#3 #4),
+(#1 #3)(#2 #4), (#1 #4)(#2 #3).),
+`;,o;(123) .k .((#1 #2 #3), (#1 #3 #2),
+(#1 #2 #4), (#1 #4 #2), (#1 #3 #4), (#1
+#4 #3), (#2 #3 #4), (#2 #4 #3).),
+`;,o;(1234) .k .((#1 #2 #3 #4), (#1 #2
+#4 #3), (#1 #3 #2 #4), (#1 #3 #4 #2),
+(#1 #4 #2 #3), (#1 #4 #3 #2).)
 _:
-4 ,! class equa;n is _% #1+3+6+6+8 .k
-#24 _:4
-#ad4e4h 4 ,h9t 43                  #affg
-  _% (3~4"+3~1"+3~2"+3~1"+3~2"+3~2"+3~3-
-"+3~3")_/8 .k #21 _:4
+4 ,! class equa;n is
+_% #1+3+6+6+8 .k #24 _:4
+#ad4e4h 4 ,h9t 43                  #abjg
+_% (3~4"+3~1"+3~2"+3~1"+3~2"+3~2"+3~3"+-
+3~3")_/8 .k #21 _:
+  4
 #ad4e4aa 4 ,h9t 43
   ,! gr|p ( rigid mo;ns ( ! cube c 2
 describ$ by ! all{able p}muta;ns ( ! six
@@ -4189,41 +3141,43 @@ $ges1 & #h p}muta;ns ) ! /ructure
 _% (abc)(def) _: t correspond to rotat+
 ! cube ab opposite v}tices4
 #ad4e4ae 4 ,h9t 43
-  _% (1*2~6"+3*2~4"+4*2~3"+2*2~2"+2*2~1-
-")_/12 .k #13 _:4
+_% (1*2~6"+3*2~4"+4*2~3"+2*2~2"+2*2~1")-
+_/12 .k #13 _:
+  4
 #ad4e4ag 4 ,h9t 43
-  _% (1*2~8"+3*2~6"+2*2~4")_/6 .k
-#80 _:4
-#ad4e4bb 4 ,h9t 43
-  ,use ! fact t _% x `e g,c(a)g~-1 _: if
-& only if _% g~-1"xg `e ,c(a) _:4  #affh
-#ae  ,! ,syl{ ,!orems
+  _% (1*2~8"+3*2~6"+2*2~4")_/6 .k #80 _-
+:4
+#ad4e4bb 4 ,h9t 43                 #abjh
+  ,use ! fact t _% x `e g,c(a)g~-1 _: if
+& only if _% g~-1"xg `e ,c(a) _:4
+#ae  ,! ,syl{ ,!orems
 #ae4d  ,ex}cises #ae4d4a 4 ,h9t 43
   ,if _% |,g| .k #18 .k #2*3~2 _:1 !n !
-ord} ( a ,syl{ _% #2 _:-subgr|p is
-_% #2 _:1 & ! ord} ( a ,syl{
-_% #3 _:-subgr|p is _% #9 _:4
+ord} ( a ,syl{ #b-subgr|p is #b1 & !
+ord} ( a ,syl{ #c-subgr|p is #i4
 #ae4d4b 4 ,h9t 43
-  ,! f|r ,syl{ _% #3 _:-subgr|ps (
-_% ,s4 _: >e _% ,p1 .k .((1), (#1 #2
-#3), (#1 #3 #2).) _:1 _% ,p2 .k .((1),
-(#1 #2 #4), (#1 #4 #2).) _:1 _% ,p3 .k
-.((1), (#1 #3 #4), (#1 #4 #3).) _:1
-_% ,p4 .k .((1), (#2 #3 #4), (#2 #4
-#3).) _:4
+  ,! f|r ,syl{ #c-subgr|ps ( _% ,s4 _:
+>e _%
+,p1 .k .((1), (#1 #2 #3), (#1 #3 #2).)
+_:1 _%
+,p2 .k .((1), (#1 #2 #4), (#1 #4 #2).)
+_:1 _%
+,p3 .k .((1), (#1 #3 #4), (#1 #4 #3).)
+_:1 _%
+,p4 .k .((1), (#2 #3 #4), (#2 #4 #3).)
+_:4
 #ae4d4e 4 ,h9t 43
   ,s9ce _% |,g| .k #96 .k #2~5"*3 _:1
 .2;,g has ei "o or ?ree ,syl{
-_% #2 _:-subgr|ps by ! ,?ird ,syl{
-,!orem4 ,if "! is only "o subgr|p1 we >e
-d"o4 ,if "! >e ?ree ,syl{
-_% #2 _:-subgr|ps1 let .2;,h & .2;,k 2
-two ( !m4 ,"!=e1 _% |,h.%,k| .1: #16 _:2
-o!rwise1 _% ,h,k _: wd h _% (32*32)_/8
-.k #128 _: ele;ts1 : is impossible4
-,?us1 _% ,h.%,k _: is normal 9     #affi
-bo? .2;,h & .2;,k s9ce x has 9dex
-_% #2 _: 9 bo? gr|ps4
+#b-subgr|ps by ! ,?ird ,syl{ ,!orem4 ,if
+"! is only "o subgr|p1 we >e d"o4 ,if "!
+>e ?ree ,syl{ #b-subgr|ps1 let .2;,h &
+.2;,k 2 two ( !m4 ,"!=e1           #abji
+_% |,h.%,k| .1: #16 _:2 o!rwise1
+_% ,h,k _: wd h _% (32*32)_/8 .k #128 _:
+ele;ts1 : is impossible4 ,?us1
+_% ,h.%,k _: is normal 9 bo? .2;,h &
+.2;,k s9ce x has 9dex #b 9 bo? gr|ps4
 #ae4d4h 4 ,h9t 43
   ,%{ t .2;,g has a normal ,syl{
 .2;p-subgr|p ( ord} _% p~2 _: & a normal
@@ -4237,17 +3191,19 @@ look at ,example #ae4ad4
 #ae4d4bc 4 ,h9t 43
   ,def9e a mapp+ 2t ! "r cosets (
 _% ,n(,h) _: 9 .2;,g & ! 3jugates (
-.2;,h 9 .2;,g by _% ,n(,h)g $|33o
-g~-1",hg _:4 ,prove t ? map is a
-bijec;n4
+.2;,h 9 .2;,g by
+_% ,n(,h)g $|33o g~-1",hg _:4 ,prove t ?
+map is a bijec;n4
 #ae4d4bf 4 ,h9t 43
-  ,let _% a,g', b,g~'" `e ,g_/,g' _:4
-,!n _% (a,g~'")(b,g~'") .k ab,g' .k
+,let _% a,g', b,g~'" `e ,g_/,g' _:4 ,!n
+
+                                   #abaj
+_% (a,g~'")(b,g~'") .k ab,g' .k
 ab(b~-1"a~-1"ba),g' .k
-(abb~-1"a~-1")ba,g' .k ba,g' _:4
+(abb~-1"a~-1")ba,g' .k ba,g' _:
+4
 #af  ,r+s
-#af4g  ,ex}cises #af4g4a 4 ,h9t    #afgj
-43
+#af4g  ,ex}cises #af4g4a 4 ,h9t 43
   "<a"> _% #7`;,z _: is a r+ b n a
 field2 "<;c"> _% `;,q(>2}) _: is a
 field2 "<;f"> .2;,r is n a r+4
@@ -4255,86 +3211,94 @@ field2 "<;f"> .2;,r is n a r+4
   "<a"> _% .(1, 3, 7, 9.) _:2 "<;c">
 _% .(1, 2, 3, 4, 5, 6.) _:2 "<;e">
 _%
-.(,(#1 #0,), ,(#1 #1,), ,(#1 #0,), ,(#0-
- #1,), ,(#1 #1,), ,(#0 #1,),.)
-  ,(#0 #1,)  ,(#0 #1,)  ,(#1 #1,)  ,(#1-
- #0,)  ,(#1 #0,)  ,(#1 #1,)
+.(,(#1 #0,), ,(#1 #1,), ,(#1 #0,), ,(#0
+#1,), ,(#1 #1,), ,(#0 #1,),.)
+  ,(#0 #1,)  ,(#0 #1,)  ,(#1 #1,)  ,(#1
+#0,)  ,(#1 #0,)  ,(#1 #1,)
 _:
 4
 #af4g4d 4 ,h9t 43
   "<a"> _% .(0.) _:1 _% .(0, 9.) _:1
-_% .(0, 6, 12.) _:1 _% .(0, 3, 6, 9, 12,
-15.) _:1 _% .(0, 2, 4, 6, 8, 10, 12, 14,
-16.) _:2 "<;c"> "! >e no nontrivial
-id1ls4
-#af4g4g 4 ,h9t 43
-  ,assume "! is an isomorphism _% .f_3
-`;,c $o `;,r _: ) _% f(i) .k a _:4
+_% .(0, 6, 12.) _:1
+_% .(0, 3, 6, 9, 12, 15.) _:1
+_% .(0, 2, 4, 6, 8, 10, 12, 14, 16.) _:2
+"<;c"> "! >e no nontrivial id1ls4  #abaa
+#af4g4g 4 ,h9t 43
+  ,assume "! is an isomorphism
+_% .f_3 `;,c $o `;,r _: )
+_% f(i) .k a _:4
 #af4g4h 4 ,h9t 43
-  ,false4 ,assume "! is an         #afga
-isomorphism _% .f_3 `;,q(>2}) $o
-`;,q(>3}) _: s* t _% f(>2}) .k a _:4
+  ,false4 ,assume "! is an isomorphism
+_% .f_3 `;,q(>2}) $o `;,q(>3}) _: s* t
+_% f(>2}) .k a _:4
 #af4g4ac 4 ,h9t 43
   "<a"> _% x _l #17(mod #55) _:2 "<;c">
 _% x _l #214(mod #2772) _:4
 #af4g4af 4 ,h9t 43
-  ,if _% ,i /.k .(0.) _:1 %{ t _% #1 `e
-,i _:4
+  ,if _% ,i /.k .(0.) _:1 %{ t
+_% #1 `e ,i _:4
 #af4g4ah 4 ,h9t 43
-  "<a"> _% f(a)f(b) .k f(ab) .k f(ba) .k
-f(b)f(a) _:4
+  "<a"> _%
+f(a)f(b) .k f(ab) .k f(ba) .k f(b)f(a)
+_:4
 #af4g4bf 4 ,h9t 43
   ,let _% a `e ,r _: ) _% a /.k #0 _:4
 ,!n ! pr9cipal id1l g5}at$ by .2a is
 .2;,r4 ,?us1 "! exi/s a _% b `e ,r _: s*
 t _% ab .k #1 _:4
 #af4g4bh 4 ,h9t 43
-  ,compute _% (a+b)~2 _: &
-_% (-ab)~2 _:4
+  ,compute _% (a+b)~2 _: &         #abab
+_% (-ab)~2 _:4
 #af4g4cc 4 ,h9t 43
   ,let _% a_/b, c_/d `e `;,z;(p) _:4 ,!n
 _% a_/b+c_/d .k (ad+bc)_/bd _: &
 _% (a_/b)*(c_/d) .k (ac)_/(bd) _: >e bo?
-9 _% `;,z;(p) _:1 s9ce _% gcd (bd, p) .k
-#1 _:4                             #afgb
-#af4g4cg 4 ,h9t 43
-  ,suppose t _% x~2 .k x _: & _% x /.k
-#0 _:4 ,s9ce .2;,r is an 9tegral doma91
-_% x .k #1 _:4 ,to f9d a nontrivial
-idempot5t1 look 9 _% `;,m2(`;,r) _:4
+9 _% `;,z;(p) _:1 s9ce
+_% gcd (bd, p) .k #1 _:4
+#af4g4cg 4 ,h9t 43
+  ,suppose t _% x~2 .k x _: &
+_% x /.k #0 _:4 ,s9ce .2;,r is an
+9tegral doma91 _% x .k #1 _:4 ,to f9d a
+nontrivial idempot5t1 look 9
+_% `;,m2(`;,r) _:4
 #ag  ,polynomials
 #ag4e  ,ex}cises #ag4e4b 4 ,h9t 43
   "<a"> _% #9x~2"+2x+5 _:2 "<;b">
 _% #8x~4"+7x~3"+2x~2"+7x _:4
 #ag4e4c 4 ,h9t 43
-  "<a"> _% #5x~3"+6x~2"-3x+4 .k
-(5x~2"+2x+1)(x-2)+6 _:2 "<;c">
+  "<a">
+_% #5x~3"+6x~2"-3x+4 .k
+(5x~2"+2x+1)(x-2)+6 _:
+2 "<;c">
 _% #4x~5"-x~3"+x~2"+4 .k
-(4x~2"+4)(x~3"+3)+4x~2"+2 _:4
-#ag4e4e 4 ,h9t 43
+(4x~2"+4)(x~3"+3)+4x~2"+2 _:
+4                                  #abac
+#ag4e4e 4 ,h9t 43
   "<a"> ,no z}os 9 _% `;,z12 _:2 "<;c">
-_% #3 _:1 _% #4 _:4
+#c1 #d4
 #ag4e4g 4 ,h9t 43
   ,look at _% (2x+1) _:4
 #ag4e4h 4 ,h9t 43
   "<a"> ,r$ucible2 "<;c"> irr$ucible4
 #ag4e4aj 4 ,h9t 43
-  ,"o factoriza;n is _% x~2"+x+8 .k
-(x+2)(x+9) _:4
-#ag4e4ac 4 ,h9t 43                 #afgc
-  ,! 9teg}s _% `;,z _: d n =m a field4
+  ,"o factoriza;n is
+_% x~2"+x+8 .k (x+2)(x+9) _:4
+#ag4e4ac 4 ,h9t 43
+  ,! 9teg}s _% `;,z _: d n =m a field4
 #ag4e4ad 4 ,h9t 43
   ,false4
 #ag4e4af 4 ,h9t 43
   ,let _% .f_3 ,r $o ,s _: 2 an
-isomorphism4 ,def9e _% .f:_3 ,r`(x`) $o
-,s`(x`) _: by _% "f<:}(a0+a1x+'''
-+a;n"x~n") .k f(a0)+f(a1)x+'''
-+f(a;n")x~n _:4
+isomorphism4 ,def9e
+_% .f:_3 ,r`(x`) $o ,s`(x`) _: by
+_% "f<:}(a0+a1x+''' +a;n"x~n") .k
+f(a0)+f(a1)x+''' +f(a;n")x~n _:
+4
 #ag4e4bj 4  ,cyclotomic ,polynomials4
 ,h9t 43
   ,! polynomial
-_% .,f;n"(x) .k ?x~n"-1/x-1# .k
+                                   #abad
+_% .,f;n"(x) .k ?x~n"-1/x-1# .k
 x~n-1"+x~n-2+''' +x+1 _:
 is call$ ! ~1cyclotomic ~1polynomial4
 ,%{ t _% .,f;p"(x) _: is irr$ucible ov}
@@ -4344,20 +3308,22 @@ _% `;,q _: = any prime .2;p4
 _% ,f`(x`) _:4
 #ah  ,9tegral ,doma9s
 #ah4d  ,ex}cises #ah4d4a 4 ,h9t 43
-  ,note t _% z~-1 .k #1_/(a+b>3}i) .k
-(a-b>3}i)_/(a~2"+3b~2") _: is 9
-_% `;,z`(>3}i`) _: if & only if    #afgd
-_% a~2"+3b~2 .k #1 _:4 ,! only 9teg}
-solu;ns to ! equa;n >e _% a .k +-#1, b
-.k #0 _:4
+  ,note t
+_% z~-1 .k #1_/(a+b>3}i) .k
+(a-b>3}i)_/(a~2"+3b~2") _:
+is 9 _% `;,z`(>3}i`) _: if & only if
+_% a~2"+3b~2 .k #1 _:4 ,! only 9teg}
+solu;ns to ! equa;n >e
+_% a .k +-#1, b .k #0 _:4
 #ah4d4b 4 ,h9t 43
   "<a"> _% #5 .k -i(1+2i)(2+i) _:2
 "<;c"> _% #6+8i .k -i(1+i)~2"(2+i)~2 _:4
 #ah4d4d 4 ,h9t 43
   ,true4
 #ah4d4i 4 ,h9t 43
-  ,let _% z .k a+bi _: & _% w .k c+di
-/.k #0 _: 2 9 _% `;,z`(i`) _:4 ,prove t
+  ,let _% z .k a+bi _: &
+_% w .k c+di /.k #0 _: 2 9         #abae
+_% `;,z`(i`) _:4 ,prove t
 _% z_/w `e `;,q(i) _:4
 #ah4d4ae 4 ,h9t 43
   ,let _% a .k ub _: ) .2;u a unit4 ,!n
@@ -4371,8 +3337,8 @@ ways4
 ,image ,,id3 h9t-divisors-#cj
 ,descrip;n3 ,a graph ) #cj at ! top
 level : is 3nect$ to #aj & #ae at !
-second level4  ,! ?ird level has   #afge
-#b1 : is 3nect$ to #cj & #aj1 & #e1 : is
+second level4  ,! ?ird level has #b1 :
+is 3nect$ to #cj & #aj1 & #e1 : is
 3nect$ to #aj & #ae1 & #c : is 3nect$ to
 #ae4  ,! bottom level is #a : is 3nect$
 to #b1 #c1 & #e4
@@ -4381,8 +3347,8 @@ to #b1 #c1 & #e4
 #ai4e4e 4 ,h9t 43
   ,false4
 #ai4e4f 4 ,h9t 43
-  "<a"> _% (a`+b`+a~'")`%a _:
-,image ,,id3 h9t-swit*+-circuit-"p-a
+  "<a"> _% (a`+b`+a~'")`%a _:      #abaf
+,image ,,id3 h9t-swit*+-circuit-"p-a
 ,descrip;n3 ,a graph f left to "r :
 splits 9to ?ree pa?s1 a ;b1 & ;b' & !n
 rejo9s 9to a s+le pa? & goes "? a4
@@ -4394,92 +3360,95 @@ pa? is a !n ;b4  ,! bottom pa? is a4
  #ai4e4h 4 ,h9t 43
   ,n equival5t4
 #ai4e4aj 4 ,h9t 43
-  "<a"> _% a~'"`%`((a`%b~'")`+b`) .k
-a`%(a`+b) _:4
-#ai4e4ad 4 ,h9t 43                 #afgf
-  ,let _% ,i, ,j _: 2 id1ls 9 .2;,r4 ,we
-ne$ to %{ t _% ,i+,j .k .(r+s_3r `e ,i
-and s `e ,j.) _: is ! smalle/ id1l 9
-.2;,r 3ta9+ bo? .2,i & .2;,j4 ,if _% r1,
-r2 `e ,i _: & _% s1, s2 `e ,j _:1 !n
-_% (r1+s1)+(r2+s2) .k (r1+r2)+(s1+s2) _:
-is 9 _% ,i+,j _:4 ,= _% a `e ,r _:1
-_% a(r1+s1) .k ar1+as1 `e ,i+,j _:2 h;e1
-_% ,i+,j _: is an id1l 9 .2;,r4
+  "<a"> _%
+a~'"`%`((a`%b~'")`+b`) .k a`%(a`+b)
+_:4
+#ai4e4ad 4 ,h9t 43
+  ,let _% ,i, ,j _: 2 id1ls 9 .2;,r4 ,we
+ne$ to %{ t _%
+,i+,j .k .(r+s_3r `e ,i and s `e ,j.)
+_: is ! smalle/ id1l 9 .2;,r 3ta9+ bo?
+.2,i & .2;,j4 ,if _% r1, r2 `e ,i _: &
+_% s1, s2 `e ,j _:1 !n _%
+(r1+s1)+(r2+s2) .k (r1+r2)+(s1+s2)
+_: is 9 _% ,i+,j _:4 ,= _% a `e ,r _:1
+_% a(r1+s1) .k ar1+as1 `e ,i+,j-   #abag
+_:2 h;e1 _% ,i+,j _: is an id1l 9 .2;,r4
 #ai4e4ah 4 ,h9t 43
   "<a"> ,no4
 #ai4e4bj 4 ,h9t 43
-  _% ($33oo) _:4 _% a .k b $33oo
-(a`%b~'")`+(a~'"`%b) .k
-(a`%a~'")`+(a~'"`%a) .k ,o`+,o .k ,o _:4
-_% (${77) _:4 _% (a`%b~'")`+(a~'"`%b) .k
-,o $33oo a`+b .k (a`+a)`+b .k a`+(a`+b)
-.k a`+`(,i`%(a`+b)`) .k
+  _% ($33oo) _:4
+_% a .k b $33oo (a`%b~'")`+(a~'"`%b) .k
+(a`%a~'")`+(a~'"`%a) .k ,o`+,o .k ,o _:
+4 _% (${77) _:4
+_% (a`%b~'")`+(a~'"`%b) .k ,o $33oo a`+b
+.k (a`+a)`+b .k a`+(a`+b) .k
+a`+`(,i`%(a`+b)`) .k
 a`+`((a`+a~'")`%(a`+b)`) .k
 `(a`+(a`%b~'")`)`+`(a`+(a~'"`%b)`) .k
 a`+`((a`%b~'")`+(a~'"`%b)`) .k a`+0 .k
-a _:4 ,a symmetric >gu;t %{s t _% a`+b
-.k b _:4
+a _:
+4 ,a symmetric >gu;t %{s t
+_% a`+b .k b _:4
 #bj  ,vector ,spaces
-#bj4e  ,ex}cises #bj4e4c 4 ,h9t    #afgg
-43
-  _% `;,q(>2}, >3}) _: has basis _% .(1,
->2}, >3}, >6}.) _: ov} _% `;,q _:4
+#bj4e  ,ex}cises #bj4e4c 4 ,h9t 43
+  _% `;,q(>2}, >3}) _: has basis
+_% .(1, >2}, >3}, >6}.) _: ov}
+_% `;,q _:4
 #bj4e4e 4 ,h9t 43
-  ,! set _% .(1, x, x~2, ''',
-x~n-1".) _: is a basis = _% ,p;n _:4
+  ,! set
+_% .(1, x, x~2, ''', x~n-1".) _:   #abah
+is a basis = _% ,p;n _:4
 #bj4e4g 4 ,h9t 43
-  "<a"> ,subspace ( dim5.n _% #2 _: )
-basis _% .((1, 0, -#3), (0, 1, 2).) _:2
-"<;d"> n a subspace
+  "<a"> ,subspace ( dim5.n #b ) basis
+_% .((1, 0, -#3), (0, 1, 2).) _:2 "<;d">
+n a subspace
 #bj4e4aj 4 ,h9t 43
-  ,s9ce _% #0 .k .a#0 .k .a(-v+v) .k
-.a(-v)+.av _:1 x foll{s t _% -.av .k
-.a(-v) _:4
+  ,s9ce _%
+#0 .k .a#0 .k .a(-v+v) .k .a(-v)+.av
+_:1 x foll{s t _% -.av .k .a(-v) _:4
 #bj4e4ab 4 ,h9t 43
-  ,let _% v0 .k #0, v1, ''', v;n" `e
-,v _: & _% .a0 /.k #0, .a1, ''', .a;n"
-`e ,f _:4 ,!n _% .a0v0+''' +.a;n"v;n .k
-#0 _:4
+  ,let
+_% v0 .k #0, v1, ''', v;n" `e ,v _: &
+_% .a0 /.k #0, .a1, ''', .a;n" `e ,f _:4
+,!n _% .a0v0+''' +.a;n"v;n .k #0 _:4
 #bj4e4ae 4  ,l9e> ,trans=ma;ns4 ,h9t 43
   "<a"> ,let _% u, v `e ker (,t) _: &
 _% .a `e ,f _:4 ,!n
-
-
-                                   #afgh
-_%
+_%
 ,t(u+v) .k ,t(u)+,t(v) .k #0
 ,t(.av) .k .a,t(v) .k .a"0 .k #0
 _:
 4 ,h;e1 _% u+v, .av `e ker (,t) _:1 &
 _% ker (,t) _: is a subspace ( .2;,v4
-  "<;c"> ,! /ate;t t _% ,t(u) .k
-,t(v) _: is equival5t to _% ,t(u-v) .k
-,t(u)-,t(v) .k #0 _:1 : is true if &
-only if _% u-v .k #0 _: or _% u .k v _:4
+  "<;c"> ,! /ate;t t
+_% ,t(u) .k ,t(v) _: is equival5t  #abai
+to _% ,t(u-v) .k ,t(u)-,t(v) .k #0 _:1 :
+is true if & only if _% u-v .k #0 _: or
+_% u .k v _:4
 #bj4e4ag 4  ,direct ,sums4 ,h9t 43
-  "<a"> ,let _% u, u~'" `e ,u _: & _% v,
-v~'" `e ,v _:4 ,!n
+  "<a"> ,let _% u, u~'" `e ,u _: &
+_% v, v~'" `e ,v _:4 ,!n
 _%
-(u+v)+(u~'"+v~'") .k (u+u~'")+(v+v~'")-
+(u+v)+(u~'"+v~'") .k (u+u~'")+(v+v~'")
 `e ,u+,v
-.a(u+v)           .k .au+.av `e ,u+,v-
-
+.a(u+v)           .k .au+.av `e ,u+,v
 _:
 4
 #ba  ,fields
 #ba4e  ,ex}cises #ba4e4a 4 ,h9t 43
   "<a"> _% x~4"-(2_/3)x~2"-62_/9 _:2
 "<;c"> _% x~4"-2x~2"+25 _:4
-#ba4e4b 4 ,h9t 43                  #afgi
-  "<a"> _% .(1, >2}, >3}, >6}.) _:2
+#ba4e4b 4 ,h9t 43
+  "<a"> _% .(1, >2}, >3}, >6}.) _:2
 "<;c"> _% .(1, i, >2}, >2}i.) _:2 "<;e">
 _% .(1, 2~1_/6, 2~1_/3, 2~1_/2, 2~2_/3,
-2~5_/6".) _:4
+2~5_/6".) _:
+4
 #ba4e4c 4 ,h9t 43
   "<a"> _% `;,q(>3}, >7}) _:4
-#ba4e4e 4 ,h9t 43
-  ,use ! fact t ! ele;ts (
+#ba4e4e 4 ,h9t 43                  #abbj
+  ,use ! fact t ! ele;ts (
 _% `;,z2`(x`)_/..(x~3"+x+1..) _: >e #j1
 #a1 _% .a _:1 _% #1+.a _:1 _% .a~2 _:1
 _% #1+.a~2 _:1 _% .a+.a~2 _:1
@@ -4494,40 +3463,42 @@ _% .a~3"+.a+1 .k #0 _:4
 _% .a _: is algebraic ov} "s f9ite
 ext5.n ( .2;,f4 ,s9ce _% .a _: is
 algebraic ov} .2;,e1 x m/ 2 ! z}o ( "s
-polynomial _% p(x) .k .b0+.b1x+'''
-+.b;n"x~n _: 9 _% ,e`(x`) _:4 ,h;e
-_% .a _: is algebraic ov}          #afhj
-_% ,f(.b0, ''', .b;n") _:4
+polynomial
+_% p(x) .k .b0+.b1x+''' +.b;n"x~n _: 9
+_% ,e`(x`) _:4 ,h;e _% .a _: is
+algebraic ov} _% ,f(.b0, ''', .b;n") _:4
 #ba4e4bb 4 ,h9t 43
   ,s9ce _% .(1, >3}, >7}, >21}.) _: is a
 basis = _% `;,q(>3}, >7}) _: ov}
-_% `;,q _:1 _% `;,q(>3}, >7}) _.1
-`;,q(>3}+>7}) _:4 ,s9ce _% `(`;,q(>3},
->7})_3`;,q`) .k #4 _:1
+_% `;,q _:1
+_% `;,q(>3}, >7}) _.1 `;,q(>3}+>7}) _:4
+,s9ce                              #abba
+_% `(`;,q(>3}, >7})_3`;,q`) .k #4 _:1
 _% `(`;,q(>3}+>7})_3`;,q`) .k #2 _: or
 #d4 ,s9ce ! degree ( ! m9imal polynomial
-( _% >3}+>7} _: is #d1 _% `;,q(>3}, >7})
-.k `;,q(>3}+>7}) _:4
+( _% >3}+>7} _: is #d1
+_% `;,q(>3}, >7}) .k `;,q(>3}+>7}) _:4
 #ba4e4bg 4 ,h9t 43
   ,let _% .b `e ,f(.a) _: n 9 .2;,f4 ,!n
 _% .b .k p(.a)_/q(.a) _:1 ": .2;p & .2;q
->e polynomials 9 _% .a _: ) _% q(.a) /.k
-#0 _: & coe6ici5ts 9 .2;,f4 ,if _% .b _:
-is algebraic ov} .2;,f1 !n "! exi/s a
-polynomial _% f(x) `e ,f`(x`) _: s* t
-_% f(.b) .k #0 _:4 ,let _% f(x) .k
-a0+a1x+''' +a;n"x~n _:4 ,!n
+>e polynomials 9 _% .a _: )
+_% q(.a) /.k #0 _: & coe6ici5ts 9 .2;,f4
+,if _% .b _: is algebraic ov} .2;,f1 !n
+"! exi/s a polynomial
+_% f(x) `e ,f`(x`) _: s* t
+_% f(.b) .k #0 _:4 ,let
+_% f(x) .k a0+a1x+''' +a;n"x~n _:4 ,!n
 _% #0 .k f(.b) .k f(?p(.a)/q(.a)#) .k
 a0+a1(?p(.a)/q(.a)#)+'''
 +a;n"(?p(.a)/q(.a)#)~n _:
 4 ,n{ multiply bo? sides by
-_% q(.a)~n _: to %{ t "! is a      #afha
-polynomial 9 _% ,f`(x`) _: t has
-_% .a _: z a z}o4
+_% q(.a)~n _: to %{ t "! is a polynomial
+9 _% ,f`(x`) _: t has _% .a _: z a z}o4
 #ba4e4bh 4 ,h9t 43
   ,see ! com;ts foll{+ ,!orem #ba4ac4
 #bb  ,f9ite ,fields
-#bb4d  ,ex}cises #bb4d4a 4 ,h9t 43
+#bb4d  ,ex}cises #bb4d4a 4 ,h9t    #abbb
+43
   ,make sure t y h a field ext5.n4
 #bb4d4d 4 ,h9t 43
   ,"! >e ei<t ele;ts 9 _% `;,z2(.a) _:4
@@ -4536,31 +3507,33 @@ o!r ?an _% .a _: 9 ~! ei<t ele;ts4
 #bb4d4e 4 ,h9t 43
   ,f9d an irr$ucible polynomial
 _% p(x) _: 9 _% `;,z3`(x`) _: ( degree
-_% #3 _: & %{ t
-_% `;,z3`(x`)_/..(p(x)..) _: has
-_% #27 _: ele;ts4
+#c & %{ t _% `;,z3`(x`)_/..(p(x)..) _:
+has #bg ele;ts4
 #bb4d4g 4 ,h9t 43
-  "<a"> _% x~5"-1 .k
-(x+1)(x~4"+x~3"+x~2"+x+1) _:2 "<;c">
-_% x~9"-1 .k
-(x+1)(x~2"+x+1)(x~6"+x~3"+1) _:4
+  "<a"> _%
+x~5"-1 .k (x+1)(x~4"+x~3"+x~2"+x+1)
+_:2 "<;c"> _%
+x~9"-1 .k (x+1)(x~2"+x+1)(x~6"+x~3"+1)
+_:4
 #bb4d4h 4 ,h9t 43
   ,true4
-#bb4d4aa 4 ,h9t 43                 #afhb
-  "<a"> ,use ! fact t _% x~7"-1 .k
-(x+1)(x~3"+x+1)(x~3"+x~2"+1) _:4
+#bb4d4aa 4 ,h9t 43
+  "<a"> ,use ! fact t _%
+x~7"-1 .k (x+1)(x~3"+x+1)(x~3"+x~2"+1)
+_:4
 #bb4d4ab 4 ,h9t 43
-  ,false4
-#bb4d4ag 4 ,h9t 43
-  ,if _% p(x) `e ,f`(x`) _:1 !n _% p(x)
-`e ,e`(x`) _:4
+  ,false4                          #abbc
+#bb4d4ag 4 ,h9t 43
+  ,if _% p(x) `e ,f`(x`) _:1 !n
+_% p(x) `e ,e`(x`) _:4
 #bb4d4ah 4 ,h9t 43
   ,s9ce _% .a _: is algebraic ov} .2;,f
 ( degree .2;n1 we c write any ele;t
-_% .b `e ,f(.a) _: uniquely z _% .b .k
-a0+a1.a+''' +a;n-1".a~n-1 _: ) _% a;i"
-`e ,f _:4 ,"! >e _% q~n _: possible
-.2;n-tuples _% (a0, a1, ''', a;n-1") _:4
+_% .b `e ,f(.a) _: uniquely z
+_% .b .k a0+a1.a+''' +a;n-1".a~n-1 _: )
+_% a;i" `e ,f _:4 ,"! >e _% q~n _:
+possible .2;n-tuples
+_% (a0, a1, ''', a;n-1") _:4
 #bb4d4bd 4  ,wilson's ,!orem4 ,h9t 43
   ,factor _% x~p-1"-1 _: ov}
 _% `;,z;p _:4
@@ -4571,19 +3544,20 @@ _% `;,z2`*`;,z2`*`;,z2 _:4
 #bc4e4b 4 ,h9t 43
   "<a"> ,sep>able ov} _% `;,q _: s9ce
 _% x~3"+2x~2"-x-2 .k (x-1)(x+1)(x+2) _:2
-"<;c"> n sep>able ov} _% `;,z3 _:  #afhc
-s9ce _% x~4"+x~2"+1 .k
-(x+1)~2"(x+2)~2 _:4
+"<;c"> n sep>able ov} _% `;,z3 _: s9ce
+_% x~4"+x~2"+1 .k (x+1)~2"(x+2)~2 _:4
 #bc4e4c 4 ,h9t 43
-  ,if
-_% `(,,gf(729) "1 ,,gf(9)`) .k
+  ,if                              #abbd
+_% `(,,gf(729) "1 ,,gf(9)`) .k
 `(,,gf(729) "1 ,,gf(3)`)_/`(,,gf(9) "1
 ,,gf(3)`) .k #6_/2 .k #3 _:
-1 !n _% ,g(,,gf(729)_/,,gf(9)) `:.k
-`;,z3 _:4 ,a g5}ator =
+1 !n
+_% ,g(,,gf(729)_/,,gf(9)) `:.k `;,z3 _:4
+,a g5}ator =
 _% ,g(,,gf(729)_/,,gf(9)) _: is
-_% .s _:1 ": _% .s;3;~6;"(.a) .k .a~3~~6
-.k .a~729 _: = _% .a `e ,,gf(729) _:4
+_% .s _:1 ": _%
+.s;3;~6;"(.a) .k .a~3~~6 .k .a~729
+_: = _% .a `e ,,gf(729) _:4
 #bc4e4d 4 ,h9t 43
   "<a"> _% ,s5 _:2 "<;c"> _% ,s3 _:2
 "<;g"> see ,example #bc4aa4
@@ -4593,13 +3567,13 @@ _% .s _:1 ": _% .s;3;~6;"(.a) .k .a~3~~6
   ,let .2;,e 2 ! splitt+ field ( a cubic
 polynomial 9 _% ,f`(x`) _:4 ,%{ t
 _% `(,e "1 ,f`) _: is less ?an or equal
-to _% #6 _: & is divisible by _% #3 _:4
-,s9ce _% ,g(,e_/,f) _: is a subgr|p (
-_% ,s3 _: ~: ord} is divisible by
-_% #3 _:1 3clude t ? gr|p m/ 2     #afhd
-isomorphic to _% `;,z3 _: or _% ,s3 _:4
-#bc4e4i 4 ,h9t 43
-  .2;,g is a subgr|p ( _% ,s;n _:4
+to #f & is divisible by #c4 ,s9ce
+_% ,g(,e_/,f) _: is a subgr|p (
+_% ,s3 _: ~: ord} is divisible by #c1
+3clude t ? gr|p m/ 2 isomorphic to
+_% `;,z3 _: or _% ,s3 _:4
+#bc4e4i 4 ,h9t 43                  #abbe
+  .2;,g is a subgr|p ( _% ,s;n _:4
 #bc4e4af 4 ,h9t 43
   ,true4
 #bc4e4bj 4 ,h9t 43
@@ -4609,8 +3583,9 @@ a4 ,cle>ly _% .w, .w~2, ''', .w~p-1 _:
   ,to %{ t _% .w~i _: is a z}o (
   _% .,f;p _:1 calculate
   _% .,f;p"(.w~i") _:4
-;b4 ,! 3jugates ( _% .w _: >e _% .w,
-  .w~2, ''', .w~p-1 _:4 ,def9e a map
+;b4 ,! 3jugates ( _% .w _: >e
+  _% .w, .w~2, ''', .w~p-1 _:4 ,def9e a
+  map
   _% .f;i_3 `;,q(.w) $o `;,q(.w~i") _:
   by
   _% .f;i"(a0+a1.w+''' +a;p-2".w~p-2")
@@ -4619,12 +3594,13 @@ a4 ,cle>ly _% .w, .w~2, ''', .w~p-1 _:
   _% .f;i _: is an isomorphism ( fields4
   ,%{ t _% .f2 _: g5}ates
   _% ,g(`;,q(.w)_/`;,q) _:4
-;c4 ,%{ t _% .(.w, .w~2, ''',
-  .w~p-1".) _: is a basis =
-  _% `;,q(.w) _: ov} _% `;,q _:1   #afhe
-  & 3sid} : l9e> comb9a;ns ( _% .w,
-  .w~2, ''', .w~p-1 _: >e left fix$ by
-  all ele;ts ( _% ,g(`;,q(.w)_/`;,q) _:4
+;c4 ,%{ t
+  _% .(.w, .w~2, ''', .w~p-1".) _: is a
+  basis = _% `;,q(.w) _: ov} _% `;,q _:1
+  & 3sid} : l9e> comb9a;ns (       #abbf
+  _% .w, .w~2, ''', .w~p-1 _: >e left
+  fix$ by all ele;ts (
+  _% ,g(`;,q(.w)_/`;,q) _:4
 
 ,app5dix ;,c ,nota;n
   ,! foll{+ table def9es ! nota;n us$ 9
@@ -4646,7 +3622,7 @@ _% ,a _"k ,b _:2 .2,a is a subset (
 _% _0 _:2 ! empty set2 ,p>agraph2 4
 _% ,a.+,b _:2 ! union ( sets .2,a &
   .2;,b 2 ,p>agraph2 4
-_% ,a.%,b _:2 ! 9t}sec;n ( sets    #afhf
+_% ,a.%,b _:2 ! 9t}sec;n ( sets    #abbg
   .2,a & .2;,b 2 ,p>agraph2 4
 _% ,a' _:2 comple;t ( ! set .2,a 2
   ,p>agraph2 4
@@ -4667,12 +3643,13 @@ _% n& _:2 .2;n factorial2 ,example #b4d2
   ,(n,)
   ,(k,)
   _:
-2 b9omial coe6ici5t _% n& _/(k&
-  (n-k)&) _: 2 ,example #b4d2 4
+2 b9omial coe6ici5t
+  _% n& _/(k& (n-k)&) _: 2 ,example
+  #b4d2 4
 _% a|b _:2 .2a divides .2;b 2 ,p>agraph2
-  4
-_% gcd (a, b) _:2 grte/ common     #afhg
-  divisor ( .2a & .2;b 2 ,p>agraph2 4
+  4                                #abbh
+_% gcd (a, b) _:2 grte/ common divisor (
+  .2a & .2;b 2 ,p>agraph2 4
 _% `;,p(,x) _:2 p{} set ( .2;,x 2
   ,ex}cise #b4d4ab2 4
 _% lcm(m, n) _:2 ! l1/ common multiple (
@@ -4695,10 +3672,9 @@ _% `;,c~`# _:2 ! multiplicative gr|p (
 _% |,g| _:2 ! ord} ( a gr|p2 ,p>agraph2
   4
 _% `;,r~`# _:2 ! multiplicative gr|p (
-  r1l numb}s2 ,example #c4bd2 4
-_% `;,q~`# _:2 ! multiplicative    #afhh
-  gr|p ( ra;nal numb}s2 ,example #c4bd2
-  4
+  r1l numb}s2 ,example #c4bd2 4    #abbi
+_% `;,q~`# _:2 ! multiplicative gr|p (
+  ra;nal numb}s2 ,example #c4bd2 4
 _% ,s,l;n"(`;,r) _:2 ! special l9e>
   gr|p2 ,example #c4bf2 4
 _% ,z(,g) _:2 ! c5t} ( a gr|p2 ,ex}cise
@@ -4721,7 +3697,7 @@ _% `(,g "1 ,h`) _:2 9dex ( a subgr|p
   .2;,h 9 a gr|p .2;,g 2 ,p>agraph2 4
 _% `;,l;,h _:2 ! set ( left cosets ( a
   subgr|p .2;,h 9 a gr|p .2;,g 2 ,!orem
-  #f4h2 4                          #afhi
+  #f4h2 4                          #abcj
 _% `;,r;,h _:2 ! set ( "r cosets ( a
   subgr|p .2;,h 9 a gr|p .2;,g 2 ,!orem
   #f4h2 4
@@ -4746,7 +3722,7 @@ _% ,aut(,g) _:2 automorphism gr|p ( a
   gr|p .2;,g 2 ,ex}cise #i4d4cg2 4
 _% i;g _:2 _% i;g"(x) .k gxg~-1 _:2
   ,ex}cise #i4d4da2 4
-_% ,inn(,g) _:2 9n} automorphism   #afij
+_% ,inn(,g) _:2 9n} automorphism   #abca
   gr|p ( a gr|p .2;,g 2 ,ex}cise
   #i4d4da2 4
 _% .r;g _:2 "r regul> repres5ta;n2
@@ -4771,7 +3747,7 @@ _% `;,o;x _:2 orbit ( .2;x 2 ,p>agraph2
 _% ,x;g _:2 fix$ po9t set ( .2;g 2
   ,p>agraph2 4
 _% ,g;x _:2 isotropy subgr|p ( .2;x 2
-  ,p>agraph2 4                     #afia
+  ,p>agraph2 4                     #abcb
 _% ,n(,h) _:2 normaliz} ( ;s subgr|p
   .2;,h 2 ,p>agraph2 4
 _% `;,h _:2 ! r+ ( quat}nions2 ,example
@@ -4796,7 +3772,7 @@ _% `;,q(x) _:2 field ( ra;nal func;ns
 _% .n(a) _:2 ,euclid1n valua;n ( .2a 2
   ,p>agraph2 4
 _% ,f(x) _:2 field ( ra;nal func;ns 9
-  .2;x 2 ,item #ah4d4g4;a2 4       #afib
+  .2;x 2 ,item #ah4d4g4;a2 4       #abcc
 _% ,f(x1, ''', x;n") _:2 field ( ra;nal
   func;ns 9 _% x1, ''', x;n _: 2 ,item
   #ah4d4g4;b2 4
@@ -4821,7 +3797,7 @@ _% ,hom(,v, ,w) _:2 set ( all l9e>
   trans=ma;ns f .2;,u 9to .2;,v 2 ,item
   #bj4e4ah4;a2 4
 _% ,v~`# _:2 dual ( a vector space .2;,v
-  2 ,item #bj4e4ah4;b2 4           #afic
+  2 ,item #bj4e4ah4;b2 4           #abcd
 _% ,f(.a1, ''', .a;n") _:2 smalle/ field
   3ta9+ .2;,f & _% .a1, ''', .a;n _: 2
   ,p>agraph2 4
@@ -4846,11 +3822,11 @@ _% .,d~2 _:2 4crim9ant ( a polynomial2
 
 
 
-                                   #afid
+                                   #abce
                ,colophon
 
   ,? book 0 au?or$ & produc$ )
-,pre,te,xt  #ah 4
+,pre,te,xt  #ab 4
 
 
 
@@ -4871,5 +3847,5 @@ _% .,d~2 _:2 4crim9ant ( a polynomial2
 
 
 
-                                   #afie
+                                   #abcf
 

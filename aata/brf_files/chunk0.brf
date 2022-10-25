@@ -3,7 +3,7 @@
           ,?omas ;,w4 ,judson
     ,de"p;t ( ,ma!matics & ,/ati/ics
    ,/eph5 ;,f4 ,au/9 ,/ate ,univ}s;y
-            ,june #cj1 #bjbb
+            ,july #bh1 #bjbb
 
 
 
@@ -37,397 +37,247 @@
         ,equival;e ,rela;ns '''''''' #af
         ,subsec;n ,set ,!ory ''''''' #af
         ,subsec;n ,c>tesian
-          ,products & ,mapp+s '''''' #bf
+          ,products & ,mapp+s '''''' #be
         ,subsec;n ,equival;e
-          ,rela;ns & ,"pi;ns ''''''' #dc
-      ,sec;n #a4f ,sage '''''''''''' #fc
-        ,subsec;n ,execut+ ,sage 
-          ,comm&s '''''''''''''''''' #fd
-        ,subsec;n ,imm ,help ''''''' #fi
-        ,subsec;n ,annotat+ ,yr ,"w  #gb
-        ,subsec;n ,li/s '''''''''''' #gc
-        ,subsec;n ,li/s ( ,9teg}s '' #gh
-        ,subsec;n ,sav+ & ,%>+        #b
-          ,yr ,"w '''''''''''''''''' #hj
-  ,*apt} #b ,! ,9teg}s ''''''''''''' #hc
+          ,rela;ns & ,"pi;ns ''''''' #dd
+  ,*apt} #b ,! ,9teg}s ''''''''''''' #ff
       ,sec;n #b4a ,ma!matical 
-        ,9duc;n '''''''''''''''''''' #hc
+        ,9duc;n '''''''''''''''''''' #ff
       ,sec;n #b4b ,! ,divi.n 
-        ,algori?m '''''''''''''''''' #ie
+        ,algori?m '''''''''''''''''' #ge
         ,subsec;n ,! ,euclid1n 
-          ,algori?m ''''''''''''''' #ajj
-        ,subsec;n ,prime ,numb}s '' #ajc
-        ,subsec;n ,hi/orical ,note  #ajg
-      ,sec;n #b4g ,sage ''''''''''' #aai
-        ,subsec;n ,divi.n ,algori?m #aai
-        ,subsec;n ,grte/ ,common 
-          ,divisor '''''''''''''''' #abb
-        ,subsec;n ,primes & 
-          ,factor+ '''''''''''''''' #abe
-  ,*apt} #c ,gr|ps '''''''''''''''' #acd
+          ,algori?m '''''''''''''''' #hj
+        ,subsec;n ,prime ,numb}s #hd  #b
+        ,subsec;n ,hi/orical ,note   #hh
+  ,*apt} #c ,gr|ps '''''''''''''''' #aja
       ,sec;n #c4a ,9teg}
         ,equival;e ,classes & 
-        ,symmetries ''''''''''''''' #acd
+        ,symmetries ''''''''''''''' #aja
         ,subsec;n ,! ,9teg}s mod 
-          .2;n '''''''''''''''''''' #ace
-        ,subsec;n ,symmetries ''''' #adb
+          .2;n '''''''''''''''''''' #ajb
+        ,subsec;n ,symmetries ''''' #aji
       ,sec;n #c4b ,def9i;ns & 
-        ,examples ''''''''''''' #aej  #c
-        ,subsec;n ,basic
-          ,prop}ties ( ,gr|ps ''''' #afj
-        ,subsec;n ,hi/orical ,note  #aff
-      ,sec;n #c4c ,subgr|ps ''''''' #afh
+        ,examples ''''''''''''''''' #aah
+        ,subsec;n ,basic
+          ,prop}ties ( ,gr|ps ''''' #abh
+        ,subsec;n ,hi/orical ,note  #ace
+      ,sec;n #c4c ,subgr|ps ''''''' #acf
         ,subsec;n ,def9i;ns & 
-          ,examples ''''''''''''''' #afh
+          ,examples ''''''''''''''' #acf
         ,subsec;n ,"s ,subgr|p 
-          ,!orems ''''''''''''''''' #agc
-      ,sec;n #c4h ,sage ''''''''''' #aif
-        ,subsec;n ,9teg}s mod ;n '' #aig
-        ,subsec;n ,gr|ps ( 
-          symmetries '''''''''''''' #bjc
-        ,subsec;n ,quat}nions ''''' #baj
-        ,subsec;n ,subgr|ps ''''''' #bae
-  ,*apt} #d ,cyclic ,gr|ps '''''''' #bba
-      ,sec;n #d4a ,cyclic ,subgr|ps #bba
+          ,!orems ''''''''''''''''' #adb
+  ,*apt} #d ,cyclic ,gr|ps '''''''' #afg
+      ,sec;n #d4a ,cyclic ,subgr|ps #afg
         ,subsec;n ,subgr|ps (
-          ,cyclic ,gr|ps '''''''''' #bbh
+          ,cyclic ,gr|ps '''''''''' #agd
       ,sec;n #d4b ,multiplicative
-        ,gr|p ( ,complex ,numb}s '' #bcd
-        ,subsec;n ,! ,circle ,gr|p
-          & ! ,roots ( ,un;y '''''' #bdd
+        ,gr|p ( ,complex ,numb}s '' #ahj
+        ,subsec;n ,! ,circle          #c
+          ,gr|p & ! ,roots ( ,un;y  #aij
       ,sec;n #d4c ,! ,me?od (
-        ,rep1t$ ,squ>es ''''''''''' #bdi
-      ,sec;n #d4h ,sage ''''''' #bff  #d
-        ,subsec;n ,9f9ite ,cyclic 
-          ,gr|ps '''''''''''''''''' #bfg
-        ,subsec;n ,additive
-          ,cyclic ,gr|ps '''''''''' #bfh
-        ,subsec;n ,ab/ract
-          ,multiplicative ,cyclic 
-          ,gr|ps '''''''''''''''''' #bgi
-        ,subsec;n ,cyclic
-          ,p}muta;n ,gr|ps '''''''' #bhe
-        ,subsec;n ,cayley ,tables   #bhi
-        ,subsec;n ,complex ,roots
-          ( ,un;y ''''''''''''''''' #bia
-  ,*apt} #e ,p}muta;n ,gr|ps '''''' #cjb
+        ,rep1t$ ,squ>es ''''''''''' #aie
+  ,*apt} #e ,p}muta;n ,gr|ps '''''' #bac
       ,sec;n #e4a ,def9i;ns & 
-        ,nota;n ''''''''''''''''''' #cjc
-        ,subsec;n ,cycle ,nota;n '' #cjg
-        ,subsec;n ,transposi;ns ''' #caf
+        ,nota;n ''''''''''''''''''' #bad
+        ,subsec;n ,cycle ,nota;n '' #bah
+        ,subsec;n ,transposi;ns ''' #bbf
         ,subsec;n ,! ,alt}nat+ 
-          ,gr|ps '''''''''''''''''' #cba
-        ,subsec;n ,hi/orical ,note  #cbd
-      ,sec;n #e4b ,dih$ral ,gr|ps   #cbe
+          ,gr|ps '''''''''''''''''' #bcb
+        ,subsec;n ,hi/orical ,note  #bce
+      ,sec;n #e4b ,dih$ral ,gr|ps   #bcf
         ,subsec;n ,! ,mo;n ,gr|p (
-          a ,cube ''''''''''''''''' #ccg
-      ,sec;n #e4e ,sage ''''''''''' #ceb
-        ,subsec;n ,p}muta;n           #e
-          ,gr|ps & ,ele;ts '''''''' #cec
-        ,subsec;n ,prop}ties (
-          ,p}muta;n ,ele;ts ''''''' #cfd
-        ,subsec;n ,mo;n ,gr|p ( a 
-          ,cube ''''''''''''''''''' #cgc
+          a ,cube ''''''''''''''''' #bdh
   ,*apt} #f ,cosets & ,lagrange's 
-    ,!orem '''''''''''''''''''''''' #chb
-      ,sec;n #f4a ,cosets ''''''''' #chb
+    ,!orem '''''''''''''''''''''''' #bfe
+      ,sec;n #f4a ,cosets ''''''''' #bfe
       ,sec;n #f4b ,lagrange's 
-        ,!orem '''''''''''''''''''' #chi
+        ,!orem '''''''''''''''''''' #bgb
       ,sec;n #f4c ,f}mat's &
-        ,eul}'s ,!orems ''''''''''' #cig
-        ,subsec;n ,hi/orical ,note  #cii
-      ,sec;n #f4f ,sage ''''''''''' #djf
-        ,subsec;n ,cosets ''''''''' #djf
-        ,subsec;n ,subgr|ps ''''''' #dab
-        ,subsec;n ,subgr|ps (
-          ,cyclic ,gr|ps '''''''''' #dag
-        ,subsec;n ,eul} ,phi 
-          ,func;n ''''''''''''''''' #dai
+        ,eul}'s ,!orems ''''''''''' #bhj
+        ,subsec;n ,hi/orical ,note  #bhb
   ,*apt} #g ,9troduc;n to 
-    ,cryptography ''''''''''''''''' #dbi
-      ,sec;n #g4a ,private ,key 
-        ,cryptography ''''''''''''' #dca
-      ,sec;n #g4b ,public ,key        #f
-        ,cryptography ''''''''''''' #dcg
+    ,cryptography ''''''''''''''''' #bij
+      ,sec;n #g4a ,private            #d
+        ,key ,cryptography '''''''' #bib
+      ,sec;n #g4b ,public ,key 
+        ,cryptography ''''''''''''' #bii
         ,subsec;n ,! ,,rsa 
-          ,cryptosy/em '''''''''''' #dch
+          ,cryptosy/em '''''''''''' #bii
         ,subsec;n ,message 
-          ,v}ifica;n '''''''''''''' #ddc
-        ,subsec;n ,hi/orical ,note  #ddd
-      ,sec;n #g4g ,sage ''''''''''' #deh
-        ,subsec;n ,3/ruct+ ,keys '' #deh
-        ,subsec;n ,sign+ & ,5cod+
-          a ,message '''''''''''''' #dfd
-        ,subsec;n ,decod+ &
-          ,v}ify+ a ,message '''''' #dfg
-  ,*apt} #h ,algebraic ,cod+ ,!ory  #dge
+          ,v}ifica;n '''''''''''''' #cjd
+        ,subsec;n ,hi/orical ,note  #cje
+  ,*apt} #h ,algebraic ,cod+ ,!ory  #cba
       ,sec;n #h4a ,}ror-,detect+ &
-        ,correct+ ,codes '''''''''' #dge
+        ,correct+ ,codes '''''''''' #cba
         ,subsec;n
           ,maximum-,likelihood 
-          ,decod+ ''''''''''''''''' #dhd
-        ,subsec;n ,block ,codes ''' #dia
-        ,subsec;n ,hi/orical ,note  #ejj
-      ,sec;n #h4b ,l9e> ,codes '''' #eja
-        ,subsec;n ,l9e> ,codes '''' #eje
+          ,decod+ ''''''''''''''''' #ccj
+        ,subsec;n ,block ,codes ''' #ccg
+        ,subsec;n ,hi/orical ,note  #cde
+      ,sec;n #h4b ,l9e> ,codes '''' #cdf
+        ,subsec;n ,l9e> ,codes '''' #cea
       ,sec;n #h4c ,p>;y-,*eck &
-        ,g5}ator ,matrices '''''''' #eaa
-      ,sec;n #h4d ,e6ici5t            #g
-        ,decod+ ''''''''''''''''''' #ebh
-        ,subsec;n ,coset ,decod+ '' #ecc
-      ,sec;n #h4i ,sage ''''''''''' #eef
-        ,subsec;n ,3/ruct+ ,l9e> 
-          ,codes '''''''''''''''''' #eef
-        ,subsec;n ,prop}ties (
-          ,l9e> ,codes '''''''''''' #eeg
-        ,subsec;n ,decod+ ) a
-          ,l9e> ,code ''''''''''''' #efb
-  ,*apt} #i ,isomorphisms ''''''''' #ega
+        ,g5}ator ,matrices '''''''' #cef
+      ,sec;n #h4d ,e6ici5t ,decod+  #cgd
+        ,subsec;n ,coset ,decod+ '' #cgi
+  ,*apt} #i ,isomorphisms ''''''''' #djc
       ,sec;n #i4a ,def9i;n & 
-        ,examples ''''''''''''''''' #ega
-        ,subsec;n ,cayley's ,!orem  #ehj
-        ,subsec;n ,hi/orical ,note  #ehd
-      ,sec;n #i4b ,direct ,products #ehe
+        ,examples ''''''''''''' #djc  #e
+        ,subsec;n ,cayley's ,!orem  #dab
+        ,subsec;n ,hi/orical ,note  #daf
+      ,sec;n #i4b ,direct ,products #dag
         ,subsec;n ,ext}nal ,direct
-          ,products ''''''''''''''' #ehe
+          ,products ''''''''''''''' #dag
         ,subsec;n ,9t}nal ,direct 
-          ,products ''''''''''''''' #eid
-      ,sec;n #i4e ,sage ''''''''''' #fac
-        ,subsec;n ,isomorphism 
-          ,te/+ ''''''''''''''''''' #fac
-        ,subsec;n ,classify+
-          ,f9ite ,gr|ps ''''''''''' #fag
-        ,subsec;n ,9t}nal             #h
-          ,direct ,products ''''''' #fbb
+          ,products ''''''''''''''' #dbf
   ,*apt} #aj ,normal ,subgr|ps &
-    ,factor ,gr|ps '''''''''''''''' #fcb
+    ,factor ,gr|ps '''''''''''''''' #ddf
       ,sec;n #aj4a ,factor ,gr|ps
-        & ,normal ,subgr|ps ''''''' #fcb
-        ,subsec;n ,normal ,subgr|ps #fcb
-        ,subsec;n ,factor ,gr|ps '' #fcf
+        & ,normal ,subgr|ps ''''''' #ddf
+        ,subsec;n ,normal ,subgr|ps #ddf
+        ,subsec;n ,factor ,gr|ps '' #dej
       ,sec;n #aj4b ,! ,simplic;y (
-        ! ,alt}nat+ ,gr|p ''''''''' #fda
-        ,subsec;n ,hi/orical ,note  #fea
-      ,sec;n #aj4e ,sage '''''''''' #feh
-        ,subsec;n ,multiply+ 
-          ,cosets ''''''''''''''''' #feh
-        ,subsec;n ,sage ,me?ods =
-          ,normal ,subgr|ps ''''''' #fff
-  ,*apt} #aa ,homomorphisms ''''''' #fgd
+        ! ,alt}nat+ ,gr|p ''''''''' #dee
+        ,subsec;n ,hi/orical ,note  #dfd
+  ,*apt} #aa ,homomorphisms ''''''' #dgb
       ,sec;n #aa4a ,gr|p 
-        ,homomorphisms '''''''''''' #fgd
+        ,homomorphisms '''''''''''' #dgb
       ,sec;n #aa4b ,! ,isomorphism
-        ,!orems ''''''''''''''''''' #fhc
-      ,sec;n #aa4f ,sage '''''''''' #gja
-        ,subsec;n ,homomorphisms '' #gja
+        ,!orems ''''''''''''''''''' #dha
   ,*apt} #ab ,matrix ,gr|ps & 
-    ,symmetry ''''''''''''''''''''' #gba
-      ,sec;n #ab4a ,matrix            #i
-        ,gr|ps '''''''''''''''''''' #gba
-        ,subsec;n ,"s ,facts f
-          ,l9e> ,algebra '''''''''' #gba
+    ,symmetry ''''''''''''''''''''' #ejb
+      ,sec;n #ab4a ,matrix ,gr|ps   #ejb
+        ,subsec;n ,"s ,facts f        #f
+          ,l9e> ,algebra '''''''''' #ejb
         ,subsec;n ,! ,g5}al &
-          ,special ,l9e> ,gr|ps ''' #gbh
+          ,special ,l9e> ,gr|ps ''' #eji
         ,subsec;n ,! ,or?ogonal
-          ,gr|p _% ,o(n) _: ''''''' #gca
-      ,sec;n #ab4b ,symmetry '''''' #gdc
+          ,gr|p _% ,o(n) _: ''''''' #eab
+      ,sec;n #ab4b ,symmetry '''''' #ebe
         ,subsec;n ,! ,wallpap} 
-          ,gr|ps '''''''''''''''''' #gea
-        ,subsec;n ,hi/orical ,note  #gfg
-      ,sec;n #ab4f ,sage '''''''''' #ggg
-  ,*apt} #ac ,! ,/ructure ( ,gr|ps #ggi
+          ,gr|ps '''''''''''''''''' #ecc
+        ,subsec;n ,hi/orical ,note  #edh
+  ,*apt} #ac ,! ,/ructure ( ,gr|ps #eei
       ,sec;n #ac4a ,f9ite ,abelian
-        ,gr|ps '''''''''''''''''''' #ghj
-      ,sec;n #ac4b ,solvable ,gr|ps #gif
-      ,sec;n #ac4g ,sage '''''''''' #hac
-        ,subsec;n ,classifica;n (
-          ,f9ite ,gr|ps ''''''''''' #had
-        ,subsec;n ,gr|ps ( ,small
-          ,ord} z ,p}muta;n ,gr|ps  #hah
-  ,*apt} #ad ,gr|p ,ac;ns ''''''''' #hbb
+        ,gr|ps '''''''''''''''''''' #efj
+      ,sec;n #ac4b ,solvable ,gr|ps #egf
+  ,*apt} #ad ,gr|p ,ac;ns ''''''''' #eif
       ,sec;n #ad4a ,gr|ps ,act+ on
-        ,sets ''''''''''''''''''''' #hbb
-      ,sec;n #ad4b ,! ,class         #aj
-        ,equa;n ''''''''''''''''''' #hcc
+        ,sets ''''''''''''''''''''' #eif
+      ,sec;n #ad4b ,! ,class 
+        ,equa;n ''''''''''''''''''' #fjg
       ,sec;n #ad4c ,burnside's
-        ,c.t+ ,!orem '''''''''''''' #hch
+        ,c.t+ ,!orem '''''''''''''' #fac
         ,subsec;n ,a ,geometric 
-          ,example '''''''''''''''' #hdd
-        ,subsec;n ,swit*+ ,func;ns  #hej
-        ,subsec;n ,hi/orical ,note  #hfj
-      ,sec;n #ad4h ,sage '''''''''' #hga
-        ,subsec;n ,3juga;n z a
-          ,gr|p ,ac;n ''''''''''''' #hgb
-        ,subsec;n ,graph 
-          ,automorphisms '''''''''' #hgg
-  ,*apt} #ae ,! ,syl{ ,!orems ''''' #hia
-      ,sec;n #ae4a ,! ,syl{ ,!orems #hia
-        ,subsec;n ,hi/orical ,note  #ijc
+          ,example '''''''''''''''' #fai
+        ,subsec;n ,swit*+ ,func;ns  #fbf
+        ,subsec;n ,hi/orical ,note  #fce
+  ,*apt} #ae ,! ,syl{ ,!orems   #fdh  #g
+      ,sec;n #ae4a ,! ,syl{ ,!orems #fdh
+        ,subsec;n ,hi/orical ,note  #ffj
       ,sec;n #ae4b ,examples & 
-        ,applica;ns ''''''''''''''' #ijd
+        ,applica;ns ''''''''''''''' #ffa
         ,subsec;n ,f9ite ,simple 
-          ,gr|ps '''''''''''''''''' #iaj
-      ,sec;n #ae4g ,sage '''''''''' #ibf
-        ,subsec;n ,syl{ ,subgr|ps   #ibf
-        ,subsec;n ,normaliz}s ''''' #icd
-        ,subsec;n ,f9ite ,simple 
-          ,gr|ps '''''''''''''''''' #ici
-        ,subsec;n ,,gap              #aa
-          ,3sole & ,9t}face ''''''' #idc
-  ,*apt} #af ,r+s ''''''''''''''''' #iec
-      ,sec;n #af4a ,r+s ''''''''''' #iec
+          ,gr|ps '''''''''''''''''' #ffg
+  ,*apt} #af ,r+s ''''''''''''''''' #fhc
+      ,sec;n #af4a ,r+s ''''''''''' #fhc
       ,sec;n #af4b ,9tegral
-        ,doma9s & ,fields ''''''''' #ifg
+        ,doma9s & ,fields ''''''''' #fig
       ,sec;n #af4c ,r+
-        ,homomorphisms & ,id1ls ''' #igd
+        ,homomorphisms & ,id1ls ''' #gjd
       ,sec;n #af4d ,maximal &
-        ,prime ,id1ls ''''''''''''' #ihh
-        ,subsec;n ,hi/orical ,note  #iic
+        ,prime ,id1ls ''''''''''''' #gah
+        ,subsec;n ,hi/orical ,note  #gbd
       ,sec;n #af4e ,an ,applica;n
-        to ,s(tw>e ,design '''''''' #iif
-      ,sec;n #af4aj ,sage '''''''' #ajba
-        ,subsec;n ,cr1t+ ,r+s '''' #ajbb
-        ,subsec;n ,prop}ties ( 
-          ,r+s ''''''''''''''''''' #ajbh
-        ,subsec;n ,quoti5t 
-          ,/ructure '''''''''''''' #ajda
-        ,subsec;n ,r+ 
-          ,homomorphisms ''''''''' #ajdi
-  ,*apt} #ag ,polynomials '''''''' #ajef
-      ,sec;n #ag4a ,polynomial 
-        ,r+s ''''''''''''''''''''' #ajeg
+        to ,s(tw>e ,design '''''''' #gbg
+  ,*apt} #ag ,polynomials ''''''''' #ged
+      ,sec;n #ag4a ,polynomial ,r+s #gee
       ,sec;n #ag4b ,! ,divi.n 
-        ,algori?m ''''''''''' #ajfg  #ab
-      ,sec;n #ag4c ,irr$ucible 
-        ,polynomials ''''''''''''' #ajgh
+        ,algori?m ''''''''''''''''' #gfe
+      ,sec;n #ag4c ,irr$ucible 
+        ,polynomials '''''''''''''' #ggg
         ,subsec;n ,id1ls 9 
-          _% ,f`(x`) _: '''''''''' #ajhi
-        ,subsec;n ,hi/orical ,note #ajic
-      ,sec;n #ag4g ,sage ''''''''' #aaaj
-        ,subsec;n ,polynomial ,r+s
-          & _! ,ele;ts ''''''''''' #aaaj
-        ,subsec;n ,irr$ucible 
-          ,polynomials ''''''''''' #aaah
-        ,subsec;n ,polynomials ov}
-          ,fields '''''''''''''''' #aabd
-  ,*apt} #ah ,9tegral ,doma9s '''' #aacd
+          _% ,f`(x`) _: ''''''' #ghh  #h
+        ,subsec;n ,hi/orical ,note  #gib
+  ,*apt} #ah ,9tegral ,doma9s ''''' #haj
       ,sec;n #ah4a ,fields ( 
-        ,frac;ns ''''''''''''''''' #aacd
+        ,frac;ns '''''''''''''''''' #haj
       ,sec;n #ah4b ,factoriza;n 9
-        ,9tegral ,doma9s ''''''''' #aadf
+        ,9tegral ,doma9s '''''''''' #hbb
         ,subsec;n ,pr9cipal ,id1l 
-          ,doma9s '''''''''''''''' #aaej
-        ,subsec;n ,euclid1n 
-          ,doma9s '''''''''''''''' #aafj
+          ,doma9s ''''''''''''''''' #hbf
+        ,subsec;n ,euclid1n ,doma9s #hcg
         ,subsec;n ,factoriza;n 9 
-          _% ,d`(x`) _: '''''''''' #aafe
-        ,subsec;n ,hi/orical ,note #aage
-      ,sec;n #ah4f ,sage '''' #aahg  #ac
-        ,subsec;n ,field ( 
-          ,frac;ns ''''''''''''''' #aahg
-        ,subsec;n ,prime 
-          ,subfields ''''''''''''' #aahi
-        ,subsec;n ,9tegral ,doma9s #aaib
-        ,subsec;n ,pr9cipal ,id1ls #aaie
+          _% ,d`(x`) _: ''''''''''' #hdc
+        ,subsec;n ,hi/orical ,note  #hec
   ,*apt} #ai ,lattices & ,bool1n 
-    ,algebras '''''''''''''''''''' #aaih
-      ,sec;n #ai4a ,lattices ''''' #aaih
+    ,algebras ''''''''''''''''''''' #hff
+      ,sec;n #ai4a ,lattices '''''' #hff
         ,subsec;n ,"pially ,ord}$ 
-          ,sets '''''''''''''''''' #aaih
+          ,sets ''''''''''''''''''' #hff
       ,sec;n #ai4b ,bool1n 
-        ,algebras '''''''''''''''' #abad
+        ,algebras ''''''''''''''''' #hhb
         ,subsec;n ,f9ite ,bool1n 
-          ,algebras '''''''''''''' #abbb
+          ,algebras ''''''''''''''' #hij
       ,sec;n #ai4c ,! ,algebra (
-        ,electrical ,circuits '''' #abca
-        ,subsec;n ,hi/orical ,note #abdg
-      ,sec;n #ai4h ,sage ''''''''' #abeh
-        ,subsec;n ,cr1t+ ,"pially
-          ,ord}$ ,sets ''''''''''' #abeh
-        ,subsec;n ,prop}ties ( a 
-          ,poset ''''''''''''''''' #abfc
-        ,subsec;n ,lattices '''''' #abgj
-  ,*apt} #bj ,vector ,spaces  #abhb  #ad
+        ,electrical ,circuits ''''' #hii
+        ,subsec;n ,hi/orical ,note  #iae
+  ,*apt} #bj ,vector ,spaces '' #ibg  #i
       ,sec;n #bj4a ,def9i;ns & 
-        ,examples '''''''''''''''' #abhb
-      ,sec;n #bj4b ,subspaces '''' #abhg
-      ,sec;n #bj4c ,l9e> ,9dep5d;e #abia
-      ,sec;n #bj4g ,sage ''''''''' #acjh
-        ,subsec;n ,vector ,spaces  #acji
-        ,subsec;n ,subspaces ''''' #acac
-        ,subsec;n ,l9e> ,9dep5d;e  #acag
-        ,subsec;n ,ab/ract ,vector
-          ,spaces '''''''''''''''' #acai
-        ,subsec;n ,l9e> ,algebra   #acbe
-  ,*apt} #ba ,fields ''''''''''''' #accb
-      ,sec;n #ba4a ,ext5.n ,fields #accc
+        ,examples ''''''''''''''''' #ibg
+      ,sec;n #bj4b ,subspaces ''''' #icb
+      ,sec;n #bj4c ,l9e> ,9dep5d;e  #icf
+  ,*apt} #ba ,fields '''''''''''''' #iee
+      ,sec;n #ba4a ,ext5.n ,fields  #ief
         ,subsec;n ,algebraic 
-          ,ele;ts '''''''''''''''' #acdj
+          ,ele;ts ''''''''''''''''' #ifc
         ,subsec;n ,algebraic 
-          ,closure ''''''''''''''' #acfa
-      ,sec;n #ba4b ,splitt+ 
-        ,fields '''''''''''''''''' #acfe
+          ,closure '''''''''''''''' #ihd
+      ,sec;n #ba4b ,splitt+ ,fields #ihi
       ,sec;n #ba4c ,geometric 
-        ,3/ruc;ns '''''''''''''''' #acgd
+        ,3/ruc;ns ''''''''''''''''' #iih
         ,subsec;n ,3/ructible 
-          ,numb}s '''''''''''''''' #acgf
+          ,numb}s '''''''''''''''' #ajjj
         ,subsec;n ,d|bl+ ! ,cube &
-          ,squ>+ ! ,circle '' #achh  #ae
-        ,subsec;n ,trisect+ an 
-          ,angle ''''''''''''''''' #achi
-        ,subsec;n ,hi/orical ,note #acia
-      ,sec;n #ba4g ,sage ''''''''' #adjb
-        ,subsec;n ,numb} ,fields   #adjb
-        ,subsec;n ,relative &
-          ,absolute ,numb} ,fields #adjg
-        ,subsec;n ,splitt+ ,fields #adac
-        ,subsec;n ,algebraic 
-          ,numb}s '''''''''''''''' #adba
-        ,subsec;n ,geometric 
-          ,3/ruc;ns '''''''''''''' #adbe
-  ,*apt} #bb ,f9ite ,fields '''''' #adcb
+          ,squ>+ ! ,circle ''''''' #ajab
+        ,subsec;n ,trisect+ an 
+          ,angle ''''''''''''''''' #ajac
+        ,subsec;n ,hi/orical ,note #ajae
+  ,*apt} #bb ,f9ite ,fields '''''' #ajbg
       ,sec;n #bb4a ,/ructure ( a
-        ,f9ite ,field '''''''''''' #adcb
+        ,f9ite ,field '''''''''''' #ajbg
       ,sec;n #bb4b ,polynomial 
-        ,codes ''''''''''''''''''' #addi
-        ,subsec;n ,polynomial 
-          ,codes ''''''''''''''''' #adec
-        ,subsec;n ,,b* ,codes '''' #adga
-      ,sec;n #bb4g ,sage ''''''''' #adhg
-        ,subsec;n ,cr1t+ ,f9ite 
-          ,fields '''''''''''''''' #adhh
-        ,subsec;n ,log>i?ms 9
-          ,f9ite ,fields '''' #adia  #af
-  ,*apt} #bc ,galois ,!ory ''''''' #aeja
+        ,codes '''''''''''''' #ajdd  #aj
+        ,subsec;n ,polynomial 
+          ,codes ''''''''''''''''' #ajdh
+        ,subsec;n ,,b* ,codes '''' #ajfe
+  ,*apt} #bc ,galois ,!ory ''''''' #ajhc
       ,sec;n #bc4a ,field 
-        ,automorphisms ''''''''''' #aejb
+        ,automorphisms ''''''''''' #ajhd
         ,subsec;n ,sep>able 
-          ,ext5.ns ''''''''''''''' #aead
+          ,ext5.ns ''''''''''''''' #ajig
       ,sec;n #bc4b ,! ,funda;tal 
-        ,!orem ''''''''''''''''''' #aeai
-        ,subsec;n ,hi/orical ,note #aedd
-      ,sec;n #bc4c ,applica;ns ''' #aede
+        ,!orem ''''''''''''''''''' #aajb
+        ,subsec;n ,hi/orical ,note #aabf
+      ,sec;n #bc4c ,applica;ns ''' #aabg
         ,subsec;n ,solvabil;y by 
-          ,radicals '''''''''''''' #aede
+          ,radicals '''''''''''''' #aabg
         ,subsec;n ,9solvabil;y ( !
-          ,qu9tic '''''''''''''''' #aeed
+          ,qu9tic '''''''''''''''' #aacg
         ,subsec;n ,! ,funda;tal
-          ,!orem ( ,algebra '''''' #aefj
-      ,sec;n #bc4g ,sage ''''''''' #aegb
-        ,subsec;n ,galois ,gr|ps   #aegb
-        ,subsec;n ,fix$ ,fields '' #aehd
-        ,subsec;n ,galois 
-          ,correspond;e '''''''''' #aeic
-        ,subsec;n ,normal ,ext5.ns #afjh
+          ,!orem ( ,algebra '''''' #aadc
   ,h9ts & ,answ}s to ,select$ 
-    ,ex}cises '''''''''''''''''''' #afdb
-  ,colophon '''''''''''''''''''''' #afie
-                                     #ag
+    ,ex}cises '''''''''''''''''''' #aagi
+  ,colophon '''''''''''''''''''''' #abcf
+
+
+
+                                     #aa
                ,colophon
 
-  ~1,$i;n ,annual ,$i;n #bjba
+  ~1,$i;n ,annual ,$i;n #bjbb
   ~1,website ab/ract4pugets.d4$u
-  ~c#aiig,-#bjba ,?omas ;,w4 ,judson1
+  ~c#aiig,-#bjbb ,?omas ;,w4 ,judson1
 ,rob}t ,a4 ,beez}
   ,p}mis.n is grant$ to copy1 4tribute
 &_/or modify ? docu;t "u ! t}ms ( !
@@ -614,10 +464,10 @@ at ! 5d ( ea* *apt}1 9clud+ live ,sage
 cells 9 ! web v}.n ( ! book4 ,all ( !
 ,sage code has be5 subject to automat$
 te/s ( a3uracy1 us+ ! mo/ rec5t v}.n
-available at ? "t3 ,sage,ma? ,v}.n #i4c
-"<rel1s$ #bjba-#je-#ji">4
+available at ? "t3 ,sage,ma? ,v}.n #i4f
+"<rel1s$ #bjbb-#je-#ae">4
 ,?omas ;,w4 ,judson
-,nacogdo*es1 ,texas #bjba
+,nacogdo*es1 ,texas #bjbb
 
 
 
