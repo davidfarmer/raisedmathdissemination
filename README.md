@@ -33,6 +33,8 @@ semantic version of the expression, including a spoken description.
 A method for navigating complicated structures, including chemical
 formulas and mathematical equations.
 
+* Evert Rasing's sonification tool (what is the name and link?)
+
 * New tools under preliminary development, including an easier way to author
 accessible graphs and diagrams, and an easier way to write mathematics.
 
